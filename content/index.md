@@ -9,4 +9,4 @@
 
 *The Haustorium is not quite so kind as Hush House, but the foolish do not become librarians.*
 
-Welcome, early readers. Give exploration a try, beginning with the [[apachita]] that guides the Know to the Haustorium.
+Welcome, early readers. Give exploration a try, beginning with the [[apachita|Apachita]] that guides the Know to the Haustorium.

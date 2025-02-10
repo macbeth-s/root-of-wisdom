@@ -9,4 +9,4 @@ Desc
 **Effect:**
 **Mastery:**
 ## Aspects
-#Readable
+- #Readable

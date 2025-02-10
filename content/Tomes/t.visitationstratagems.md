@@ -12,10 +12,10 @@ The March and the Vestibule are daunting but not insurmountable. Keep your eyes 
 **Effect:** [Memory: Fear](https://uadaf.theevilroot.xyz/rowenarium/element/mem.fear)
 **Mastery:** [Lesson: Path & Pilgrim](https://uadaf.theevilroot.xyz/rowenarium/element/x.path.pilgrim) (x1)
 ## Aspects
-Mystery: Rose 4
-#Codex
-Tally Price 1
-Subject: Path & Pilgrim
-#Readable
-#Thing
-[[wing.archive]] 
+- Mystery: Rose 4
+- #Codex
+- Tally Price 1
+- Subject: Path & Pilgrim
+- #Readable
+- #Thing
+- [[wing.archive|Watchman's Archive]] 

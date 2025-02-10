@@ -10,4 +10,4 @@ Initial Location: [[]]
 
 **Effect**: [Memory: Sight](https://uadaf.theevilroot.xyz/rowenarium/element/mem.sight)
 ## Aspects
-#WallArt
+- #WallArt

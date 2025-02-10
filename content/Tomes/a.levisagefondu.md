@@ -12,7 +12,7 @@ The scultpture bears a resemblance, certainly, to the few photographs of Brisset
 **Effect:** [Memory:Hindsight](https://uadaf.theevilroot.xyz/rowenarium/element/mem.hindsight)
 **Mastery:** [Lesson: Putrefactions & Calcinations](https://uadaf.theevilroot.xyz/rowenarium/element/x.putrefactions.calcinations) (x1)
 ## Aspects
-Mystery: Forge 6
-[[artifact]]
-#Readable
-#Thing
+- Mystery: Forge 6
+- [[artifact|Artifact]]
+- #Readable
+- #Thing

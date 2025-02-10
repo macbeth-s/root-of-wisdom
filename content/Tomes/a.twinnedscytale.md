@@ -10,8 +10,8 @@ Both rods were excavated from Zakros twenty years ago, and dated to 1500 BC. Que
 **Effect:** [Confounding Parable](https://uadaf.theevilroot.xyz/rowenarium/element/confounding.parable)
 **Mastery:** [Lesson: Sky Stories](https://uadaf.theevilroot.xyz/rowenarium/element/x.sky.stories)) (x1)
 ## Aspects
-Mystery: Sky 6
-Written in Ramsund
-[[artifact]]
-#Readable
-#Thing
+- Mystery: Sky 6
+- Written in Ramsund
+- [[artifact|Artifact]]
+- #Readable
+- #Thing

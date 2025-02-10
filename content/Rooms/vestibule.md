@@ -1,6 +1,6 @@
 ---
 aliases:
-  - roomname
+
 tags:
   - rooms
   - WatchmansArchive
@@ -16,7 +16,7 @@ Opening it will Expose:
 - [[grandentrance|Grand Entrance]]
 - [[Terrace Garden]]
 ## Contents
-- [[Serve Here]]
+- [Serve Here](https://uadaf.theevilroot.xyz/rowenarium/verb/station.serving.lodge)
 - Uncatalogued Book ([[wing.archive|Archive]]) (x2)
 - Uncatalogued Book ([[wing.ostello|Ostello]])
 - [[t.livesunceasing|Lives Unceasing]]

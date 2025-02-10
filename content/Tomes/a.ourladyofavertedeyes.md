@@ -12,8 +12,8 @@ The material streaked down her face is not mortal blood, but it is a kind of gol
 **Effect:** [Memory: Hindsight](https://uadaf.theevilroot.xyz/rowenarium/element/mem.hindsight)
 **Mastery:** [Lesson: Coil & Chasm](https://uadaf.theevilroot.xyz/rowenarium/element/x.coil.chasm)
 ## Aspects
-Mystery: Scale 6
-[[artifact]]
-#Readable
-#Thing
+- Mystery: Scale 6
+- [[artifact|Artifact]]
+- #Readable
+- #Thing
 

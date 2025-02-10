@@ -11,7 +11,7 @@ When someone was buried, one of these often accompanied them into the grave. The
 **Effect:** Memory: Solace
 **Mastery:** Lesson: Quenchings & Quellings (x2)
 ## Aspects
-Mystery: Winter 8
-[[artifact]]
-#Readable
-#Thing
+- Mystery: Winter 8
+- [[artifact|Artifact]]
+- #Readable
+- #Thing

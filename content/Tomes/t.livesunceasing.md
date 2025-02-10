@@ -13,11 +13,11 @@ This is not an occult text. Our religions are not magic, and our culture is not 
 **Effect:** [Memory:Solace](https://uadaf.theevilroot.xyz/rowenarium/element/mem.solace)
 **Mastery:** [Lesson: Rhyme & Remembrance](https://uadaf.theevilroot.xyz/rowenarium/element/x.rhyme.remembrance)
 ## Aspects
-Mystery: Heart 4
-[[w.nahuatl]]
-Codex
-Tally Price 1
-Subject: Rhyme & Remembrance
-#Readable
-#Thing
-[[wing.archive]]
+- Mystery: Heart 4
+- [[w.nahuatl|Written in Nahuatl]]
+- Codex
+- Tally Price 1
+- Subject: Rhyme & Remembrance
+- #Readable
+- #Thing
+- [[wing.archive|Watchman's Archive]]
