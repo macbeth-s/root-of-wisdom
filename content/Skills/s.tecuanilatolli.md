@@ -23,4 +23,3 @@ There is a very old story known to astronomers, about the first of their number.
 | Principle | Challenge | Requirement | Result |
 | --------- | --------- | ----------- | ------ |
 | -         | -         | -           | -      |
-| -         |           |             |        |

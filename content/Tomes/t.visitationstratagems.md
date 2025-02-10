@@ -4,7 +4,7 @@ tags: []
 # Visitation Stratagems
 A flimsy pamphlet by Don Óscar Zavala, advising the foolish Know who have chosen to deepen their learning at the Haustorium.
 
-Initial Location: [[apachita]]
+Initial Location: [[apachita|Apachita]]
 ## I'm Reading...
 'Fear not, weary traveler, for the Influences and Growths of the Haustorium need not consume you. You must simply be quick, and know exactly what it is you need. A Ramazzini mask is also essential during fecund seasons.'
 ## I've Read...
@@ -14,7 +14,6 @@ The March and the Vestibule are daunting but not insurmountable. Keep your eyes 
 ## Aspects
 - Mystery: Rose 4
 - #Codex
-- Tally Price 1
 - Subject: Path & Pilgrim
 - #Readable
 - #Thing
