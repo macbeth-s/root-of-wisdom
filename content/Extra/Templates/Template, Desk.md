@@ -1,6 +1,7 @@
 ---
 tags:
   - verb
+draft: "true"
 ---
 # Desk: 
 Desc

@@ -2,6 +2,7 @@
 aliases: []
 tags:
   - rooms
+draft: "true"
 ---
 # Label
 ## (Locked)
