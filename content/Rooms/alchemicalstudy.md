@@ -13,17 +13,17 @@ Phantom firelight flickers across the room. It burns where it falls on me, but t
 **Required:** 4 Grail, 4 Forge
 
 Opening it will Expose:
-[[reservedstudy]]
+[[reservedstudy|Reserved Study]]
 ## Contents
-[[library.glassware.alchemist|Alchemist's Glassware]]
-[[bust.ursula]]
-[[painting.albedo]]
-Turpentine
-Arsenic
-Xanthotic Essence
-[[Albedic Essence]]
-[[Protector's Salve]]
-Uncatalogued Book ([[Aspects/Watchman's Archive|Archive]])
-Uncatalogued Book ([[Unmade Cathedral|Cathedral]])
+- [[library.glassware.alchemist|Alchemist's Glassware]]
+- [[bust.ursula|'Ursula Sabès']]
+- [[painting.albedo|'Albedo']]
+- Turpentine
+- Arsenic
+- Xanthotic Essence
+- [[essence.albedic|Albedic Essence]]
+- [[Protector's Salve]]
+- Uncatalogued Book ([[wing.archive|Archive]])
+- Uncatalogued Book ([[wing.cathedral|Cathedral]])
 
-Wing: [[Aspects/Watchman's Archive]]
+Wing: [[wing.archive]]

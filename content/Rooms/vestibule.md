@@ -13,20 +13,20 @@ I have reached the threshold of the Haustorium. Across the door, inscribed in Qu
 **Required:** 2 Knock, 1 Heart, 1 Forge
 
 Opening it will Expose:
-[[grandentrance]]
-[[Terrace Garden]]
+- [[grandentrance|Grand Entrance]]
+- [[Terrace Garden]]
 ## Contents
-[[Serve Here]]
-Uncatalogued Book ([[Aspects/Watchman's Archive|Archive]]) (x2)
-Uncatalogued Book ([[lostellodeldottore]])
-[[t.livesunceasing|Lives Unceasing]]
-[[chair.vigilant]]
-[[bust.luis]]
-[Vase of Amaryllis](https://uadaf.theevilroot.xyz/rowenarium/element/vase.amaryllis)
-[[Melt-Water]] (Pitcher)
-[[Evening Isles Coffee]] (Packet)
-[[Drinking Cocoa]] (Packet)
-[[painting.star]]
-[Watchful Candle](https://uadaf.theevilroot.xyz/rowenarium/element/candle.holdergold)
+- [[Serve Here]]
+- Uncatalogued Book ([[wing.archive|Archive]]) (x2)
+- Uncatalogued Book ([[wing.ostello|Ostello]])
+- [[t.livesunceasing|Lives Unceasing]]
+- [[chair.vigilant|Vigilant Chair]]
+- [[bust.luis|'Father Luis Bahamonde, CA']]
+- [Vase of Amaryllis](https://uadaf.theevilroot.xyz/rowenarium/element/vase.amaryllis)
+- [[Melt-Water]] (Pitcher)
+- [[Evening Isles Coffee]] (Packet)
+- [[Drinking Cocoa]] (Packet)
+- [[painting.star|'When we were Wise']]
+- [Watchful Candle](https://uadaf.theevilroot.xyz/rowenarium/element/candle.holdergold)
 
-Wing: [[Aspects/Watchman's Archive]]
+Wing: [[wing.archive|Watchman's Archive]]

@@ -13,6 +13,6 @@ The scultpture bears a resemblance, certainly, to the few photographs of Brisset
 **Mastery:** [Lesson: Putrefactions & Calcinations](https://uadaf.theevilroot.xyz/rowenarium/element/x.putrefactions.calcinations) (x1)
 ## Aspects
 Mystery: Forge 6
-[[Artifact]]
+[[artifact]]
 #Readable
 #Thing

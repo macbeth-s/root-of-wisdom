@@ -1,6 +1,5 @@
 ---
-aliases:
-  - roomname
+aliases: []
 tags:
   - rooms
   - Archive
@@ -13,20 +12,20 @@ Witchworms crawl on every surface. Whispers claw at my inner ears. We need ruthl
 **Required:** 3 Winter, 3 Edge
 
 Opening it will Expose:
-[[hallofrecords]]
+[[hallofrecords|Hall of Records]]
 ## Contents
-[[library.bench.archaeologist.consider]]
-Catwink  
-Stargall Ink  
-[[Second Flush Assam]] (Pot) 
-[[Second Flush Assam]] (Cup)
-Quire of Paper  
-Hawthorn Blank  
-Uncatalogued Book ([[Aspects/Watchman's Archive|Archive]])  (x5)
-Uncatalogued Book ([[Substructure]]) (x4) 
-Uncatalogued Book ([[Unmade Cathedral|Cathedral]]) (x4)
-Uncatalogued Book ([[Skolex Menagerie|Menagerie]]) (x2)
-Uncatalogued Book ( [[nobleretreat|Retreat]]) (x2)
-Uncatalogued Book ([[Frustum]]) (x2)
+- [[library.bench.archaeologist.consider|Archaeologist's Bench]]
+- Catwink  
+- Stargall Ink  
+- [[Second Flush Assam]] (Pot) 
+- [[Second Flush Assam]] (Cup)
+- Quire of Paper  
+- Hawthorn Blank  
+- Uncatalogued Book ([[wing.archive|Archive]])  (x5)
+- Uncatalogued Book ([[wing.substructure|Substructure]]) (x4) 
+- Uncatalogued Book ([[wing.cathedral|Cathedral]]) (x4)
+- Uncatalogued Book ([[wing.menagerie|Menagerie]]) (x2)
+- Uncatalogued Book ( [[wing.retreat|Retreat]]) (x2)
+- Uncatalogued Book ([[wing.frustum|Frustum]]) (x2)
 
-Wing: [[Aspects/Watchman's Archive]]
+Wing: [[wing.archive|Watchman's Archive]]

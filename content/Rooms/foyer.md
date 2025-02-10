@@ -14,17 +14,17 @@ I dare not go ahead without Robigo's approval. He smiles still, but he is clearl
 Opening it will Expose:]]
 [[staircasenoreturn|Staircase: No Return]]
 ## Contents
-[[library.desk.circulation.consider|Desk: Circulation]]
-Uncatalogued Book ([[Aspects/Watchman's Archive|Archive]]) (x3)
-Uncatalogued Book ([[nobleretreat|Retreat]])
-Uncatalogued Book ([[Frustum]])
-[[portrait.aladim]]
-[Paradise Palm  ](https://uadaf.theevilroot.xyz/rowenarium/element/pot.bigken)
-[[cart.librarian]]
-[[armchair.scale]]
-[Yewgall Ink](https://uadaf.theevilroot.xyz/rowenarium/element/yewgall.ink)
-[Quire of Paper](https://uadaf.theevilroot.xyz/rowenarium/element/quire.paper)
-[Moth-Orchid-Scented Candle](https://uadaf.theevilroot.xyz/rowenarium/element/candle.mothorchid) 
-Abandoned Luggage
+- [[library.desk.circulation.consider|Desk: Circulation]]
+- Uncatalogued Book ([[wing.archive|Archive]]) (x3)
+- Uncatalogued Book ([[wing.retreat|Retreat]])
+- Uncatalogued Book ([[wing.frustum]])
+- [[portrait.aladim|'The Aleppine']]
+- [Paradise Palm  ](https://uadaf.theevilroot.xyz/rowenarium/element/pot.bigken)
+- [[cart.librarian|Book Cart]]
+- [[armchair.scale|Receptive Chair]]
+- [Yewgall Ink](https://uadaf.theevilroot.xyz/rowenarium/element/yewgall.ink)
+- [Quire of Paper](https://uadaf.theevilroot.xyz/rowenarium/element/quire.paper)
+- [Moth-Orchid-Scented Candle](https://uadaf.theevilroot.xyz/rowenarium/element/candle.mothorchid) 
+- Abandoned Luggage
 
-Wing: [[Aspects/Watchman's Archive]]
+Wing: [[wing.archive|Watchman's Archive]]

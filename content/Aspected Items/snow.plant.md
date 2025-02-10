@@ -12,6 +12,6 @@ Nectar 2
 Scale 1	
 Grail 2	
 Moon 1
-[[Fungus]]
+[[fungus]]
 #Flower
 #Thing

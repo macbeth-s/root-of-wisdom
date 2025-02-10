@@ -12,18 +12,18 @@ Sludgy fog curls around the room. I'll need to close up the source before cleari
 **Required:** 4 Lantern, 4 Moon
 
 Opening it will Expose:
-[[alchemicalstudy]]
+[[alchemicalstudy|Alchemical Study]]
 ## Contents
-[[library.desk.fucine.consider|Desk: Fucine]]
-[[chair.fucino]]
-[[stool.verdant]]
-[[lamp.nectar]]
-[[icon.wheel]]
-[[mirror.dewy]]
-[[Emeraud Absinthe]] (Bottle)
-Perhibiate  
-[[witching.tisane]]
-Uncatalogued Book ([[Aspects/Watchman's Archive|Archive]]) (x2)
-Uncatalogued Book ([[lostellodeldottore|Ostello]]) (x2)
+- [[library.desk.fucine.consider|Desk: Fucine]]
+- [[chair.fucino|Savonarola Chair]]
+- [[stool.verdant|Verdant Stool]]
+- [[lamp.nectar|Emerald Lamp]]
+- [[icon.wheel|'St. Catherine']]
+- [[mirror.dewy|Dewy Mirror]]
+- [[Emeraud Absinthe]] (Bottle)
+- Perhibiate  
+- [[witching.tisane|Witching Tisane]]
+- Uncatalogued Book ([[wing.archive|Archive]]) (x2)
+- Uncatalogued Book ([[wing.ostello|Ostello]]) (x2)
 
-Wing: [[Aspects/Watchman's Archive]]
+Wing: [[wing.archive|Watchman's Archive]]

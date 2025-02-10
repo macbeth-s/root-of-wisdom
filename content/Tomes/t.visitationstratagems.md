@@ -18,4 +18,4 @@ Tally Price 1
 Subject: Path & Pilgrim
 #Readable
 #Thing
-[[Watchman's Archive]] 
+[[wing.archive]] 

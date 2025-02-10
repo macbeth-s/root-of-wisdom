@@ -12,16 +12,16 @@ This place is old. The Fourfold Realm was old, but this structure is older still
 **Required:** 3 Winter, 3 Scale
 
 Opening it will Expose:
-[[archive]]
+[[archive|Archive]]
 ## Contents
-[[Our Lady of Averted Eyes  ]]
-[[Twinned Scytale  ]]
-[[a.bronzetajadero|Bronze Tajadero]]
-[[statue.liberator]]
-[[Anthropoderm Tinya]]
-[[Tumbaga Plate]]
-[[chac.mool]]
-[[painting.knot]]
-[[painting.celsus]]
+- [[a.ourladyofavertedeyes|Our Lady of Averted Eyes]]
+- [[a.twinnedscytale|Twinned Scytale]]
+- [[a.bronzetajadero|Bronze Tajadero]]
+- [[statue.liberator|'The Liberator Ascendant']]
+- [[Anthropoderm Tinya]]
+- [[Tumbaga Plate]]
+- [[chac.mool|Chac Mool]]
+- [[painting.knot|Cuetlaxtlapilli]]
+- [[painting.celsus|'The Fire at Celsus']]
 
-Wing: [[Aspects/Watchman's Archive]]
+Wing: [[wing.archive|Watchman's Archive]]

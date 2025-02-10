@@ -13,11 +13,11 @@ When I approach, the darkness quivers. Hostility? Anticipation? Either way, I ca
 **Required:** 2 Rose, 2 Lantern, 2 Knock
 
 Opening it will Expose:
-[[staircasebravery|Staircase: Bravery]]
-[[Fermentation Cellar]]
+- [[staircasebravery|Staircase: Bravery]]
+- [[Fermentation Cellar]]
 ## Contents
-[Potted Monstera](https://uadaf.theevilroot.xyz/rowenarium/element/pot.swiss)
-[[painting.jacob]]
-[[bench.gnarled]]
+- [Potted Monstera](https://uadaf.theevilroot.xyz/rowenarium/element/pot.swiss)
+- [[painting.jacob|'Lord Jacob Gristwood']]
+- [[bench.gnarled|Gnarled Bench]]
 
-Wing: [[Aspects/Watchman's Archive]]
+Wing: [[wing.archive|Watchman's Archive]]

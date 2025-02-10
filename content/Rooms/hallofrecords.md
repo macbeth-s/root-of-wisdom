@@ -12,23 +12,23 @@ Dark crimson leaks from the cabinets. Without a caretaker, their residents grew 
 **Required:** 5 Lantern, 5 Winter
 
 Opening it will Expose:
-[[reservedstudy]] 
-[[archive]]
+[[reservedstudy|Reserved Study]] 
+[[archive|Archive]]
 ## Contents
-[[roster.faculty]]
-[[chart.consanguinity]]
-[[specimen.forge]]
-[[specimen.grail]]
-[[specimen.knock]]
-[[specimen.sky]]
-[[specimen.winter]]
-Uncatalogued Book ([[Substructure]])
-Uncatalogued Book ([[Menagerie]])
-Anthropoderm Parchment  
-Perhibiate  
-Box of Oddities  
-Box of Oddities  
-Box of Rarities  
-[[newspaper.yellowing]]
+- [[roster.faculty|Faculty Roster]]
+- [[chart.consanguinity|Chart of Consanguinity]]
+- [[specimen.forge|Index Case (Forge-Focused)]]
+- [[specimen.grail|Index Case (Grail-Focused)]]
+- [[specimen.knock|Index Case (Knock-Focused)]]
+- [[specimen.sky|Index Case (Sky-Focused)]]
+- [[specimen.winter|Index Case (Winter-Focused)]]
+- Uncatalogued Book ([[wing.substructure|Substructure]])
+- Uncatalogued Book ([[wing.menagerie|Menagerie]])
+- Anthropoderm Parchment  
+- Perhibiate  
+- Box of Oddities  
+- Box of Oddities  
+- Box of Rarities  
+- [[newspaper.yellowing|Yellowing Newspaper]]
 
-Wing: [[Aspects/Watchman's Archive]]
+Wing: [[wing.archive|Watchman's Archive]]

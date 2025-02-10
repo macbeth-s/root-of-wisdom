@@ -12,6 +12,6 @@ Both rods were excavated from Zakros twenty years ago, and dated to 1500 BC. Que
 ## Aspects
 Mystery: Sky 6
 Written in Ramsund
-[[Artifact]]
+[[artifact]]
 #Readable
 #Thing

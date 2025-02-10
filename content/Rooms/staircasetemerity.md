@@ -12,12 +12,12 @@ Colors bend toward a glowing pinprick in the ceiling. It could be mistaken for s
 **Required:** 4 Moon, 4 Forge, 4 Edge
 
 Opening it will Expose:
-[[greenlitstudy]]
-[[Ophidiarium]]
-[[Faculty Lounge]]
+- [[greenlitstudy|Greenlit Study]]
+- [[Ophidiarium]]
+- [[Faculty Lounge]]
 ## Contents
-[[bust.oscar]]  
-[[photograph.medusa]]  
-[[snow.plant]]
+- [[bust.oscar|'Don Óscar Zavala']]  
+- [[photograph.medusa|'What is Not Seen']]  
+- [[snow.plant|Snow Plant]]
 
-Wing: [[Aspects/Watchman's Archive]]
+Wing: [[wing.archive|Watchman's Archive]]

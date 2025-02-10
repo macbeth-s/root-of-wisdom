@@ -13,11 +13,11 @@ Why would I do this? Everyone agrees that to approach the Haustorium means death
 **Required:** 1 Sky, 1 Edge, 1 Moon
 
 Opening it will Expose:
-[[vestibule]]
+[[vestibule|Vestibule]]
 ## Contents
-[[bust.protector]]
-[[carving.skolekosophy]]
-[[carving.killasimi]]
-[Hurricane Lamp](https://uadaf.theevilroot.xyz/rowenarium/element/lamp.hurricane)
+- [[bust.protector|'Our Protector']]
+- [[carving.skolekosophy|'Skolekosophy']]
+- [[carving.killasimi|'Killasimi']]
+- [Hurricane Lamp](https://uadaf.theevilroot.xyz/rowenarium/element/lamp.hurricane)
 
-Wing: [[Aspects/Watchman's Archive]]
+Wing: [[wing.archive|Watchman's Archive]]

@@ -12,6 +12,6 @@ When someone was buried, one of these often accompanied them into the grave. The
 **Mastery:** Lesson: Quenchings & Quellings (x2)
 ## Aspects
 Mystery: Winter 8
-[[Artifact]]
+[[artifact]]
 #Readable
 #Thing

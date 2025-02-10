@@ -20,4 +20,4 @@ Tally Price 1
 Subject: Rhyme & Remembrance
 #Readable
 #Thing
-[[Watchman's Archive]]
+[[wing.archive]]

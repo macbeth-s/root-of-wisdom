@@ -15,13 +15,13 @@ There is clearly a trail-marker here. I can wipe off the snow, and maybe look fo
 Opening it will Expose:
 [[forebodingmarch|Foreboding March]]
 ## Contents
-[[library.bed.guest.tent|Guest Bed: Wayfinder's Tent]]
-[[t.visitationstratagems|Visitation Stratagems]]
-Uncatalogued Book ([[Substructure]])
-Uncatalogued Book ([[lostellodeldottore|Ostello]])
-Uncatalogued Book ([[Aspects/Watchman's Archive|Archive]])
-[[apachita.occult|An Occult Apachita]]
-[[flask.lusty|Lusty Flask]]
-Traveler's Cache
+- [[library.bed.guest.tent|Guest Bed: Wayfinder's Tent]]
+- [[t.visitationstratagems|Visitation Stratagems]]
+- Uncatalogued Book ([[wing.substructure|Substructure]])
+- Uncatalogued Book ([[wing.ostello|Ostello]])
+- Uncatalogued Book ([[wing.archive|Archive]])
+- [[apachita.occult|An Occult Apachita]]
+- [[flask.lusty|Lusty Flask]]
+- Traveler's Cache
 
-Wing: [[Aspects/openair]]
+Wing: [[openair|Open Air]]

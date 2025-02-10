@@ -12,20 +12,20 @@ The door is marked by a black flower. Beneath, words scrawled in catwink read EN
 **Required:** 1 Moon, 1 Moth
 
 Opening it will Expose:
-[[hallofrecords]]
+[[hallofrecords|Hall of Records]]
 ## Contents
-[[library.desk.skolekosophist.consider|Desk: Skolekosophist]]
-[[library.fireplace.reserved|library.fireplace.reserved]]
-[[painting.nigredo]]
-Dessicated Witchworms 
-Perinculate  
-[[Smoke-Swept Mirror ]]
-[[photograph.kleidouchos]] 
-Uncatalogued Book ([[Frustum]])  (x2)
-Uncatalogued Book ([[Skolex Menagerie|Menagerie]])  
-Uncatalogued Book ([[nobleretreat|Retreat]])  (x3)
-[[stool.forbidden]] 
-[[chair.sexy]] 
-[[lamp.table.moon]]
+- [[library.desk.skolekosophist.consider|Desk: Skolekosophist]]
+- [[library.fireplace.reserved|Reserved Study Fireplace]]
+- [[painting.nigredo|'Nigredo']]
+- Dessicated Witchworms 
+- Perinculate  
+- [[Smoke-Swept Mirror ]]
+- [[photograph.kleidouchos|'Mortal's Chiefest Enemy']] 
+- Uncatalogued Book ([[wing.frustum|Frustum]])  (x2)
+- Uncatalogued Book ([[wing.menagerie|Menagerie]])  
+- Uncatalogued Book ([[wing.retreat|Retreat]])  (x3)
+- [[stool.forbidden|Forbidden Footstool]] 
+- [[chair.sexy|Transgressive Chair]] 
+- [[lamp.table.moon|Dim Lamp]]
 
-Wing: [[Aspects/Watchman's Archive]]
+Wing: [[wing.archive]]
