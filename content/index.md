@@ -14,14 +14,19 @@ Welcome, early readers. Give exploration a try, beginning with the [[apachita|Ap
 <button id="catalogue-book-button">Catalogue a Book</button>
 
 <script>
-// Dynamic list of book pages using Liquid
+// Generate an array of book URLs using Liquid
 const books = [
   {% for page in site.pages %}
     {% if page.path contains 'tomes' %}
-      { url: "{{ page.url }}", title: "{{ page.title }}" },
+      "{{ page.url }}", // Add the page URL as a string in the array
     {% endif %}
   {% endfor %}
-];
+].filter(Boolean); // This will remove any empty values that may result from the Liquid loop
+
+// Check if the books array is empty
+if (books.length === 0) {
+  alert("No books found.");
+}
 
 // Function to pick a random book page
 function getRandomBook() {
@@ -33,9 +38,8 @@ function getRandomBook() {
 document.getElementById('catalogue-book-button').addEventListener('click', function() {
   const randomBook = getRandomBook();
   if (randomBook) {
-    window.location.href = randomBook.url; // Redirect to the random book page
-  } else {
-    alert("No books found.");
+    window.location.href = randomBook; // Redirect to the random book page
   }
 });
 </script>
+
