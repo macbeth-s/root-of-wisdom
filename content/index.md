@@ -23,6 +23,9 @@ const books = [
   {% endfor %}
 ].filter(Boolean); // This will remove any empty values that may result from the Liquid loop
 
+// Check if the books array is populated correctly
+console.log('Books Array:', books);  // Debugging: See the generated books array
+
 // Check if the books array is empty
 if (books.length === 0) {
   alert("No books found.");
@@ -38,8 +41,8 @@ function getRandomBook() {
 document.getElementById('catalogue-book-button').addEventListener('click', function() {
   const randomBook = getRandomBook();
   if (randomBook) {
+    console.log('Redirecting to:', randomBook);  // Debugging: log the selected book URL
     window.location.href = randomBook; // Redirect to the random book page
   }
 });
 </script>
-
