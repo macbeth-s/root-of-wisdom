@@ -8,20 +8,20 @@ Someone has left a tattered tent for some weary traveler's use. \[Use a matching
 Location: [[apachita|Apachita]]
 ## Slots
 ### Occupant
-**Essential**: [Occupant](https://uadaf.theevilroot.xyz/rowenarium/element/campable)
-**Required**: Rose, Interested in Rose
+**Essential**: [Occupant](https://uadaf.theevilroot.xyz/rowenarium/element/campable)<br>
+**Required**: Rose, Interested in Rose<br>
 Forbidden: Fatigued, Malady, Protector
 # My Bed: Wayfinder's Tent
 Someone has left a tattered tent for some weary traveler's use. \[Add a Fatigued Soul card to nap, a Maladied soul card to cure it, or (once night has fallen) a Memory to dream on it.]
 ## Slots
 ### Soul
-**Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)
+**Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>
 **Required**: Rose, Knock, Sky, Heart
 ### Skill
-**Essential**: Skill
+**Essential**: Skill<br>
 **Required**: Rose, Knock, Sky, Heart
 ### Memory
-**Essential**: Memory
+**Essential**: Memory<br>
 **Required**: Rose, Knock, Sky, Heart
 ### Restore
 **Required**: Fatigued, Malady

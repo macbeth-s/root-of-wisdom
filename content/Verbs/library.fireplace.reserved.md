@@ -7,7 +7,7 @@ A heavy grate keeps precious paper safe.
 Location: [[reservedstudy]]
 ## Slots
 ### Effort
-**Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)
+**Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>
 **Forbidden**: Fatigued, Malady
 ### Thing
 **Required**: Thing, Correspondence

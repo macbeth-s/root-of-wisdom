@@ -9,18 +9,18 @@ In years past, perhaps a member of the faculty would come to this sturdy desk to
 Location: [[foyer]]
 ## Slots
 ### Soul
-**Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)
+**Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>
 **Required**: Lantern, Rose, Moth, Knock
 ### Skill
-**Essential**: Skill
+**Essential**: Skill<br>
 **Required**: Lantern, Rose, Moth, Knock
 ### Memory
-**Essential**: Memory
+**Essential**: Memory<br>
 **Required**: Lantern, Rose, Moth, Knock
 ### Papers
-**Required**: Readable, Blank
+**Required**: Readable, Blank<br>
 Forbidden: Phonograph Record, Film, Artifact
 ### With
-**Required**: Ink, Tool
+**Required**: Ink, Tool<br>
 Forbidden: Fatigued
 
