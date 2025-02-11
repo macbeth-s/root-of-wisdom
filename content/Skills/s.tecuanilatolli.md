@@ -1,6 +1,4 @@
----
-:
----
+
 # Tecuanilatolli
 The glyphs carved by teeth into flesh and by knives into treebark. Spoken aloud, it is an eagle's screech and a jaguar's roar.
 ## Aspects
