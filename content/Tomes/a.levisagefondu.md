@@ -2,9 +2,8 @@
 tags: []
 ---
 # Le Visage Fondu
-A bronze cast of a face in serene repose.
-
-Initial Location: [[grandentrance]]
+A bronze cast of a face in serene repose.<br>
+Initial Location: [[grandentrance|Grand Entrance]]
 ## I'm Studying...
 The method of creation at first seems to be cire perdu, in the ancient style, but the base bears the signet of Kume Tsūten, dated 1837, the same year he left the residence in Avignon where he lived with the reclusive adept Celine Brissette.
 ## I've Studied...

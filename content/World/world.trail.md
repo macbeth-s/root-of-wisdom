@@ -1,7 +1,6 @@
 ---
 tags:
   - verb
-draft: "true"
 ---
 # Hike the Dead Sister's Trail
 When I need fresh air I can hike this winding, treacherous path through the mountains, called Naña Wañusqa by locals. There is much to see if my feet are sure. 

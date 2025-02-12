@@ -20,6 +20,6 @@ Opening it will Expose:
 ## Contents
 - [Vase of Lilies](https://uadaf.theevilroot.xyz/rowenarium/element/vase.lilies)
 - [[taxidermy.stag|Taruca]]
-- [[Hesperidina]] (Bottle)
+- [[bottle.hesperidina]] (Bottle)
 
 Wing: [[wing.archive|Watchman's Archive]]

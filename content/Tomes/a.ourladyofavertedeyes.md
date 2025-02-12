@@ -2,9 +2,7 @@
 tags: []
 ---
 # Our Lady of Averted Eyes
-A famous 'weeping statue' from a small church in La Paz, reported to have cried blood following the 1840 Earthquake.
-
-Initial Location: [[historicalexhibit]]
+A famous 'weeping statue' from a small church in La Paz, reported to have cried blood following the 1840 Earthquake.<br>Initial Location: [[historicalexhibit|Historical Exhibit]]
 ## I'm Studying...
 The statue is carved from one solid piece of a hard and heavy stone, but nonetheless seems to indeed be porous around Our Lady's eyes.
 ## I've Studied...

@@ -17,8 +17,8 @@ Opening it will Expose:
 - [[library.bench.archaeologist.consider|Archaeologist's Bench]]
 - Catwink  
 - Stargall Ink  
-- [[Second Flush Assam]] (Pot) 
-- [[Second Flush Assam]] (Cup)
+- [[pot.tea.assam]] (Pot) 
+- [[pot.tea.assam]] (Cup)
 - Quire of Paper  
 - Hawthorn Blank  
 - Uncatalogued Book ([[wing.archive|Archive]])  (x5)

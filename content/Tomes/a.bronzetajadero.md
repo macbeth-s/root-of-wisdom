@@ -3,7 +3,8 @@ tags:
 aliases: 
 ---
 # Bronze Tajadero
-A flat axe-shaped piece of bronze. Many of these have been smelted down or otherwise taken during the colonization, and still this endures.
+A flat axe-shaped piece of bronze. Many of these have been smelted down or otherwise taken during the colonization, and still this endures.<br>
+Initial Location: [[historicalexhibit|Historical Exhibit]]
 ## I'm Studying...
 Before the Universal Monarchs, this was the occult currency of the Fourfold Realm and beyond. Unlike spintriae, they bore no image, but were instead shaped in the image of the Horned-Axe, whose influence near-equaled that of the Sun-in-Splendor throughout the Americas.
 ## I've Studied

@@ -10,9 +10,9 @@ A wonderfully full-bodied taste, bright as morning.
 Edge 1
 Knock 1
 Lantern 1
-Ingredient
-Beverage
-Restorative
-Liquid
-Thing
+#Ingredient
+#Beverage
+#Restorative
+#Liquid
+#Thing
 To Serve (Pot)

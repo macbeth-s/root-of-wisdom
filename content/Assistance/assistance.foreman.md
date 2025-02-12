@@ -1,7 +1,5 @@
-
 # Foreman's Assistance
 Apolonio is always worried: that the smeltery will be nationalized, that the villagers will discover what he releases into their drinking water at night, that his brother will strangle him in his sleep. 
-
 ## Aspects
 - Forge 2
 - Moon 1

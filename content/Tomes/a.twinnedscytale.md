@@ -2,7 +2,7 @@
 tags: []
 ---
 # Twinned Scytale
-A pair of rods useful for decoding messages, provided the messages follow the particular grammar of Ramsund.
+A pair of rods useful for decoding messages, provided the messages follow the particular grammar of Ramsund.<br>Initial Location: [[historicalexhibit|Historical Exhibit]]
 ## I'm Studying...
 One is carved from queñua, the paper tree, the other from olive. They are carved by the same hand, and the leather strips from the same skin.
 ## I've Studied...
