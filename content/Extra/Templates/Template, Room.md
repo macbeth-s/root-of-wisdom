@@ -1,16 +1,16 @@
 ---
-aliases: []
+aliases: 
 tags:
-  - rooms
+  - "#room"
 draft: "true"
 ---
 # Label
 ## (Locked)
 
-**Essential:**
-**Required:** 
+<br>**Essential:**
+<br>**Required:** 
 
-Opening it will Expose:
+<br>Opening it will Expose:
 - 
 
 ## Contents

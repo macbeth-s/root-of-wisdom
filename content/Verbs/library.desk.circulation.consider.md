@@ -6,7 +6,7 @@ tags: verb
 # Desk: Circulation
 In years past, perhaps a member of the faculty would come to this sturdy desk to assist a visitor who came with tally. Nowadays, helpfulness is not considered a Haustorical virtue.
 
-Location: [[foyer]]
+Location: [[foyer|Coward's Foyer]]
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>

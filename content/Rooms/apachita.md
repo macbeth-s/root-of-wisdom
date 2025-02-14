@@ -1,9 +1,7 @@
 ---
-aliases:
-  - apachita
 tags:
-  - rooms
-  - OpenAir
+  - room
+  - "#OpenAir"
 ---
 # Apachita
 This part of the Andes is not particularly beautiful, and it is never welcoming. Only the most obsessive of mountaineers would come this way. That is why, during the high period of the Realm of Four Parts, these subtle trail-markers were planted for those few Know who sought the vault that was then known as the Ruin of the Roots.

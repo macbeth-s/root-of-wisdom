@@ -1,8 +1,7 @@
 ---
-aliases:
-  - roomname
 tags:
-  - rooms
+  - room
+  - WatchmansArchive
 ---
 # Coward's Foyer
 Before the ascent of the Haustorical Mutuality in the 18th century, the Haustorium was a library that welcomed visitors and offered what knowledge it was permitted to offer. During the days of the Mutuality, trembling researchers would do their best not to breathe as they purchased the Mutuality's brilliant, but terrifying, contributions for exorbitant tally. Since the beginning of Dottore Robigo's formal protectorship, it is not quite so deadly to pass this room, but most still remain too fearful to cross its threshold.

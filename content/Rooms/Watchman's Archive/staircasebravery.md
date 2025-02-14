@@ -1,10 +1,7 @@
 ---
-aliases:
-  - roomname
-  - "Staircase: Bravery"
 tags:
-  - rooms
-  - Archive
+  - room
+  - WatchmansArchive
 ---
 # Staircase: Bravery
 Don Óscar Zavala likened this floor to the Puerta del Ciervo, the door which marks one's passage into Knowledge and their bravery in the face of significant danger.

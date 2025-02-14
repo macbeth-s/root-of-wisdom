@@ -5,7 +5,7 @@ tags:
 # Archaeologist's Bench
 For the careful inspection of old things.
 
-Location: [[archive]]
+Location: [[archive|Archive]]
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>

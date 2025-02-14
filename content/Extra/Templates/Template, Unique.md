@@ -2,11 +2,8 @@
 draft: "true"
 ---
 # Label
-Desc
-
-Initial Location: [[]]
+Desc<br>Initial Location: [[]]
 ## Consider
-
-**Effect**: 
+<br>**Effect**: 
 ## Aspects
 - 

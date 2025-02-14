@@ -1,7 +1,6 @@
 ---
-aliases: []
 tags:
-  - rooms
+  - room
   - WatchmansArchive
 ---
 # Historical Exhibit
@@ -18,7 +17,7 @@ Opening it will Expose:
 - [[a.twinnedscytale|Twinned Scytale]]
 - [[a.bronzetajadero|Bronze Tajadero]]
 - [[statue.liberator|'The Liberator Ascendant']]
-- [[Anthropoderm Tinya]]
+- [[tinya.anthropoderm|Anthropoderm Tinya]]
 - [[Tumbaga Plate]]
 - [[chac.mool|Chac Mool]]
 - [[painting.knot|Cuetlaxtlapilli]]

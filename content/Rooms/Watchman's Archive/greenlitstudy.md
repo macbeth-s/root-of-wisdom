@@ -1,8 +1,7 @@
 ---
-aliases:
-  - roomname
 tags:
-  - rooms
+  - room
+  - WatchmansArchive
 ---
 # Greenlit Study
 Dottore Robigo is very proud of the ambience in this room and boasts about it to every visitor he welcomes. The green light does mask much of the mildew on the undersides of the cushions.

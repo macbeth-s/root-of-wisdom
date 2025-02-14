@@ -1,7 +1,6 @@
 ---
-aliases: 
 tags:
-  - rooms
+  - room
   - WatchmansArchive
 ---
 # Hall of Records

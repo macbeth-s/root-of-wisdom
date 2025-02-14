@@ -1,9 +1,7 @@
 ---
-aliases:
-  - forebodingmarch
 tags:
-  - Archive
-  - rooms
+  - room
+  - WatchmansArchive
 ---
 # Foreboding March
 Every step of this stone stairway seems to demand something of the one who walks it, as if to ask if the ascent is truly worth it. The masonry predates the conquest, but the carvings are newer. The Haustorium's protector commissioned them at the turn of the twentieth century, most likely in an attempt to disguise the cracks left by the earthquake.

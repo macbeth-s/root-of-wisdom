@@ -1,8 +1,7 @@
 ---
-aliases:
-  - roomname
 tags:
-  - rooms
+  - room
+  - WatchmansArchive
 ---
 # Reserved Study
 The Haustorium stands alone among the libraries of the Watchman's Tree for its insistence on pursuing and recording the forbidden mysteries of Skolekosophy. With the permission of a member of the faculty, this room can be reserved to investigate those mysteries.

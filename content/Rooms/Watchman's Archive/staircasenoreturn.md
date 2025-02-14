@@ -1,9 +1,7 @@
 ---
-aliases:
-  - "Staircase: No Return"
 tags:
-  - rooms
-  - Archive
+  - room
+  - WatchmansArchive
 ---
 # Staircase: No Return
 The balustrades of this fearsome staircase are carved like gnarled roots. The stairs lead up to the baroque archives, while a much humbler iron ladder descends into the substructure. Whether up or down, there is no return from this passage. "To advance," Don Óscar Zavala wrote of this stair, "is to die to your past hopes and submit to the Haustorium's consumption."

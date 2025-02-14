@@ -1,9 +1,7 @@
 ---
-aliases:
-  - alchemicalstudy
 tags:
-  - rooms
-  - Archive
+  - room
+  - WatchmansArchive
 ---
 # Alchemical Study
 In 1848, the alchemist Ursula Sabès, fleeing persecution in her country, made a sizable donation of texts, equipment, and samples to the Haustorium. She endeavored to follow her materials, and perhaps find safety in the ranks of the faculty, but her boat never landed in Callao.

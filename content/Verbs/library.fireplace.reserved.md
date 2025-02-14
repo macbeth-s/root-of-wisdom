@@ -4,7 +4,7 @@ tags:
 ---
 # Reserved Study Fireplace
 A heavy grate keeps precious paper safe.
-Location: [[reservedstudy]]
+Location: [[reservedstudy|Reserved Study]]
 ## Slots
 ### Effort
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>

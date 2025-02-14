@@ -1,8 +1,6 @@
 ---
-aliases:
-  - roomname
 tags:
-  - rooms
+  - room
   - WatchmansArchive
 ---
 # Grand Entrance

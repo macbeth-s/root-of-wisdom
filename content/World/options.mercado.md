@@ -26,72 +26,72 @@ There is a heaviness about Mercado Vagante today. Two workmen struggle mightly t
 There is an air of suspicion about Mercado Vagante today. Vendors look at each other askance and do not smile when a buyer approaches. A man with his hat pulled low rushes out with his purchase clutched close to his chest. \[Wares and assistance with \<sprite name=moon> aspect are available for purchase today.]|
 
 ## Wares
-|                               |                   |         |       |      |        |       |       |      |       |     |      |        |       |      |
-| ----------------------------- | ----------------- | ------- | ----- | ---- | ------ | ----- | ----- | ---- | ----- | --- | ---- | ------ | ----- | ---- |
-| Ware                          | [[Centavo\|Cost]] | LANTERN | FORGE | EDGE | WINTER | HEART | GRAIL | MOTH | KNOCK | SKY | ROSE | NECTAR | SCALE | MOON |
-| Copper Wire                   | 100               |         | X     |      |        |       |       |      |       | X   |      | X      |       |      |
-| Glue                          | 25                |         | X     |      |        |       |       |      |       |     |      | X      |       |      |
-| Ham                           | 25                |         |       |      |        | X     |       |      |       |     |      |        | X     |      |
-| Evening Isles Coffee         | 50                | X       | X     |      |        |       |       |      |       |     | X    |        |       |      |
-| Dawnlion Coffee               | 50                | X       | X     |      |        |       |       |      |       |     |      |        | X     |      |
-| Quire of Paper                | 25                |         |       |      |        |       |       |      |       |     |      | X      |       |      |
-| Scintillate Oil               | 75                | X       | X     |      |        |       |       |      |       |     |      |        |       |      |
-| Oscillate Oil                 | 75                |         | X     |      |        |       |       | X    |       |     |      |        |       |      |
-| Umbrous Oil                   | 75                |         | X     |      |        |       |       |      |       |     |      |        |       | X    |
-| Assam Tea                     | 50                | X       |       | X    |        |       |       |      | X     |     |      |        |       |      |
-| Lapsang Tea                   | 50                |         | X     |      |        |       |       |      |       | X   |      |        |       |      |
-| Sugar                         | 25                |         |       |      |        |       | X     |      |       |     |      |        |       |      |
-| Bottle of Milk                | 10                |         |       |      | X      | X     | X     |      |       |     |      |        | X     |      |
-| Flour                         | 10                |         |       |      |        | X     |       |      |       |     |      | X      |       |      |
-| Nivine Parchment              | 150               |         |       |      | X      |       |       |      |       |     |      |        |       |      |
-| Arsenic                       | 150               | X       |       | X    | X      |       |       |      |       |     |      |        |       |      |
-| Desiccated Witchworms         | 500               |         |       |      |        |       |       |      | X     |     |      |        | X     |      |
-| Drinking Cocoa                | 75                |         |       |      |        | X     | X     |      |       |     |      |        |       |      |
-| Beef                          | 50                |         |       |      |        | X     |       |      |       |     |      |        | X     |      |
-| Pisco Alado                   | 350               |         |       |      |        |       | X     |      |       |     |      | X      |       | X    |
-| Golden Pulque                 | 350               | X       |       |      |        |       |       |      |       |     |      | X      |       |      |
-| Lapidoth Winery               | 350               |         |       | X    |        | X     |       |      |       |     |      |        | X     |      |
-| Hesperidina                   | 350               |         |       |      |        |       | X     |      |       |     |      | X      |       |      |
-| Bodega Bahamonde              | 350               |         |       |      |        |       | X     |      |       |     |      |        | X     |      |
-| Mezcal Eterna                 | 350               |         | X     |      |        |       |       |      |       |     | X    |        |       |      |
-| Ron Añejo                     | 350               |         |       |      |        |       | X     |      |       |     |      | X      |       |      |
-| Émeraude Absinthe             | 350               |         |       |      |        |       |       |      |       |     |      | X      | X     |      |
-| Cinti Singani                 | 350               |         |       |      |        |       | X     |      |       |     |      | X      |       |      |
-| Mate                          | 75                |         |       |      |        | X     |       |      |       | X   |      | X      |       |      |
-| Bleach                        | 100               | X       |       |      | X      |       |       |      |       |     |      |        |       |      |
-| Curare                        | 150               |         |       | X    |        |       |       |      | X     |     |      |        | X     |      |
-| Llama Wool                    | 75                |         |       |      |        | X     |       |      |       |     |      |        | X     |      |
-| Coil of Rope                  | 10                |         |       |      |        |       |       | X    |       |     | X    |        |       |      |
-| Basket of Towels              | 25                |         |       |      |        | X     |       |      |       |     |      |        |       |      |
-| Warmly Colored Yarns          | 25                |         |       |      |        | X     | X     |      |       |     |      |        |       |      |
-| Bolt of Pale Silk             | 75                |         |       |      |        |       |       | X    |       |     |      | X      |       |      |
-| Bolt of Moss-Green Velvet     | 75                |         |       |      | X      |       | X     |      |       |     |      |        |       |      |
-| Bolt of Buttercup Linen       | 75                | X       |       |      |        |       |       |      |       |     |      |        |       | X    |
-| Basket of Leeks               | 10                |         |       | X    |        | X     |       |      |       |     |      | X      |       |      |
-| Basket of Onions              | 10                |         |       | X    |        | X     |       |      |       |     |      | X      |       |      |
-| [[Mazamorra]]                     | 50                |         |       |      |        | X     |       |      |       |     | X    | X      |       |      |
-| [[Lucuma]]                        | 10                |         | X     |      |        | X     |       |      |       |     |      | X      |       |      |
-| [[cherimoya]]                     | 10                |         |       |      | X      |       | X     |      |       |     |      | X      |       |      |
-| [[assistance.guerrillera\|Guerrillera's Assistance]]      | 50                |         |       | X    |        |       |       | X    |       |     |      |        |       |      |
-| [[assistance.peddler\|Peddler's Assistance]]          | 50                |         |       |      |        |       | X     |      |       | X   |      |        |       |      |
-| [[assistance.farmer\|Farmer's Assistance]]           | 50                |         | X     |      |        |       |       |      |       |     |      | X      | X     |      |
-| [[assistance.surveyor\|Surveyor's Assistance]]         | 50                |         |       |      |        | X     |       |      | X     |     |      |        |       |      |
-| [[assistance.weaver\|Weaver's Assistance]]          | 100               |         |       |      |        | X     |       | X    |       | X   |      |        |       |      |
-| [[assistance.gaucho\|Vagrant Gaucho's Assistance]]   | 100               |         |       | X    |        |       |       | X    |       |     |      |        | X     |      |
-| [[assistance.friar\|Friar's Assistance]]            | 100               |         |       |      | X      |       |       |      | X     |     | X    |        |       |      |
+|                                                          |                   |         |       |      |        |       |       |      |       |     |      |        |       |      |
+| -------------------------------------------------------- | ----------------- | ------- | ----- | ---- | ------ | ----- | ----- | ---- | ----- | --- | ---- | ------ | ----- | ---- |
+| Ware                                                     | [[Centavo\|Cost]] | LANTERN | FORGE | EDGE | WINTER | HEART | GRAIL | MOTH | KNOCK | SKY | ROSE | NECTAR | SCALE | MOON |
+| Copper Wire                                              | 100               |         | X     |      |        |       |       |      |       | X   |      | X      |       |      |
+| Glue                                                     | 25                |         | X     |      |        |       |       |      |       |     |      | X      |       |      |
+| Ham                                                      | 25                |         |       |      |        | X     |       |      |       |     |      |        | X     |      |
+| Evening Isles Coffee                                     | 50                | X       | X     |      |        |       |       |      |       |     | X    |        |       |      |
+| Dawnlion Coffee                                          | 50                | X       | X     |      |        |       |       |      |       |     |      |        | X     |      |
+| Quire of Paper                                           | 25                |         |       |      |        |       |       |      |       |     |      | X      |       |      |
+| Scintillate Oil                                          | 75                | X       | X     |      |        |       |       |      |       |     |      |        |       |      |
+| Oscillate Oil                                            | 75                |         | X     |      |        |       |       | X    |       |     |      |        |       |      |
+| Umbrous Oil                                              | 75                |         | X     |      |        |       |       |      |       |     |      |        |       | X    |
+| Assam Tea                                                | 50                | X       |       | X    |        |       |       |      | X     |     |      |        |       |      |
+| Lapsang Tea                                              | 50                |         | X     |      |        |       |       |      |       | X   |      |        |       |      |
+| Sugar                                                    | 25                |         |       |      |        |       | X     |      |       |     |      |        |       |      |
+| Bottle of Milk                                           | 10                |         |       |      | X      | X     | X     |      |       |     |      |        | X     |      |
+| Flour                                                    | 10                |         |       |      |        | X     |       |      |       |     |      | X      |       |      |
+| Nivine Parchment                                         | 150               |         |       |      | X      |       |       |      |       |     |      |        |       |      |
+| Arsenic                                                  | 150               | X       |       | X    | X      |       |       |      |       |     |      |        |       |      |
+| Desiccated Witchworms                                    | 500               |         |       |      |        |       |       |      | X     |     |      |        | X     |      |
+| Drinking Cocoa                                           | 75                |         |       |      |        | X     | X     |      |       |     |      |        |       |      |
+| Beef                                                     | 50                |         |       |      |        | X     |       |      |       |     |      |        | X     |      |
+| Pisco Alado                                              | 350               |         |       |      |        |       | X     |      |       |     |      | X      |       | X    |
+| Golden Pulque                                            | 350               | X       |       |      |        |       |       |      |       |     |      | X      |       |      |
+| Lapidoth Winery                                          | 350               |         |       | X    |        | X     |       |      |       |     |      |        | X     |      |
+| Hesperidina                                              | 350               |         |       |      |        |       | X     |      |       |     |      | X      |       |      |
+| Bodega Bahamonde                                         | 350               |         |       |      |        |       | X     |      |       |     |      |        | X     |      |
+| Mezcal Eterna                                            | 350               |         | X     |      |        |       |       |      |       |     | X    |        |       |      |
+| Ron Añejo                                                | 350               |         |       |      |        |       | X     |      |       |     |      | X      |       |      |
+| Émeraude Absinthe                                        | 350               |         |       |      |        |       |       |      |       |     |      | X      | X     |      |
+| Cinti Singani                                            | 350               |         |       |      |        |       | X     |      |       |     |      | X      |       |      |
+| Mate                                                     | 75                |         |       |      |        | X     |       |      |       | X   |      | X      |       |      |
+| Bleach                                                   | 100               | X       |       |      | X      |       |       |      |       |     |      |        |       |      |
+| Curare                                                   | 150               |         |       | X    |        |       |       |      | X     |     |      |        | X     |      |
+| Llama Wool                                               | 75                |         |       |      |        | X     |       |      |       |     |      |        | X     |      |
+| Coil of Rope                                             | 10                |         |       |      |        |       |       | X    |       |     | X    |        |       |      |
+| Basket of Towels                                         | 25                |         |       |      |        | X     |       |      |       |     |      |        |       |      |
+| Warmly Colored Yarns                                     | 25                |         |       |      |        | X     | X     |      |       |     |      |        |       |      |
+| Bolt of Pale Silk                                        | 75                |         |       |      |        |       |       | X    |       |     |      | X      |       |      |
+| Bolt of Moss-Green Velvet                                | 75                |         |       |      | X      |       | X     |      |       |     |      |        |       |      |
+| Bolt of Buttercup Linen                                  | 75                | X       |       |      |        |       |       |      |       |     |      |        |       | X    |
+| Basket of Leeks                                          | 10                |         |       | X    |        | X     |       |      |       |     |      | X      |       |      |
+| Basket of Onions                                         | 10                |         |       | X    |        | X     |       |      |       |     |      | X      |       |      |
+| [[mazamorra\|Mazamorra]]                                 | 50                |         |       |      |        | X     |       |      |       |     | X    | X      |       |      |
+| [[lucuma\|Lúcuma]]                                       | 10                |         | X     |      |        | X     |       |      |       |     |      | X      |       |      |
+| [[cherimoya\|Cherimoya]]                                 | 10                |         |       |      | X      |       | X     |      |       |     |      | X      |       |      |
+| [[assistance.guerrillera\|Guerrillera's Assistance]]     | 50                |         |       | X    |        |       |       | X    |       |     |      |        |       |      |
+| [[assistance.peddler\|Peddler's Assistance]]             | 50                |         |       |      |        |       | X     |      |       | X   |      |        |       |      |
+| [[assistance.farmer\|Farmer's Assistance]]               | 50                |         | X     |      |        |       |       |      |       |     |      | X      | X     |      |
+| [[assistance.surveyor\|Surveyor's Assistance]]           | 50                |         |       |      |        | X     |       |      | X     |     |      |        |       |      |
+| [[assistance.weaver\|Weaver's Assistance]]               | 100               |         |       |      |        | X     |       | X    |       | X   |      |        |       |      |
+| [[assistance.gaucho\|Vagrant Gaucho's Assistance]]       | 100               |         |       | X    |        |       |       | X    |       |     |      |        | X     |      |
+| [[assistance.friar\|Friar's Assistance]]                 | 100               |         |       |      | X      |       |       |      | X     |     | X    |        |       |      |
 | [[assistance.naturalist\|Avid Naturalist's Assistance]]  | 100               | X       |       |      |        |       |       |      |       | X   |      | X      |       |      |
 | [[assistance.adventurer\|Dodgy Adventurer's Assistance]] | 100               |         | X     |      |        |       | X     |      |       |     | X    |        |       |      |
-| [[assistance.photographer\|Photographer's Assistance]]     | 100               |         |       |      | X      | X     |       |      |       |     |      |        |       | X    |
-| An Illuminating Text          | 3 Tally           | X       |       |      |        |       |       |      |       |     |      |        |       |      |
-| An Ingenious Text             | 3 Tally           |         | X     |      |        |       |       |      |       |     |      |        |       |      |
-| A Challenging Text            | 3 Tally           |         |       | X    |        |       |       |      |       |     |      |        |       |      |
-| An Elegiac Text               | 3 Tally           |         |       |      | X      |       |       |      |       |     |      |        |       |      |
-| An Enduring Text              | 3 Tally           |         |       |      |        | X     |       |      |       |     |      |        |       |      |
-| An Enticing Text              | 3 Tally           |         |       |      |        |       | X     |      |       |     |      |        |       |      |
-| A Wild Text                   | 3 Tally           |         |       |      |        |       |       | X    |       |     |      |        |       |      |
-| A Transgressive Text          | 3 Tally           |         |       |      |        |       |       |      | X     |     |      |        |       |      |
-| A Harmonious Text             | 3 Tally           |         |       |      |        |       |       |      |       | X   |      |        |       |      |
-| A Bold Text                   | 3 Tally           |         |       |      |        |       |       |      |       |     | X    |        |       |      |
-| A Rich Text                   | 3 Tally           |         |       |      |        |       |       |      |       |     |      | X      |       |      |
-| A Crude Text                  | 3 Tally           |         |       |      |        |       |       |      |       |     |      |        | X     |      |
-| A Mysterious Text             | 3 Tally           |         |       |      |        |       |       |      |       |     |      |        |       | X    |
+| [[assistance.photographer\|Photographer's Assistance]]   | 100               |         |       |      | X      | X     |       |      |       |     |      |        |       | X    |
+| An Illuminating Text                                     | 3 Tally           | X       |       |      |        |       |       |      |       |     |      |        |       |      |
+| An Ingenious Text                                        | 3 Tally           |         | X     |      |        |       |       |      |       |     |      |        |       |      |
+| A Challenging Text                                       | 3 Tally           |         |       | X    |        |       |       |      |       |     |      |        |       |      |
+| An Elegiac Text                                          | 3 Tally           |         |       |      | X      |       |       |      |       |     |      |        |       |      |
+| An Enduring Text                                         | 3 Tally           |         |       |      |        | X     |       |      |       |     |      |        |       |      |
+| An Enticing Text                                         | 3 Tally           |         |       |      |        |       | X     |      |       |     |      |        |       |      |
+| A Wild Text                                              | 3 Tally           |         |       |      |        |       |       | X    |       |     |      |        |       |      |
+| A Transgressive Text                                     | 3 Tally           |         |       |      |        |       |       |      | X     |     |      |        |       |      |
+| A Harmonious Text                                        | 3 Tally           |         |       |      |        |       |       |      |       | X   |      |        |       |      |
+| A Bold Text                                              | 3 Tally           |         |       |      |        |       |       |      |       |     | X    |        |       |      |
+| A Rich Text                                              | 3 Tally           |         |       |      |        |       |       |      |       |     |      | X      |       |      |
+| A Crude Text                                             | 3 Tally           |         |       |      |        |       |       |      |       |     |      |        | X     |      |
+| A Mysterious Text                                        | 3 Tally           |         |       |      |        |       |       |      |       |     |      |        |       | X    |

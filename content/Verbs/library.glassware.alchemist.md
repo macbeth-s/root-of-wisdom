@@ -5,7 +5,7 @@ tags:
 # Alchemist's Glassware
 Ursula Sabès had this workbench shipped ahead of her from the Evening Isles when she realized she was being pursued. One of the drawers is completely watertight and another she always kept stocked with a variety of rare antidotes.
 
-Location: [[alchemicalstudy]]
+Location: [[alchemicalstudy|Alchemical Study]]
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>

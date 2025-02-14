@@ -1,8 +1,7 @@
 ---
-aliases: []
 tags:
-  - rooms
-  - Archive
+  - room
+  - WatchmansArchive
 ---
 # Archive
 One of the 'Indian Magicians' who signed a covenant with Fray Bahamonde to establish the Colegio de Santa Potenciana was called 'Martina la Maga' by the Spaniards. Bahamonde entrusted Martina with care of the Colegio's equipment and its 'Indian idols,' which she meticulously labeled in Spanish and Quechua. The Quechua labels say something very different from the Spanish.

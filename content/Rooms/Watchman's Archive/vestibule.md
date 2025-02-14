@@ -1,8 +1,6 @@
 ---
-aliases:
-
 tags:
-  - rooms
+  - room
   - WatchmansArchive
 ---
 # Vestibule

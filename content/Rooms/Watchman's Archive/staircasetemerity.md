@@ -1,8 +1,7 @@
 ---
-aliases:
-  - "Staircase: Temerity"
 tags:
-  - rooms
+  - room
+  - WatchmansArchive
 ---
 # Staircase: Temerity
 Pale stone gives way to colorful tile at this level. Don Óscar Zavala, who twice reached this landing, claimed that nothing he learned in the studies beyond ever brought any consolation to the price he paid for it. Nonetheless, Knowledge–though likely not Wisdom–lies ahead.
