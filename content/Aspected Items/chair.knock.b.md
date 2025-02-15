@@ -1,3 +1,6 @@
+---
+{}
+---
 # Martina's Armchair
 Wrapped in vibrant plum.
 

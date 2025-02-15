@@ -1,3 +1,6 @@
+---
+{}
+---
 # Cookery, Crookery, and Crockery
 In 1868, Nacèra Bengui developed a sudden penchant for cuisine, based upon certain ‘secrets of appetite’ she gleaned from Berenechea Bee-Eater. She wrote this dissection on flavorings and seasonings in the process.
 ## I'm Reading...

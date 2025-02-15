@@ -1,3 +1,6 @@
+---
+{}
+---
 # Unhatched Hymns
 
 Hymns attributed to Saint Lucia the Eyeless, patron of glassworkers and Name of the Hour called Meniscate.

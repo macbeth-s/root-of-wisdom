@@ -1,3 +1,6 @@
+---
+{}
+---
 # Caput Gerat Lupinum
 Memoirs of the legendary outlaw Yousip Sawa, who survived twenty years evading punishment by hiding in the Andes and the Amazon.
 ## I'm Reading...

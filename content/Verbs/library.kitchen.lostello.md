@@ -1,7 +1,6 @@
 ---
 tags:
   - verb
-draft: "true"
 ---
 # Hearth: L'Ostello
 An ancient stone hearth.

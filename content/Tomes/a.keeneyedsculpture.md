@@ -1,7 +1,6 @@
 ---
 tags:
   - "#artifact"
-draft: "true"
 ---
 # Keen-Eyed Sculpture
 A soapstone bird with eyes that pierce any who meet its gaze.<Br>Initial Location: [[condorroom|Condor Room]]
@@ -10,10 +9,10 @@ It bears a remarkable resemblance to the Eight Birds of Great Zimbabwe. Any who 
 ## I've Read...
 This must be a Paradoxical Curio, a twin-reflection of an item significant in the Histories. The Beachcomber favors those who bury them, offerings for his collection. Treasure hunters call them Doors to the Earth, but the Company Anchorite knew them as Keys to the Moon.
 **Effect:** [Confounding Parable](https://uadaf.theevilroot.xyz/rowenarium/element/confounding.parable)
-**Mastery:** Lesson: [Door & Wall](https://uadaf.theevilroot.xyz/rowenarium/element/s.door.wall)
+**Mastery:** Lesson: [Door & Wall](https://uadaf.theevilroot.xyz/rowenarium/element/s.door.wall) (x2)
 ## Aspects
 - Mystery: Knock 14
-- Subject: Door & Wall (x2)
+- Subject: Door & Wall 
 - [[artifact|Artifact]]
 - #Readable
 - #thing

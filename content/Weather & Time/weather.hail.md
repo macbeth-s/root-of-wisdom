@@ -1,3 +1,6 @@
+---
+{}
+---
 # Hail
 An assault of ice.
 ## Aspects

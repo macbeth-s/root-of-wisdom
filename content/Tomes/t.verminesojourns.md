@@ -1,3 +1,6 @@
+---
+{}
+---
 # Vermine Sojourns
 The notorious thief named ‘the Evergreen Spellful’ charts out her explorations of hidden passages which run far beneath the earth, which she claims to have used in evading ‘the reach of the Duties.’
 ## I'm Reading...

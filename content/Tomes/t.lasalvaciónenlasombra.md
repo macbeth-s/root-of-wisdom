@@ -1,3 +1,6 @@
+---
+{}
+---
 # La Salvación en La Sombra
 An auto sacramental by Father Silas Menard concerning the namesake of the Colegio, St Potenciana. First performed in Lima in 1632, it served to draw many souls to the Colegio, in search of greater knowledge, or to initiate themselves into the Company’s deeper mysteries.
 ## I'm Reading...

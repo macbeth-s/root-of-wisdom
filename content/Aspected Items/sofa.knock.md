@@ -1,6 +1,5 @@
 ---
 tags: []
-draft: "true"
 ---
 # Symposial Settee
 Upholstered in sumptuous indigo.

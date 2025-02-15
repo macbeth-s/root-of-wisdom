@@ -1,3 +1,6 @@
+---
+{}
+---
 # The March of Sundering
 A fanciful biography of the Liberator's military career, with special attention to his early religious beliefs.
 ## I'm Reading...

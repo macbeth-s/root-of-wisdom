@@ -1,3 +1,6 @@
+---
+{}
+---
 # Meetings in the Mists
 Hei Mao the Traveler documents his encounters with the Nameless Name, the fog-footed servant of the Hour called the Velvet.
 ## I'm Reading...

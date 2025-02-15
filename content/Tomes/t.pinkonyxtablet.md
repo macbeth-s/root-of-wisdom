@@ -1,3 +1,6 @@
+---
+{}
+---
 # Pink Onyx Tablet
 Supposedly copied from a tablet of pink onyx which serves as the Covenant-stone of the Tomb of Lies - the token which gives that Library shelter beneath the Watchman’s Tree.
 ## I'm Reading...

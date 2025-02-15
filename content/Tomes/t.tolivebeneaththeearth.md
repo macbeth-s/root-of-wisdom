@@ -1,3 +1,6 @@
+---
+{}
+---
 # To Live Beneath the Earth
 The itinerant scholar identified as ‘Silk-and-Silver’ recounts his time living amongst the eccentric brethren of the Monastery of the Fifth Cup.
 ## I'm Reading...

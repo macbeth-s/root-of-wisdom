@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Way of Worms
 A manual on the techniques of the discomforting ‘Capoeira Emboia’ style, authored by the capoeirista known as the Empty Whisperer.
 ## I'm Reading...

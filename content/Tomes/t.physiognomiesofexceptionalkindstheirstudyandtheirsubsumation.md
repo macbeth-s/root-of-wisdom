@@ -1,3 +1,6 @@
+---
+{}
+---
 # Physiognomies of Exceptional Kinds, their Study, and their Subsumation
 Dr. Louize Haig attributes her occult awakening to accidentally stumbling upon this "medical" text in a forgotten bookshop in New Haven. 
 ## I'm Reading...

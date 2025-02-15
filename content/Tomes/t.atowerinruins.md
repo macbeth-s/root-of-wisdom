@@ -1,3 +1,6 @@
+---
+{}
+---
 # A Tower in Ruins
 The phonograph is hermetically sealed in a heliotrope canister with the words A TOWER IN RUINS in nine languages on both sides. There is no other identifying information at all.
 ## I'm Reading...

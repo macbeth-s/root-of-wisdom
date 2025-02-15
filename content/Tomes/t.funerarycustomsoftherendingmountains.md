@@ -1,3 +1,6 @@
+---
+{}
+---
 # Funerary Customs of the Rending Mountains
 Coauthored by Dr Eftwyrd Hagan and Lord Jacob Gristwood. The latter’s name is scratched out to the point of near-illegibility.
 ## I'm Reading...

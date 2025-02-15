@@ -1,3 +1,6 @@
+---
+{}
+---
 # Abeja's Flight: Burning
 The fourth of Fatima Abeja’s hagiographies, examining the life of Saint Dominic of the Shattering Cord. Upon arriving at the Dominican friary in Soriano, she railed against the supposed corruption of his title, claiming he held a Starry Cord instead.
 ## I'm Reading...

@@ -1,3 +1,6 @@
+---
+{}
+---
 # STUMM!
 A can of nitrate film labeled STUMM! - 'Silent' or, perhaps, 'Mute'. The director's name, 'Jernik Krosse', is shakily appended, followed by a thinly-scrawled ‘V’.
 ## I'm Reading...

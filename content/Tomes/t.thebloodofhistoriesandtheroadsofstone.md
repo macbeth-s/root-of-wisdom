@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Blood of Histories and the Roads of Stone
 An investigation of forbidden ink-lore by the symurgist Libreng Ibon.
 ## I'm Reading...

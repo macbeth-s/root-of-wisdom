@@ -1,3 +1,6 @@
+---
+{}
+---
 # Applications of Mycological Synthesis
 One of a few scorched copies of the research that led to Lacombe's extradition from Italy.
 ## I'm Reading...

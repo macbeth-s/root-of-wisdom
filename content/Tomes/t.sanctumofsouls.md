@@ -1,3 +1,6 @@
+---
+{}
+---
 # Sanctum of Souls
 Advice from father Diego Orgóñez passed onto his appointed successor. The end of his rectorship marked the beginning of the Colegio’s decline, but this allowed its brothers to persist a little longer.
 ## I'm Reading...

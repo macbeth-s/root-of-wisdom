@@ -1,3 +1,6 @@
+---
+{}
+---
 # Coppertongue and the Castle of Salt
 A fable told by some British mariners as they rounded the Land of Flames, recorded by Isidoro Dahlmann. 
 ## I'm Reading...

@@ -1,5 +1,5 @@
 ---
-draft: "true"
+{}
 ---
 # 'The Yachtswoman'
 A poorly framed portrait photo, of a woman so small she is almost subsumed into the horizon.

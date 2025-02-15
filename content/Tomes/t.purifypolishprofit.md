@@ -1,3 +1,6 @@
+---
+{}
+---
 # Purify, Polish, Profit
 Kume Tsūten's manual on fine metalworking.
 ## I'm Reading...

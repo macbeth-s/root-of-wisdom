@@ -1,3 +1,6 @@
+---
+{}
+---
 # Marcelan Analects
 Isidoro Dahlmann's literary and philosophical reflections on poetry, pastoralism, and 'lost songs of the open sky.'
 ## I'm Reading...

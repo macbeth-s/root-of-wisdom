@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Carnation Rites: Satisfaction
 The third volume of para-Martinezist operations, traditionally attributed to Pierre André de Grainville. The subtle tongue he employed is left untranslated for clarity.
 ## I'm Reading...

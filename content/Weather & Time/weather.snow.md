@@ -1,3 +1,6 @@
+---
+{}
+---
 # Snow
 The world is pale today. We are in the white west of the world.
 ## Aspects

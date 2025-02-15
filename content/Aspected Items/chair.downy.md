@@ -1,3 +1,6 @@
+---
+{}
+---
 # Downy Chair
 A feather-decked seat.<br>Initial Location: [[condorroom|Condor Room]]
 ## Scrutiny

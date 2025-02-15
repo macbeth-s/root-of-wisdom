@@ -1,3 +1,6 @@
+---
+{}
+---
 # Fruits Everlasting
 The Haustorical Mutuality and the Grove of Green Immortals were never on friendly terms, but they once collaborated to examine the methods by which the soul endures.
 ## I'm Reading...

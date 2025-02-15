@@ -1,3 +1,6 @@
+---
+{}
+---
 # Cinti Singani
 Celebratory eau-de-vie from the high mountains of liberty.
 ## Consider

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Berenechea's Historic Larders
 A review of historical culinary techniques by the baffling Haustorical fixture known as Berenechea Bee-Eater.
 ## I'm Reading...

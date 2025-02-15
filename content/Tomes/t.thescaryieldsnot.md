@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Scar Yields Not
 An esoteric Maronite meditation smuggled out during the Siege of Tripoli. Father Diego Orgóñez was fond of it, and during his rectorship, always kept it on his person.
 ## I'm Reading...

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Three and Three and Three
 A heretical and disrespectful parody of holier texts, stained with black grime.
 ## I'm Reading...

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Sins Primordial and Sins Forgiven
 A humanist text by the excommunicated, rehabilitated, and again excommunicated Father Tirso Izquierdo, of Cumaná.
 ## I'm Reading...

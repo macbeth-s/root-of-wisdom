@@ -1,3 +1,6 @@
+---
+{}
+---
 # Beloved in Ash
 An epic poem by the ithast-priest Titanodoros on the life and death of Elissa, Queen of Carthage, following the death of her husband Sycharbas.
 ## I'm Reading...

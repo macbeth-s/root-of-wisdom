@@ -1,5 +1,5 @@
 ---
-draft: "true"
+{}
 ---
 # Tarot Deck
 An unusual deck, well-worn.

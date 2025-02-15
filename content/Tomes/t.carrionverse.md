@@ -1,3 +1,6 @@
+---
+{}
+---
 # Carrion Verse
 Candelaria Ponce's final work of poetry, a collection of beautiful pastoral verses and gruesome elegies. 
 ## I'm Reading...

@@ -1,5 +1,5 @@
 ---
-
+{}
 ---
 # Lúcuma
 Warm yellow flesh around a bold seed.

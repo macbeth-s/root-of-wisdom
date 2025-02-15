@@ -1,3 +1,6 @@
+---
+{}
+---
 # On Horonomastics
 The mask maker and horomachist Sülz, colloquially dubbed ‘the Onomast,’ produced this work exploring the place and purpose of the servants of the Hours called Names.
 ## I'm Reading...

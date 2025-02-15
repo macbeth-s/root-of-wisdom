@@ -1,3 +1,6 @@
+---
+{}
+---
 # Escape to Golden Khersonese
 A bewildering narrative by Marinus of Rhodes describing his absconsion to the other side of the world.
 ## I'm Reading...

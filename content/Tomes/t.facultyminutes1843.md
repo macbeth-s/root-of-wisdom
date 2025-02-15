@@ -1,3 +1,6 @@
+---
+{}
+---
 # Faculty Minutes, 1843
 The minutes of the inaugural meeting of the Haustorium's faculty. 
 ## I'm Reading...

@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Labyrinthine Anagoge
 Isidoro Dahlmann explores different hermeneutical approaches to death and the afterlife in the interpretation of history.
 ## I'm Reading...

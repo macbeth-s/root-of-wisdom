@@ -1,3 +1,6 @@
+---
+{}
+---
 # Eucalyptra
 Praises to the Red Flower of Calyptra for her gifts. Only she would tolerate such open veneration.
 ## I'm Reading...

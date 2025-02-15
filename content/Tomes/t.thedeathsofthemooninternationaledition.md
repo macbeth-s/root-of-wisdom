@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Deaths of the Moon (International Edition)
 A solidly bound edition of the Haustorical Mutuality's tract on various forms of survival after death. As the Mutuality reached their apogee, they sought more aggressively to disseminate their views abroad.
 ## I'm Reading...

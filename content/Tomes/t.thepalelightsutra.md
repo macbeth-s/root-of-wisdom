@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Pale Light Sutra
 This sutra lined the cavern walls of the tomb where Arutrur, regarded as the most elusive of the Shadowless Kings, was laid to rest.
 ## I'm Reading...

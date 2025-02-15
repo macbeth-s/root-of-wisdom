@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Sutra of Glass
 The florist-murderer Dahlia Foxglove left excerpts from this written upon the palm of each of her victims.
 ## I'm Reading...

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Apollo and Marsyas
 The libretto of a lost opera concerning the contest between Apollo and Marsyas, and its tragic outcome. The librettist is identified only by their initials.
 ## I'm Reading...

@@ -1,3 +1,6 @@
+---
+{}
+---
 # La Cuca
 A storybook on the eponymous Cuca, a monster who kidnaps disobedient children.
 ## I'm Reading...

@@ -1,5 +1,5 @@
 ---
-draft:
+{}
 ---
 # Carving & Stoneworking
 'Mortar? To use mortar is to admit one does not understand how one stone fits another.' –Candelaria Ponce

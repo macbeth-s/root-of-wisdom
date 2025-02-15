@@ -1,3 +1,6 @@
+---
+{}
+---
 # Sarcoma Dialogues
 As he died from cancer, Gabriel Mejia Scortt attempted an ambitious summoning and recorded his conversation, narrating his process in a hoarse, weak voice.
 ## I'm Reading...

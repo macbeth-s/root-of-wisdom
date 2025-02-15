@@ -1,3 +1,6 @@
+---
+{}
+---
 # Faculty Minutes, 1936
 The minutes of a frantic and terrified meeting of the Haustorium's faculty. 
 ## I'm Reading...

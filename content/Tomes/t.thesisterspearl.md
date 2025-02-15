@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Sister's Pearl
 The Curicuillorians venerated the Twins, following in the steps of their leader and namesake Leonor. This details certain protective rites they enacted in the name of the Sister-and-Witch.
 ## I'm Reading...

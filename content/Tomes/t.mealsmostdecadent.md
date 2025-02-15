@@ -1,3 +1,6 @@
+---
+{}
+---
 # Meals Most Decadent
 Berenechea Bee-Eater writes gleefully of the dinner parties he hosted at the Haustorium in the aftermath of the 1840 earthquake.
 ## I'm Reading...

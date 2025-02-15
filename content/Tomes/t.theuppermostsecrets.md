@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Uppermost Secrets
 The seer-scholar L. K. Vögel once attracted the attention of an American contingent of Lantern-long who titled themselves the Company of Lights. Earning their graces, he extracted information about this ephemeral class of immortals to write this text.
 ## I'm Reading...

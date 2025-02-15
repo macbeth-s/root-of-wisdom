@@ -1,3 +1,6 @@
+---
+{}
+---
 # Methods of Bilocation
 A classic occult text, in which Mago of Gadès explains the mechanisms by which saints have been able to appear simultaneously in two places to the devout.
 ## I'm Reading...

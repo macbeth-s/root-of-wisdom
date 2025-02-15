@@ -1,3 +1,6 @@
+---
+{}
+---
 # Teeth of Black Jade
 Though he never achieved the rank of Know, Parsival encountered the powers of Nowhere an improbable number of times. This details the methods required to escape them.
 ## I'm Reading...

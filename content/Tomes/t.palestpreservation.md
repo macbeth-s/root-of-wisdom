@@ -1,3 +1,6 @@
+---
+{}
+---
 # Palest Preservation
 Amongst the Curicuillorians, Ramon Quispe was uniquely devoted to the Begging Sun and the Dawn Unborn, earning him the moniker of the Silent Sage. In this tome, he diligently recorded the Pale Lore of the Fourfold Realm.
 ## I'm Reading...

@@ -1,5 +1,5 @@
 ---
-draft: "true"
+{}
 ---
 # Memories for you, My Most Succulent Mistress of Wood-Lore
 While researching her colorful guide Exorcism for Girls, a young Thirza Blake briefly braved the dangerous spores of the Haustorium. Berenechea Bee-Eater, then garde manger of L'ostello del Dottore, seems to have become infatuated and wrote her this doting collection.

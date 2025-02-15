@@ -1,3 +1,6 @@
+---
+{}
+---
 # Humidity
 The moisture embraces us.
 ## Aspects

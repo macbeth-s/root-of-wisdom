@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Mithradatic Genesis
 An account on how the Great King of Pontus first cultivated his immunity to poison, as told by the minstrel-perfumer Desdemona Cress.
 ## I'm Reading...

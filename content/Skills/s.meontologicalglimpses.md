@@ -1,5 +1,5 @@
 ---
-
+{}
 ---
 # Meontological Glimpses
 How might one see that which is nowhere? There is power in even a glance.

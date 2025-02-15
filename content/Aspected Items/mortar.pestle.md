@@ -1,3 +1,6 @@
+---
+{}
+---
 # Mortar & Pestle
 To destroy is to create...
 ## Consider

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Kitchen Bowls
 Culinary copper containers.
 ## Consider

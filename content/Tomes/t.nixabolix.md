@@ -1,3 +1,6 @@
+---
+{}
+---
 # Nix Abolix
 A grim treatise on 'those feasts that occur, those feasts that are not to be witnessed.'
 ## I'm Reading...

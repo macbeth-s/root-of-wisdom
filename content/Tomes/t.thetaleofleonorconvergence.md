@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Tale of Leonor: Convergence
 The first volume chronicling the life of Leonor Curicuillor, the Princess of the Fourfold Realm and Matron of the Loom.
 ## I'm Reading...

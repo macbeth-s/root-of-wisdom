@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Ballad of Biedde
 Verse from Mago of Gadès, detailing the exploits of Biedde, Scourge of Ways.
 ## I'm Reading...

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Spice Scales
 To ensure our flavors shall not be found wanting.
 ## Consider

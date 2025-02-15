@@ -1,3 +1,6 @@
+---
+{}
+---
 # Interviews with the Invisible: Gibraltar
 An interview with a newly-initiated Edge-long - supposedly conducted by the journalist Amadea Franciacorta in the aftermath of the 1925 Reckoner War.
 ## I'm Reading...

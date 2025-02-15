@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Journey of Princes
 A Purépecha text translated into Nahuatl by the lapidarist and socialite Alejandra Chalchihuitl.
 ## I'm Reading...

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Pumice Chunk
 An abrasive for road-worn heels.
 ## Consider

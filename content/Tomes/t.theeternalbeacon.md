@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Eternal Beacon
 Henri de Miffonis elaborates the theoretical construction of a machine he calls the Periodoscope.
 ## I'm Reading...

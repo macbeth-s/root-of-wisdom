@@ -1,3 +1,6 @@
+---
+{}
+---
 # Gospel of Lazarus
 An iconoclastic account on the Galilean Carpenter, describing his descent into Nowhere following his entombment.
 ## I'm Reading...

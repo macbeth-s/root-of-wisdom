@@ -1,3 +1,6 @@
+---
+{}
+---
 # Nocturnal Wards
 Notes written by Misiyana, called ‘Martina la Maga’ by the Spaniards, documenting the incorporation of ink into her traditional rites of warding.
 ## I'm Reading...

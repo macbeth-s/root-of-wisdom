@@ -1,3 +1,6 @@
+---
+{}
+---
 # Bel and the Dragon (Ahvaz Manuscript)
 A puzzling archaeological find of the last century. 
 ## I'm Reading...

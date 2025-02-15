@@ -1,3 +1,6 @@
+---
+{}
+---
 # DEP, QED
 Wilwardo Castillo Knox's final manuscript, unfinished and near-unintelligible. 
 ## I'm Reading...

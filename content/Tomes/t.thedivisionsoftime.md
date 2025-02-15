@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Divisions of Time
 The horologist, demonologist, and adept Jöseph Kittering elaborates his theories on the shape of the ‘Prime Aspect,’ from which he postulates the motions or meanings of all other aspects derive.
 ## I'm Reading...

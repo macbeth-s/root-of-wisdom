@@ -1,3 +1,6 @@
+---
+{}
+---
 # So That They Might Be Forgotten
 Political-alchemical treatises by Ursula Sabès arguing for a particular and untested punishment for the deposed slavers of the Evening Isles.
 ## I'm Reading...

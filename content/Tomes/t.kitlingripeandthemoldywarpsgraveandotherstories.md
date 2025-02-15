@@ -1,3 +1,6 @@
+---
+{}
+---
 # Kitling Ripe and the Moldywarp's Grave (and Other Stories)
 A lusciously illustrated tome of loosely connected children's stories. Few of them are remotely suitable for children.
 ## I'm Reading...

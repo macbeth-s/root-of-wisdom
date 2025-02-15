@@ -1,5 +1,5 @@
 ---
-
+{}
 ---
 # Edicts Hospitable
 The precepts of habitation and digestion practiced by the phantasmal assembly of Hours sometimes called the Contentum.

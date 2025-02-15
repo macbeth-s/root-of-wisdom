@@ -1,4 +1,5 @@
 ---
+{}
 ---
 # 'The Faculty'
 A stately portrait, in the style of nineteenth-century universities. Dated 1843.

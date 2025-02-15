@@ -1,3 +1,6 @@
+---
+{}
+---
 # Hush and Hear
 The symurgist Libreng Ibon wrote this investigation of 'those cast down' on a research visit to the Haustorium.
 ## I'm Reading...

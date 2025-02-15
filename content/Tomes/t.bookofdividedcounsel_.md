@@ -1,3 +1,6 @@
+---
+{}
+---
 # Book of Divided Counsel
 A conflicting version of the Popol Vuh that recounts the defeat of Vucub-Caquix, the false sun and moon, at the hands of the Hero Twins Hunahpu and Xbalanque. They have long been known as Names, but no one knows with certainty who they serve.
 ## I'm Reading...

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Cordite Supplications
 Prayers addressed to the Thunderskin by a forsaken member of the Sisterhood of the Knot.
 ## I'm Reading...

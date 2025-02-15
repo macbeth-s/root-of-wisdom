@@ -1,3 +1,6 @@
+---
+{}
+---
 # Squash Them!
 A zealous invocation to war against the Worms of a Scale, which led to the formation of vicious mobs in both Rio de Janeiro and Montevideo in the Third History.
 ## I'm Reading...

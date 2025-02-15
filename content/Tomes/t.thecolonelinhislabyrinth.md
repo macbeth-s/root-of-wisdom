@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Colonel in His Labyrinth
 A semi-historical account of the sorrowful last days of the Liberator by a prominent fabulist.
 ## I'm Reading...

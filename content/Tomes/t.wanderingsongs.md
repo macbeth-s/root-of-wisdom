@@ -1,3 +1,6 @@
+---
+{}
+---
 # Wandering Songs
 Candelaria Ponce claimed to have learned these from Wayfinders who visited the Haustorium, 'with only mild edits and redactions.'
 ## I'm Reading...

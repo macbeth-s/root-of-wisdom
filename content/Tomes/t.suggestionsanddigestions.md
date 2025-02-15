@@ -1,3 +1,6 @@
+---
+{}
+---
 # Suggestions and Digestions
 A baffling guide on the tastes and treatments of occult contaminations by Berenechea Bee-Eater.
 ## I'm Reading...

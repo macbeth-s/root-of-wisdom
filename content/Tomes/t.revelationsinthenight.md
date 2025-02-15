@@ -1,3 +1,6 @@
+---
+{}
+---
 # Revelations in the Night
 The ramblings of ex-agent Charles Lacombe on certain secrets of Britain’s Nocturnal Branch, now the Suppression Bureau.
 ## I'm Reading...

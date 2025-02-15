@@ -1,3 +1,6 @@
+---
+{}
+---
 # Bodega Bahamonde
 Chardonnay from the estate of Galician nobility with a storied lineage.
 ## Consider

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Bag of Quinoa
 A reliable grain.
 ## Consider

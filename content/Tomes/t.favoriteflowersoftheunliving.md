@@ -1,3 +1,6 @@
+---
+{}
+---
 # Favorite Flowers of the Unliving
 Paul Siromskiy reviews the uses of flowers in placating the Dead. As a practitioner of Hushery, he held a keen interest in dispossessed spirits, especially those closest to the Glory.
 ## I'm Reading...

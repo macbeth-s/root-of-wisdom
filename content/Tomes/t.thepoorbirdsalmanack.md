@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Poor Bird's Almanack
 Richard Robin intended this to be the first of an annual series to turn his occult interests into financial success. He was promptly arrested and jailed by the ‘blackcoats,’ the military predecessors to the Nocturnal Branch, now the Suppression Bureau.
 ## I'm Reading...

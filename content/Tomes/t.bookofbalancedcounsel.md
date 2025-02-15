@@ -1,3 +1,6 @@
+---
+{}
+---
 # Book of Balanced Counsel
 An incongruent version of the Popol Vuh that recounts the defeat of the Lords of Xibalba, rulers of the underworld, at the hands of the Hero Twins Hunahpu and Xbalanque. They have long been known as Names, but no one knows with certainty who they serve.
 ## I'm Reading...

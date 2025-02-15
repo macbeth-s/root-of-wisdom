@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Arbiters Above
 Almost everyone who spoke with Friar Silas Menard paid him high regard, even in spite (or because) of his intense studies on non-Solar Hours. This work, written at the start of his rectorship, discusses the origins and role of the enigmatic triad called the Chancel.
 ## I'm Reading...

@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Liberator at Evening
 Fabiola Toral's memoir of her time as the Liberator's lover during his four-year exile in the Evening Isles.
 ## I'm Reading...

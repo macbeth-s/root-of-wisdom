@@ -1,3 +1,6 @@
+---
+{}
+---
 # An Account of Nexomancy
 After suffering brutal defeats at the hands of the Batavi, Caecius of the Twinned Legion sought the help of the Binding Seeress. He later recorded the methods by which she aided him.
 ## I'm Reading...

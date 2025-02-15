@@ -1,3 +1,6 @@
+---
+{}
+---
 # Gale
 The mountains howl with a music of ages.
 ## Aspects

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Revelations of Encircling Love
 The visions of anchorite Moises de la Rojia, dedicated to Saint Agnes. 
 ## I'm Reading...

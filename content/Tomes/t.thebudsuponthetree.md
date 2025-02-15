@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Buds Upon the Tree
 A cursory exploration on the origins of the Calyptra, the Law which forbids certain knowledge from mortals, and the patrons of the Watchman’s Tree, under which this same knowledge may be learned by mortals.
 ## I'm Reading...

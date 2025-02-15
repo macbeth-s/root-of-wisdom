@@ -1,3 +1,6 @@
+---
+{}
+---
 # Where Has She Gone?
 The Speeth' - perhaps a single adept, perhaps a council of scholars - hypothesises secret events from limited evidence with persuasive accuracy.
 ## I'm Reading...

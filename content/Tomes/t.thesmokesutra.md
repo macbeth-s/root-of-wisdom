@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Smoke Sutra
 Previously owned by the firefighter Finn Gillian before his death in the 1906 San Francisco earthquake. No one has ever cleared the soot from its parchment.
 ## I'm Reading...

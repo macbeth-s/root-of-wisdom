@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Kusnetsov Papers
 Very little survived the inferno which consumed Prince Kusnsetsov’s estate. These collected letters were found in the ashes, sealed in a pearwood box.
 ## I'm Reading...

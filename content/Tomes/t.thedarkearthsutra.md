@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Dark Earth Sutra
 Always stolen, never given, according to most rumors about it. The Blue Liturgist is said to have stolen it from the Vatican - to destroy it, or to save it from destruction.
 ## I'm Reading...

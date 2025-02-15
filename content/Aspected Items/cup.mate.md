@@ -1,3 +1,6 @@
+---
+{}
+---
 # Mate
 An acerbic drink of friendship.
 ## Consider

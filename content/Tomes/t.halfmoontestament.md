@@ -1,3 +1,6 @@
+---
+{}
+---
 # Half-Moon Testament
 Attributed to St. Sergius or Bacchus, it was uncovered in the ruins of Balis, hidden behind the stones of a crumbling cell.
 ## I'm Reading...

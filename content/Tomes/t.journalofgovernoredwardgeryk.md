@@ -1,3 +1,6 @@
+---
+{}
+---
 # Journal of Governor Edward Geryk
 As the last embers of the War of the Roads burnt out in Europe, the headstrong Governor Edward Geryk carried on their cause in the Evening Isles. Accounted here are his final few months.
 ## I'm Reading...

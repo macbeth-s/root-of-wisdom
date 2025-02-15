@@ -1,3 +1,6 @@
+---
+{}
+---
 # 'The Dottore'
 A grotesquely proportioned yet debonair man, with a smile that slashes across the canvas. His colors never quite settle in one place.<br>Initial Location: [[diningroom|Dining Room]]
 ## Consider

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Taproot Ancestries
 Genealogies of the Blood of the Earth, those descended from the remnant-giants which once roamed the world, the mortal children of the Flint and Wheel’s Name-emanations.
 ## I'm Reading...

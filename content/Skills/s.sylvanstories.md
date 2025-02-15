@@ -1,4 +1,5 @@
 ---
+{}
 ---
 # Sylvan Stories
 It is quiet in the Wood. Listen carefully. 

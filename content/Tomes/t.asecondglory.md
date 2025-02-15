@@ -1,3 +1,6 @@
+---
+{}
+---
 # A Second Glory
 The priest Juceh celebrates the extirpation of the Gods-who-were-stone, those Hours who preceded humanity.
 ## I'm Reading...

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Elegy for an Alchemist
 An anonymous obituary published widely in Noon when news spread of Ursula Sabès' disappearance at sea. Apparently, Robigo was known to tease Bengui that she had been the anonymous author. 
 ## I'm Reading...

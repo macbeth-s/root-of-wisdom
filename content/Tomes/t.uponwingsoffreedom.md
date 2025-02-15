@@ -1,3 +1,6 @@
+---
+{}
+---
 # Upon Wings of Freedom
 The Shorn Brotherhood once attempted to trace the movements of the Roost, eager to uncover the reasons for their choices and predict the site of their next meeting.
 ## I'm Reading...

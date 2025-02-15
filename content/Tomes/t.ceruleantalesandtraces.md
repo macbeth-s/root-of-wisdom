@@ -1,3 +1,6 @@
+---
+{}
+---
 # Cerulean Tales and Traces
 The voluble aeromancer known as the Half-Wind divulges ‘the Old Ways of Young Skies.’
 ## I'm Reading...

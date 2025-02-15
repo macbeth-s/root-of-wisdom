@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Blooms of Anton
 The Carniolan Heresy withstood the flames of inquisition and ablations of time to survive to the present-day. Codified here are its core beliefs, as recorded by one of its foremost proponents, the Preacher Tzara.
 ## I'm Reading...

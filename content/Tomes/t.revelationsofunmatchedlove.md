@@ -1,3 +1,6 @@
+---
+{}
+---
 # Revelations of Unmatched Love
 The prophecies of anchoress Aurea del Valle, dedicated to Saint Lucia the Eyeless.
 ## I'm Reading...

@@ -1,6 +1,5 @@
 ---
 tags: 
-draft: "true"
 ---
 # The Obverse Sutra
 Preston Ingermen directed the construction of a hall of mirrors, inspired by ‘a manifold dream’ induced by this text. Once completed, he only ever entered once.

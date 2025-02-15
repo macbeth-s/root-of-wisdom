@@ -1,3 +1,6 @@
+---
+{}
+---
 # Exercises in the Continuity of the Self (English Translation)
 Techniques proposed by the Haustorical Mutuality for 'the persistence of memory after the body is discarded'.
 ## I'm Reading...

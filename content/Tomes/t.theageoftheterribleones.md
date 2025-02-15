@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Age of the Terrible Ones
 Socorro Valenzuela examines stories of the Terrible Ones, a saurian people said to have known the Hours, and which died out before the advent of humanity, possibly even the Carapace Cross.
 ## I'm Reading...

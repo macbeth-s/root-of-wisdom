@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Treasures of Neahkahnie
 After his people were removed to a reservation, Chief Kilchis of the Tillamook wrote this, an account of his ancestry purportedly containing truths behind the treasure of Neahkahnie Mountain.
 ## I'm Reading...

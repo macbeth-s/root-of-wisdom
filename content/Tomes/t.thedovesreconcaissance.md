@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Dove's Reconcaissance
 During the high days of the Haustorical Mutuality, a nervous Wayfinder who wished to complete a pilgrimage to the Ruin of the Roots trained a dove to scout ahead.
 ## I'm Reading...

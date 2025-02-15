@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Deaths of the Moon (Unpublished "Manuscript")
 Killasimi is a difficult language when written skillfully, but this collection of sinewy fibers requires skill to even be identified as script.
 ## I'm Reading...

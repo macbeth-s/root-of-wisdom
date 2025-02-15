@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Other Immortality
 A melancholic exploration of the relationships between stories, Histories, and immortalities by the symurgist Libreng Ibon.
 ## I'm Reading...

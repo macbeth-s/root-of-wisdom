@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Account of Kanishk at the Spider's Door
 Lok Kahuli, Kanishk's victim and lover, wrote this account, perhaps posthumously.
 ## I'm Reading...

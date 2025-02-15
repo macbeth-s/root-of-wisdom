@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Seven-Neck Sutra
 Infamous for its involvement in the assassination of the pioneer-surgeon Josiah Mills, and the subsequent destruction of his notes on the treatment of Worms.
 ## I'm Reading...

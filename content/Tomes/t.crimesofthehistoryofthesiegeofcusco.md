@@ -1,3 +1,6 @@
+---
+{}
+---
 # Crimes of the History of the Siege of Cusco
 In 1865, a proofreader was tried before a criminal court in Arequipa for inserting a clause into a historical text about the conquest. The Obliviate Paloma Silva was in attendance.
 ## I'm Reading...

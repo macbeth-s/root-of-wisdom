@@ -1,3 +1,6 @@
+---
+{}
+---
 # Four Forbidden Questions
 Leonel Cipagauta, a member of the faculty from 1897-1914, wrote this about his time at the Haustorium.
 ## I'm Reading...

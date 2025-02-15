@@ -1,5 +1,5 @@
 ---
-draft: "true"
+{}
 ---
 # Heaven-Facing Chair
 Someone has leaned back in this chair many times, seeking a thrill amid endless meetings.<br>Initial Location: [[councilroom|Council Room]]

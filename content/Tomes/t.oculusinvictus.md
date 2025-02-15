@@ -1,3 +1,6 @@
+---
+{}
+---
 # Oculus Invictus
 The Blue Liturgist’s phostological work clarifying the Watchman’s place in the doctrines of the Solar Church, and progenitor of the Celian Prayer.
 ## I'm Reading...

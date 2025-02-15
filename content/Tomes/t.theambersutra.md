@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Amber Sutra
 The neurologist Dolen Van Leer studied this sutra before setting off into the Altai Mountains. His descendants continue to search for him.
 ## I'm Reading...

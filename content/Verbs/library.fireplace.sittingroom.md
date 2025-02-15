@@ -1,7 +1,6 @@
 ---
 tags:
   - verb
-draft: "true"
 ---
 # Label
 Flames meant for contemplating.

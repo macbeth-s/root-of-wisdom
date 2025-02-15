@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Rarer Pains
 None who witnessed the old wars of the Hours survived their sheer displays of power. The mountaineer ghoul Anchar incidentally consumed what remained of those spectators, setting down memories of long-forgotten battles.
 ## I'm Reading...

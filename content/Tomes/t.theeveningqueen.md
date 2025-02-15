@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Evening Queen
 An account by Baron Fabricius on the short-lived marriage of Charles XII, the Evening King, to Anna Mazepa, the daughter of his enemy-turned-ally.
 ## I'm Reading...

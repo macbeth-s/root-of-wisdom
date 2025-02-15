@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Tale of Leonor: Frayings
 The third volume chronicling the life of Leonor Curicuillor, the Mother to None and Sister to All.
 ## I'm Reading...

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Morning Bullfights
 In 1911, the journalist and traveling butcher Raimondi Necchio observed and recorded an especially lively series of bullfights in Cartagena. 
 ## I'm Reading...

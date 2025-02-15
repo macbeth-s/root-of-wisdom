@@ -1,3 +1,6 @@
+---
+{}
+---
 # Sisters of the Longhouse
 In 1799, Ganyodaiyo received visions which formed the basis of his Code. Traditionally, they came from the Three Sisters, the spirits of corn, beans, and squash. This delves into how they appeared.
 ## I'm Reading...

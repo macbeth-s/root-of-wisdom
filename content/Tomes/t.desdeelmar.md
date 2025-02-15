@@ -1,3 +1,6 @@
+---
+{}
+---
 # Desde el Mar
 Jeronimo de Aguilar wrote this the night of his rescue in 1519, supposedly casting it into the sea afterwards. The text washed up on Gallo, where Alfonso de Soraluce found it in pristine condition.
 ## I'm Reading...

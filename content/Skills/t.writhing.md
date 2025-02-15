@@ -1,5 +1,5 @@
 ---
-draft:
+{}
 ---
 # Writhing
 Martial arts, violence, worms; the frantic motion of prey caught in a spider's web.

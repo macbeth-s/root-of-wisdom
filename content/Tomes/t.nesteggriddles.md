@@ -1,3 +1,6 @@
+---
+{}
+---
 # Nest-Egg Riddles
 Libreng Ibon was inspired to write this by his participation in excavations of the Haustorium's Frustum from 1931-1932. 
 ## I'm Reading...

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Be Not Unkind
 Joseph Burrs is the ostensibly mortal owner of the Hotel Ciervo in Port Noon. This is an account - perhaps autobiographical - of how he arrived there and attained his current position.
 ## I'm Reading...

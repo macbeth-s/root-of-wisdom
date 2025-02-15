@@ -1,3 +1,6 @@
+---
+{}
+---
 # An Evening Atmosphere
 Audio recorded at the now-abandoned Università Velletri during their Saint John’s Eve celebration in 1902, brought to the Haustorium by Robigo later that year.
 ## I'm Reading...

@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Fourfold Subjugation of the Fourfold Realm
 In which Delilah Molotla draws analogies between the conquest of the Americas and paleolithic myths.
 ## I'm Reading...

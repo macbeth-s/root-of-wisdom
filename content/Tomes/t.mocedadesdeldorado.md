@@ -1,3 +1,6 @@
+---
+{}
+---
 # Mocedades del Dorado
 Or ‘The Youthful Deeds of the Golden.’ A compendium of the Lionsmith’s exploits across Africa, performed before his ascension to an Hour, as recorded by Mago of Gadès.
 ## I'm Reading...

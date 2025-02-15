@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Gospel of Longinus
 An extracanonical account on the death of the Thorn-Crowned Son oft attributed to the Unnumbered Legate who attended his final moments.
 ## I'm Reading...

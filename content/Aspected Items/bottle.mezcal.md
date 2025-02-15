@@ -1,3 +1,6 @@
+---
+{}
+---
 # Mezcal Eterna
 The history plant: roasted, crushed, and twice-distilled.
 ## Consider

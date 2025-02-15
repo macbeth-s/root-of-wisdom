@@ -1,3 +1,6 @@
+---
+{}
+---
 # Revelations of Lost Love
 The prophecies of anchoress Madeline Cross, dedicated to Saint Hubert of the White Copse.
 ## I'm Reading...

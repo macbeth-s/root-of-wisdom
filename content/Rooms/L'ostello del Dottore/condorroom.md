@@ -3,7 +3,6 @@ aliases:
 tags:
   - "#room"
   - ostello
-draft: "true"
 ---
 # Condor Room
 Candelaria Ponce, pastoralist and poet of the Old Andes, was among the first esteemed guests Dottore Robigo invited to form the inaugural faculty of the Haustorium. Ponce was very old by time she came, but she took to the Haustorium well and was increasingly inspired by its mountaintop prospect to observe the flight of the mighty Andean condor. She carefully purchased or wove many of this room's avian decorations herself, and requested a sky burial when she became terminally robigoid.

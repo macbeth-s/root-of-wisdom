@@ -1,3 +1,6 @@
+---
+{}
+---
 # War-Songs of the Dragonslayers
 Ancient oral traditions of heroic valor, maintained through the screeching of eagles and the scratching of knives.
 ## I'm Reading...

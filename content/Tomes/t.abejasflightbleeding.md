@@ -1,3 +1,6 @@
+---
+{}
+---
 # Abeja's Flight: Bleeding
 The first of Fatima Abeja’s hagiographies, examining the life of Rosa de Lima, the Thorned Saint. She wrote this in her wandering days while visiting the Convent of Santo Domingo, where she took shelter during her time in La Paz.
 ## I'm Reading...

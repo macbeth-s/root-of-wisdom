@@ -1,3 +1,6 @@
+---
+{}
+---
 # Eternity, the Uprooting
 A chillingly lucid description of the relationship between Eternity and History by the symurgist Libreng Ibon. 
 ## I'm Reading...

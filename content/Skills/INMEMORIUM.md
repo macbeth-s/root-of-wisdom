@@ -1,3 +1,6 @@
+---
+{}
+---
 *DEP to the following skills from BOOK of HOURS which got the chop for ROOT OF WISDOM:*
 - *Sickle & Eclipse*
 - *Sharps*

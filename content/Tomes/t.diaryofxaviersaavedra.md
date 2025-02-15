@@ -1,3 +1,6 @@
+---
+{}
+---
 # Diary of Xavier Saavedra
 The private ruminations and neurotic confessions of Father Xavier Saavedra, CA, final rector of the Colegio de Santa Potenciana and failed defender of the Company Anchorite in Spanish America. 
 ## I'm Reading...

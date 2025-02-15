@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Bright Sutra
 In 1920, Professor Adelaide Weiss shared copies of this text to the newest cohort of her pharmacology students. The surviving trio were put on trial later that year.
 ## I'm Reading...

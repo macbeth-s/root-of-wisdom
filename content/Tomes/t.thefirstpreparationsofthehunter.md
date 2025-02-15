@@ -1,3 +1,6 @@
+---
+{}
+---
 # The First Preparations of the Hunter
 A transcription of an old legend passed down in the Black Forest, as told by the shrewd woodcutter Thorynn Tel’Minas.
 ## I'm Reading...

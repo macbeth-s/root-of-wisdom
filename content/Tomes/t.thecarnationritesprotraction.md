@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Carnation Rites: Protraction
 The second volume of para-Martinezist operations, traditionally attributed to Pierre André de Grainville. This is in the original Greek.
 ## I'm Reading...

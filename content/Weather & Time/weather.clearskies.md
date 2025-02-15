@@ -1,3 +1,6 @@
+---
+{}
+---
 # Clear Skies
 From the cliffs we can see La Espinada, and so much more.
 ## Aspects

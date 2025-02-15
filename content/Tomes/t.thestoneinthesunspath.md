@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Stone in the Sun's Path
 An account of the Earthshaker's visit to Tiwanaku, related by the sage called 'Micaela' to the leadership of the Viceroyalty during the uncertainties of the Intercalate. 
 ## I'm Reading...

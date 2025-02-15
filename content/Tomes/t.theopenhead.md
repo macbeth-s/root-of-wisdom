@@ -1,3 +1,6 @@
+---
+{}
+---
 # THE OPEN HEAD
 Ilse Bischoff's hallucinatory quasi-documentary, notionally about the Greco-Turkish War of the previous decade.
 ## I'm Reading...

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Etymologiae Inemendatae
 The original edition of Isidore of Seville’s encyclopedic work, containing fragmentary knowledge on enigmatic topics otherwise absent from the world. 
 ## I'm Reading...

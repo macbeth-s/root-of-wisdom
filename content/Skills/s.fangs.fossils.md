@@ -1,5 +1,5 @@
 ---
-draft:
+{}
 ---
 # Fangs & Fossils
 Of dead beasts and the parts of beasts that make others dead.

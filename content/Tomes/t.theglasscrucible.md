@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Glass Crucible
 A treatise on monsters by the temperamental Kume Tsūten, published after his move to L’ostello del Dottore. The Faculty debated over categorizing it as a posthumous work.
 ## I'm Reading...

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Delicacies of the Sea
 Hilda Brokdottir’s exploration of Scandinavian coastal cuisine, sometimes retitled as ‘Delica-Seas.’
 ## I'm Reading...

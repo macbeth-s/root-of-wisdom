@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Triangular Text
 An outline of ascendancy by the infamous Grail-long Jacques St. Germain, bound in the shape of the Mansus.
 ## I'm Reading...

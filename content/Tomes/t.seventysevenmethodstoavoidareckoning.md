@@ -1,3 +1,6 @@
+---
+{}
+---
 # Seventy-Seven Methods to Avoid a Reckoning
 Anonymously-published strategies on escaping the mobs of the invisible world. Praised by officers of the Duties; loathed by the criminal organization called the Reckoners.
 ## I'm Reading...

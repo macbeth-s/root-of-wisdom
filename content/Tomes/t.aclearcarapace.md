@@ -1,3 +1,6 @@
+---
+{}
+---
 # A Clear Carapace
 The entomologist Juliana Zawistoski’s journal, written during her expedition to Mauna Kea.
 ## I'm Reading...

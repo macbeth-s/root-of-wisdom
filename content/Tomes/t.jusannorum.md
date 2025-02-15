@@ -1,3 +1,6 @@
+---
+{}
+---
 # Jus Annorum
 All (or almost all) mortals are aware of their limited lifespan, but few know of the Cindered Tally, which allots to each person their set amount of prospective Years. This treatise by the Blue Liturgist was written to help curtail its abuse, which vastly increased following the Intercalate.
 ## I'm Reading...

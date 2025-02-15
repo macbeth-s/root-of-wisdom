@@ -1,3 +1,6 @@
+---
+{}
+---
 # Testimony of the Mendicant God
 The ravings of an almswoman arrested for practice of the Night Arts openly in the busy streets of the Rock of the Owl. 
 ## I'm Reading...

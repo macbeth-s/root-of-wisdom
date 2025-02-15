@@ -1,3 +1,6 @@
+---
+{}
+---
 # Catechism of Exhumation
 A secret manual for initiates of the Company Anchorite. The Spanish edition was revised and redacted in 1874.
 ## I'm Reading...

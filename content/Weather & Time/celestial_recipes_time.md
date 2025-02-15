@@ -1,3 +1,6 @@
+---
+{}
+---
 # Seasons
 ## Dry Season
 The Horned-Axe's season.

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Book of Joined Counsel
 A diverging version of the Popol Vuh that recounts the defeat of Zipacna and Cabrakan, brothers who raised and destroyed mountains, at the hands of the Hero Twins Hunahpu and Xbalanque. They have long been known as Names, but no one knows with certainty who they serve.
 ## I'm Reading...

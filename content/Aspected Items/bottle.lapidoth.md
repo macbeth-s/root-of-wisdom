@@ -1,3 +1,6 @@
+---
+{}
+---
 # Lapidoth Winery
 A bright, sparkling rosado.
 ## Consider

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Sky-River Voyages
 An anonymous wayfinder describes night-journeys taken through the starlit river called Mayu.
 ## I'm Reading...

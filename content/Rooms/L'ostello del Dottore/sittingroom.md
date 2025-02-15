@@ -3,7 +3,6 @@ aliases:
 tags:
   - "#room"
   - ostello
-draft: "true"
 ---
 # Sitting-Room
 This room and the adjacent one were one larger hall, reserved for the small contingent of soldiers who followed the Fourfold nobility to the Ruin of the Roots. The Company Anchorite and the Curicuillorians split the hall into smaller rooms, since the Company took their meals in their refectory. This room was for discussion and debate between the two factions, with meetings alternatively led by Martina la Maga and Father Bahamonde. Apparently it took the groups forty years (long past the deaths of either Bahamonde or Martina) to agree upon the exact binds of their covenant, and by then it was too late to matter much.

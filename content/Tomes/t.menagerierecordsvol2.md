@@ -1,3 +1,6 @@
+---
+{}
+---
 # Menagerie Records Vol. 2
 Nacéra Bengui's all-too-gleeful record of visitors to the Haustorium maimed, killed, or merely horrified by the denizens of her menagerie.
 ## I'm Reading...

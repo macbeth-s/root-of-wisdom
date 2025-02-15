@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Spider's Silver Thread
 A translation of Akutagawa’s ‘Kumo no Gin Ito,’ an unpublished version of his similarly-titled short story. Its structure is much the same, but the roles of the sinner and savior have been swapped.
 ## I'm Reading...

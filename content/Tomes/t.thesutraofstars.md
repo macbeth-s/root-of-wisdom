@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Sutra of Stars
 Lavinia Stone, the cubist painter, quoted this at the unveiling of her Constellation Suite, after which a meteorite crushed her.
 ## I'm Reading...

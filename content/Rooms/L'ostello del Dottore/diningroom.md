@@ -3,7 +3,6 @@ aliases:
 tags:
   - "#room"
   - ostello
-draft: "true"
 ---
 # Dining Room
 The first meal Teodoro Cisneros y Peralta was served here after recovering from his ailment consisted entirely of eggs. Almudena Shuña, the Curicuillorian who prepared his meal, told him in no uncertain terms that the mysteries of the Haustorium begin in the branches, where eggs are laid in the nest, but end in the roots, where the blood is still spilt.

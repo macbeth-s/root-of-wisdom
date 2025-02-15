@@ -1,3 +1,6 @@
+---
+{}
+---
 # Beneath the Surface
 The diver Barnabus B. Barnabus explored the notorious Barrett Reef numerous times. This is an account of his final trip, after which he retired from diving altogether.
 ## I'm Reading...

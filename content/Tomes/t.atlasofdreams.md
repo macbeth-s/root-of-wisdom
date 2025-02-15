@@ -1,3 +1,6 @@
+---
+{}
+---
 # Atlas of Dreams
 Maps of Mansus and its Ways, compiled over centuries by many iterations of the Obliviates and their predecessors.
 ## I'm Reading...

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Why We Walk
 In 1910, the few true Wayfinders who practiced their traditions met at Huayna Picchu to reflect and rededicate themselves. Someone took notes, likely in secret.
 ## I'm Reading...

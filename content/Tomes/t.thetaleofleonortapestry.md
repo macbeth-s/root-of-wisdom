@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Tale of Leonor: Tapestry
 The second volume chronicling the life of Leonor Curicuillor, the Threadkeeper and Lady of the Roots.
 ## I'm Reading...

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Regurgitations
 An attempt by Sonia Quiroz to re-enact the revolting visions she experienced while seasick on a trans-Pacific voyage of the Hebe Stanton. 
 ## I'm Reading...

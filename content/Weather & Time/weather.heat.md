@@ -1,3 +1,6 @@
+---
+{}
+---
 # Heat
 The sun is not what it was, but he looks down harshly today.
 ## Aspects

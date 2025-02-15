@@ -1,3 +1,6 @@
+---
+{}
+---
 # Dawnlion Coffee
 Coffee from the motley highlands.
 ## Consider

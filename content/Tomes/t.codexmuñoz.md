@@ -1,3 +1,6 @@
+---
+{}
+---
 # Codex Muñoz
 A sixteenth-century record regarding the Owl Warriors, covert combatants of the Triple Alliance, from the collection of the late Dr Ernesto Muñoz.
 ## I'm Reading...

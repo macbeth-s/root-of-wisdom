@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Sutra of Bones
 In the aftermath of Black Tuesday, Reginald Pickins, the draconian banker, sold off his collection of rare manuscripts, but clung to this through his penury and even his confinement.
 ## I'm Reading...

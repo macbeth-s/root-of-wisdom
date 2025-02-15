@@ -3,7 +3,6 @@ aliases:
 tags:
   - "#room"
   - "#ostello"
-draft: "true"
 ---
 # Council Room
 Since their establishment in Galicia, the Ordo Limiae has held significant sway over the Spanish Imperium and its old posessions, even in this era of republics and military dictatorships. As soon as the Company Anchorite was expelled in 1766, the Ordo--the Company's rivals in many occult matters--set a path straight to their soon-defunct Colegio to 'maintain its valuable archives and assist in its curation.' (Saavedra, the Colegio's last rector, wrote instead that the Obliviates came merely to gloat, and blamed their influence for the Company's expulsion.) The Obliviates have since had frequent contact with the Haustorium, and will even use it upon occasion as a meeting-place.

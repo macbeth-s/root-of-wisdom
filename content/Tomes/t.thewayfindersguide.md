@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Wayfinders' Guide
 An introductory manual for initiates to the New Wayfinders, a fledgling society founded in 1931 taking after the legendary Wayfinders of old.
 ## I'm Reading...

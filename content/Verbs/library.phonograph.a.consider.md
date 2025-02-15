@@ -1,7 +1,6 @@
 ---
 tags:
   - verb
-draft: "true"
 ---
 # Atmospheric Phonograph
 Listen and let the seeds of inspiration take root.<br>Location: [[sittingroom|Sitting-Room]]

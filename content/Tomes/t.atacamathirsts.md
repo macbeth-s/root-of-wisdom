@@ -1,3 +1,6 @@
+---
+{}
+---
 # Atacama Thirsts
 Fernando Arriaza’s survey of the Atacama Desert and its relationship with humanity.
 ## I'm Reading...

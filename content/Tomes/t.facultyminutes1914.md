@@ -1,3 +1,6 @@
+---
+{}
+---
 # Faculty Minutes, 1914
 The minutes of a somber meeting of the Haustorium's faculty. 
 ## I'm Reading...

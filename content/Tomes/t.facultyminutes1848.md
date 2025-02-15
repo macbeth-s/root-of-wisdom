@@ -1,3 +1,6 @@
+---
+{}
+---
 # Faculty Minutes, 1848
 The minutes of a tense political meeting of the Haustorium's faculty. 
 ## I'm Reading...

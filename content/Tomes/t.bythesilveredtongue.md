@@ -1,3 +1,6 @@
+---
+{}
+---
 # By the Silvered Tongue
 Beatriz, the Ruby Widow, details ‘the sharper histories’ of the Spanish conquest of Mexico in which the Sisterhood of the Triple Knot played a vital role - through their control of interpretation.
 ## I'm Reading...

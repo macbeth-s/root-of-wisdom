@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Child of Colophon
 Vylix, a mendicant initiate of the Sisterhood of the Knot, interviews one Phalanx, who escaped consumption by his immortal parents.
 ## I'm Reading...

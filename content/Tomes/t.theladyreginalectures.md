@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Lady Regina Lectures
 A scorched recording of an endowed lecture by Professor Eugenia Matarasso at Velletri's Department of Mycology.
 ## I'm Reading...

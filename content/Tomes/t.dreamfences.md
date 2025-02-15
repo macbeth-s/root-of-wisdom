@@ -1,3 +1,6 @@
+---
+{}
+---
 # Dreamfences
 Blanca Quinteras Indice's first and only surrealist novel, which many consider led directly to her decision to return to the "certainties of poetry."
 ## I'm Reading...

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Menagerie Records Vol. 3
 Nacéra Bengui's near-incoherent record of conversations she had with the denizens of her menagerie. Bengui was devoured halfway through filling the last page.
 ## I'm Reading...

@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Coral Sutra
 Lorinda the Brusque hid the original work, but claimed to have entirely memorized its contents. She would recite them to anyone who asked, but only upon the sea in the midst of a storm.
 ## I'm Reading...

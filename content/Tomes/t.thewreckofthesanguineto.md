@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Wreck of the Sanguineto
 A captain's log from the disastrous voyage of the Sanguineto, preserved by the ship's chaplain, Fray Carlos Ginez, CA. 
 ## I'm Reading...

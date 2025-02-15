@@ -1,3 +1,6 @@
+---
+{}
+---
 # Nuestra Eclosión
 The manifesto of the Shorn Brotherhood, that cadre of crypto-insurgents active throughout the Americas, first distributed throughout Antofagasta at the dawn of the Saltpeter War.
 ## I'm Reading...

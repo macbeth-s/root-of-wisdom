@@ -1,3 +1,6 @@
+---
+{}
+---
 # To Travel Ever Onwards
 The Wayfinders rarely bothered to set down maps to their pilgrimage sites, preferring instead to pass their routes down through oral tradition. This tale, recounted by Don Óscar Zavala, was supposedly the means by which he first reached the Haustorium.
 ## I'm Reading...

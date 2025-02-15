@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Secrets in Silver
 The triad of Hours called the Chancel enact an authority disallowed to any other, but certain powers have persuaded their members towards certain resolutions. The anonymous author of this text speculates on who these powers are and of their beneficiaries.
 ## I'm Reading...

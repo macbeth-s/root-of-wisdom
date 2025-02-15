@@ -1,3 +1,6 @@
+---
+{}
+---
 # The World Does Not Weep
 Brown' Joshua found this in a well in Hamath. There's an unlikely story that it was abandoned by Alexander during his retreat from Issus.
 ## I'm Reading...

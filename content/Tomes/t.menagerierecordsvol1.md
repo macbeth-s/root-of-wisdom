@@ -1,3 +1,6 @@
+---
+{}
+---
 # Menagerie Records Vol. 1
 Nacéra Bengui's self-aggrandazing catalogue of living possessions brought with her to the Haustorium.
 ## I'm Reading...

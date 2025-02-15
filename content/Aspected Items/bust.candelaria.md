@@ -1,5 +1,5 @@
 ---
-draft: "true"
+{}
 ---
 # 'Candelaria Ponce'
 This bust is carved from andesite.<br>Initial Location: [[condorroom|Condor Room]]

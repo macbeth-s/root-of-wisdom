@@ -1,3 +1,6 @@
+---
+{}
+---
 # Unified Theory of Post-Solar Reformations 
 In which Delilah Molotla analyzes the reformations that occured in several religious traditions after 1582. 
 ## I'm Reading...

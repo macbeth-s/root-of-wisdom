@@ -1,3 +1,6 @@
+---
+{}
+---
 # Interviews with the Invisible: Kaunas
 An interview with a newly-kindled Edge-long - who the journalist Amadea Franciacorta purported to have met through the 1925 Reckoner War.
 ## I'm Reading...

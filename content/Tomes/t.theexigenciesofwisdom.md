@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Exigencies of Wisdom
 Don Óscar Zavala's final work, and a complete rejection of everything he had written before. 
 ## I'm Reading...

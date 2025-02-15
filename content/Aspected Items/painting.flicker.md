@@ -1,3 +1,6 @@
+---
+{}
+---
 # 'Pito in the Bush'
 A woodpecker flits near a shrub.<br>Initial Location: [[condorroom|Condor Room]]
 ## Scrutiny

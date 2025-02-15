@@ -1,3 +1,6 @@
+---
+{}
+---
 # Those Most Glorious and Rightful Crusades of Night
 The ‘Glorious Crusades’ by which humankind earned its prominence in the world. This was released by the A.E.W., an organization promoting the superiority of mortals, or of the Wake.
 ## I'm Reading...

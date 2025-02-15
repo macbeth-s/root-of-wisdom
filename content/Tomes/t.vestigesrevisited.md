@@ -1,3 +1,6 @@
+---
+{}
+---
 # Vestiges Revisited
 Sardonic commentary by William Gore on his ‘Wainscot Histories’ written nearly five decades after its publication. 
 ## I'm Reading...

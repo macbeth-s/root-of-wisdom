@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Bee-Eater's Contribution
 Berenechea Bee-Eater's collection of ephemera and notes provided to the Haustorical Mutuality prior to the publication of their Medusan Commentaries.
 ## I'm Reading...

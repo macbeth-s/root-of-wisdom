@@ -1,3 +1,6 @@
+---
+{}
+---
 # Gennaro in Solfatara
 A 17th-century oratorio from the soprano-composer Lilla Donelli on the days before the execution of St Januarius, narrated by his wet nurse Eusebia.
 ## I'm Reading...

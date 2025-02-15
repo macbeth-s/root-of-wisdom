@@ -1,3 +1,6 @@
+---
+{}
+---
 # Chill
 A biting cold.
 ## Aspects

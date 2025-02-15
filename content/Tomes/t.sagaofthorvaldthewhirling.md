@@ -1,3 +1,6 @@
+---
+{}
+---
 # Saga of Thorvald the Whirling
 An aberrant account of Thorvald Eiriksson and his burial in Vinland, by the chronicler Hugin Ekgard.
 ## I'm Reading...

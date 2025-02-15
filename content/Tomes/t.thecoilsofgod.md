@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Coils of God
 The journal of Zane Marc Gentis, recounting his desolate expedition to the Temple of Seven Coils, once built in the Third History, now present in every History.
 ## I'm Reading...

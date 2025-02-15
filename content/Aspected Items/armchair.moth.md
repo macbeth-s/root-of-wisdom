@@ -1,5 +1,5 @@
 ---
-draft: 
+{}
 ---
 # Skewbald Chair
 A member of the Dal Fabbres Chiraoscuro Suite. The Dottore commissioned and imported the suite from Italy to help usher in a new era of the Haustorium.

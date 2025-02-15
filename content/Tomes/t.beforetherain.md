@@ -1,3 +1,6 @@
+---
+{}
+---
 # Before the Rain
 A terrifying poem, supposedly taken from oral traditions of herders in North Africa in the first century. 
 ## I'm Reading...

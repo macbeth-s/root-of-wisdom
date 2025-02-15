@@ -1,5 +1,5 @@
 ---
-draft: "true"
+{}
 ---
 # Pendulum Clock
 Inscribed upon the iron weight is the closed eye of the Obliviates. The hour hand is a feather, the minute hand ribboned and twisted.

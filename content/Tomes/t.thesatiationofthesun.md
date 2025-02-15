@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Satiation of the Sun
 Delilah Molotla's seminal study on blood sacrifices across various solar traditions. In the foreward, she explains she wrote in Nahuatl so "no one starts any White Legend shit with my work."
 ## I'm Reading...

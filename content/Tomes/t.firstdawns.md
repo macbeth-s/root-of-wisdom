@@ -1,3 +1,6 @@
+---
+{}
+---
 # First Dawns
 Sor Juana’s poem on the ‘Suns in the Sun.’ Her writings brought her into conflict with the schismed Church, who saw her radical positions as a danger to its tenuous unity in the colonies.
 ## I'm Reading...

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Felicidad Rosa
 A duet for guitar and guitarrón, composed by a younger and bolder Enrique Esquivel for his thesis at the University of San Marcos.
 ## I'm Reading...

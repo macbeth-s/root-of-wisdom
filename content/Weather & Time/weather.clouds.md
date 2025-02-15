@@ -1,3 +1,6 @@
+---
+{}
+---
 # Clouds
 We find ourselves hidden in clouds.
 ## Aspects

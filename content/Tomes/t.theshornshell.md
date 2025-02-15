@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Shorn Shell
 Gilberto Barbosa of the Shorn Brotherhood purportedly transcribed this from an immense abalone shell washed up on the Samoan coast.
 ## I'm Reading...

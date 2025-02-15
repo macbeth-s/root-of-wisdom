@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Old Grains of Sand
 Aaron Mortero writes on the ‘primeval wonders’ he came across upon the shores of Curaçao in this sentimental (though meagerly-detailed) work.
 ## I'm Reading...

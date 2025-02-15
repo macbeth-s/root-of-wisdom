@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Carnation Rites: Commemoration
 Para-Martinezist operations, traditionally attributed to Pierre André de Grainville. This is translated from the original Greek.
 ## I'm Reading...

@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Fire-Circle Tantra
 This rare text was consulted by the Shorn Brotherhood during the Saltpeter War as a potential clue to how they might disrupt the course of the struggle.
 ## I'm Reading...

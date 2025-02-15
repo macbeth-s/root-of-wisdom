@@ -1,3 +1,6 @@
+---
+{}
+---
 # Red Gulf
 A rambunctious jazz standard recorded in honor of Robigo's brief visit to the library called Crossrow. 
 ## I'm Reading...

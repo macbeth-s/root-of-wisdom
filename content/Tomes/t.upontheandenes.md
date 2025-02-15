@@ -1,3 +1,6 @@
+---
+{}
+---
 # Upon the Andenes
 A compendium of unorthodox gardening techniques practiced throughout the Andes by the agrarian researcher Inés Sisa.
 ## I'm Reading...

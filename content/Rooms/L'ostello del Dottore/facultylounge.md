@@ -3,7 +3,6 @@ aliases:
 tags:
   - "#room"
   - "#ostello"
-draft: "true"
 ---
 # Faculty Lounge
 When Dottore Robigo so orders, the faculty of the Haustorium gather here to nervously sip drinks and smile blandly at the Protector's long-winded anecdotes. Such a summons has not been given in decades, much to the relief of the handful of scholars who care for their respective wings of the library.

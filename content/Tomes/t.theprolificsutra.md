@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Prolific Sutra
 When a medium of ill repute vanished, her abandoned belongings were auctioned off. Among them was this text, won by Dr Ernesto Muñoz, later donated after his disappearance.
 ## I'm Reading...

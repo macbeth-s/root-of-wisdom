@@ -1,3 +1,6 @@
+---
+{}
+---
 # In Galatea's Arms
 A journal by Shura the Pythian on sculpture, modeled closely on the creation of the Names of the Grail known as Ivories. 
 ## I'm Reading...

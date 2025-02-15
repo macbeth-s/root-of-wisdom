@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Banes of Malediction
 A grimoire on the raising and dispelling of curses, authored by Almudena Shuña, the last of the Curicuillorians.
 ## I'm Reading...

@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Unseen Sutra
 No records of the Unseen Sutra’s previous owners, nor even of its origin, are known to exist. The Faculty have proposed many theories over the decades, but all of them - most of them - know better than to delve into its enigmatic past.
 ## I'm Reading...

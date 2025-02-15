@@ -1,5 +1,5 @@
 ---
-draft: 
+{}
 ---
 # Scratching-Post
 For quelling violent urges.

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Against Spelunking, Delving, and Other Endeavors of Great Foolish and Destructive Ends
 Leonel Cipagauta's pitiful final work, a result of the madness he acquired exploring the 'roots of the Haustorium.'
 ## I'm Reading...

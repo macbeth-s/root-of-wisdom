@@ -1,3 +1,6 @@
+---
+{}
+---
 # Bahamonde's Armchair
 Draped in plush violet.
 

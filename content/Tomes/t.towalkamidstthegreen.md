@@ -1,3 +1,6 @@
+---
+{}
+---
 # To Walk Amidst the Green
 One identified as ‘Silk-and-Silver’ visits the Grove of Green Immortals to observe their daily lifestyle and healing rituals.
 ## I'm Reading...

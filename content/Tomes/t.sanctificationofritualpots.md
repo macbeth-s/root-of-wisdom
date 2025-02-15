@@ -1,3 +1,6 @@
+---
+{}
+---
 # Sanctification of Ritual Pots
 The Hushery-practitioner Paul Siromskiy outlines the materials and methods required to craft vessels capable of containing delinquent Mansus-spirits, and other entities beside. 
 ## I'm Reading...

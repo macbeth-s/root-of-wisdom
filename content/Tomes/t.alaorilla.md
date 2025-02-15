@@ -1,3 +1,6 @@
+---
+{}
+---
 # A la Orilla
 Recovered from Jeronimo de Aguilar’s home the day after his disappearance. The archbishop of Mexico furtively entrusted this to Father Bahamonde before he departed to found the Colegio.
 ## I'm Reading...

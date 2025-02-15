@@ -1,3 +1,6 @@
+---
+{}
+---
 # Let us be as Lighthouses
 Henri de Miffonis explains how humanity can become lighthouses, by which he seems to mean masters of History.
 ## I'm Reading...

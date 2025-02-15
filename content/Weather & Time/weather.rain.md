@@ -1,3 +1,6 @@
+---
+{}
+---
 # Rain
 Soft rain brings life... unfortunately.
 ## Aspects

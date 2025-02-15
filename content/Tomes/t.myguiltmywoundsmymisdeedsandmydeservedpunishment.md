@@ -1,3 +1,6 @@
+---
+{}
+---
 # My Guilt, My Wounds, My Misdeeds, and My Deserved Punishment
 A tortured confessional from the Obliviate Paul Siromsky, authored before his quiet disappearance.
 ## I'm Reading...

@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Chronicle Inexhaustible
 Tales passed down by the Wayfinders, the archaic order of traveler-clairvoyants, compiled by Don Óscar Zavala.
 ## I'm Reading...

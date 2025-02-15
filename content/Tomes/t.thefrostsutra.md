@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Frost Sutra
 The escape artist Gideon Gray had his favorite phrase of this text tattooed on his arm. It was the sole means by which his body was identified.
 ## I'm Reading...

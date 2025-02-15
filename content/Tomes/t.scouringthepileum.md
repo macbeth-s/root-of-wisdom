@@ -1,3 +1,6 @@
+---
+{}
+---
 # Scouring the Pileum
 A manual of mycology by Dr. Liladhar Kadam, a known collaborator with (and eventual victim of) the Tragulari.
 ## I'm Reading...

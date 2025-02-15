@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Inexhaustible Sutra
 The hermetic playwright Ashton Bräuner often had his characters refer to this, though it remains unclear if he ever read it himself.
 ## I'm Reading...

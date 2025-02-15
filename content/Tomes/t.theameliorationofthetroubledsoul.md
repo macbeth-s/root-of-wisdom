@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Amelioration of the Troubled Soul
 Methods for avoiding the temptations and perils of Dream, as taught by the Yeshiva Tigris.
 ## I'm Reading...

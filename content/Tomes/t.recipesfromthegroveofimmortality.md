@@ -1,3 +1,6 @@
+---
+{}
+---
 # Recipes from the Grove of Immortality
 Professor Ji Yuan’s gastronomic work exploring ‘forbidden cuisines’ developed by the Green Sages.
 ## I'm Reading...

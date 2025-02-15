@@ -1,3 +1,6 @@
+---
+{}
+---
 # Identifying the Heresies of the Company Anchorite
 The Inquisitor Adán Menéndez was convinced that the Company Anchorite was a heretical order. He dedicated his life to proving as much.
 ## I'm Reading...

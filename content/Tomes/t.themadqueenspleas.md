@@ -1,3 +1,6 @@
+---
+{}
+---
 # The Mad Queen's Pleas
 A biography of Queen Joanna the Mad after she was confined to a small summer palace by her son Charles V despite their nominal coregency.
 ## I'm Reading...

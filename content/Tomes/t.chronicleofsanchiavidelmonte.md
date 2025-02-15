@@ -1,3 +1,6 @@
+---
+{}
+---
 # Chronicle of San Chiavi del Monte
 A 15th century chronicle meant to legitimaze the line of the Universal Monarchs, but which ended up being used to descredit them during the War of the Roads. 
 ## I'm Reading...

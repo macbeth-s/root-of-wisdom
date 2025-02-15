@@ -1,3 +1,6 @@
+---
+{}
+---
 # Sun
 Thunder-roaring, lightning-lashed skies.
 ## Aspects

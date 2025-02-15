@@ -1,6 +1,5 @@
 ---
 tags: []
-draft: "true"
 ---
 # Label
 Thirteen at Gallo refuse to flee.<br>

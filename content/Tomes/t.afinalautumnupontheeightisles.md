@@ -1,3 +1,6 @@
+---
+{}
+---
 # A Final Autumn Upon the Eight Isles
 Tsume, the Ninth Master of the Mirror-Makers, was brought into the service of the Shogunate of Auspicious Reeds, charged with securing their residence, the Flower Palace, from thieves. In these journals, he reveals the real reasons behind his employment and eventual departure.
 ## I'm Reading...

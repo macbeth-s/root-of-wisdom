@@ -1,3 +1,6 @@
+---
+{}
+---
 # Espadas de Hojas y Raíces
 Obscure horticultural traditions practiced across South America, from the Andean peaks to the Amazonian basin, as documented by the conquistador Alfonso de Soraluce.
 ## I'm Reading...

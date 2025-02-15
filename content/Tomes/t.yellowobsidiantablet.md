@@ -1,3 +1,6 @@
+---
+{}
+---
 # Yellow Obsidian Tablet
 Supposedly copied from a tablet of yellow obsidian which serves as the Covenant-stone of Crossrow - the token which gives that Library shelter beneath the Watchman's Tree.
 ## I'm Reading...

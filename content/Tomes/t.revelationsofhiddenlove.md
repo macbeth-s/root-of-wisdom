@@ -1,3 +1,6 @@
+---
+{}
+---
 # Revelations of Hidden Love
 The prophecies of anchorite Isais de Jaén, dedicated to Saint Vincent Martyr. 
 ## I'm Reading...

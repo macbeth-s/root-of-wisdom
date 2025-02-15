@@ -1,5 +1,5 @@
 ---
-draft:
+{}
 ---
 # Refining & Goldsmithing
 The glorious arts of retaining only what is necessary for beauty. Let the refiner's fire cleanse impurities.

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Rapt in the King
 Detailed accounts of secret bacchanals and ecstatic dances observed in necropolises and graveyards in Southern Europe, in Egypt and in Anatolia. The author is a self-confessed ghoul, an eater of buried flesh: he claims to have witnessed the dances while at his feasting.
 ## I'm Reading...

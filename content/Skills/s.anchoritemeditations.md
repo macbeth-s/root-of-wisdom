@@ -1,5 +1,5 @@
 ---
-draft:
+{}
 ---
 # Anchorite Meditations
 The secretive friars of the Company Anchorite believed those who saw only walls would see ways of escape unknown to the liberated.

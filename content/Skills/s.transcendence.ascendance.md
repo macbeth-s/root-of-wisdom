@@ -1,5 +1,5 @@
 ---
-draft:
+{}
 ---
 # Transcendence & Ascendance
 The ways of rising above and seeing without.
