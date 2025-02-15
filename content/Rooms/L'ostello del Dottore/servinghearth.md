@@ -13,14 +13,14 @@ No flame alit, no edible food within. Some artistry might breathe live back into
 <br>**Required:** Nectar 7, Forge 7
 ## Contents
 - [[library.kitchen.lostello|Hearth: L'ostello]]
-- Kitchen Bowls  
-- Mortar and Pestle  
-- Spice Scales  
-- Lapidoth Winery (Bottle)  
+- [[bowls.kitchen|Kitchen Bowls]]  
+- [[mortar.pestle|Mortar and Pestle]]  
+- [[scales.spice|Spice Scales]]  
+- [[bottle.lapidoth|Lapidoth Winery]] (Bottle)  
 - [Leathy](https://uadaf.theevilroot.xyz/rowenarium/element/leathy)  
-- Hen's Egg (x3)
-- Bag of Quinoa  
-- Basket of Onions  
-- Dawnlion Coffee (Packet)
+- [Hen's Egg](https://uadaf.theevilroot.xyz/rowenarium/element/egg.chicken) (x3)
+- [[quinoa|Bag of Quinoa]]  
+- [Basket of Onions](https://uadaf.theevilroot.xyz/rowenarium/element/veg.basket.onions)
+- [[pot.coffee.dawnlion|Dawnlion Coffee]] (Packet)
 
 Wing: [[wing.ostello|L'Ostello del Dottore]]

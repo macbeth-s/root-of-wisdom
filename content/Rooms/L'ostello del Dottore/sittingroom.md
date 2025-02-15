@@ -23,4 +23,4 @@ Furniture fights against itself, chair legs shifting heights and upholstery stra
 - [Potted Fern](https://uadaf.theevilroot.xyz/rowenarium/element/pot.fern)
 - [[cup.mate|Mate]] (Gourd)
 - Uncatalogued Book ([[wing.ostello|Ostello]])
-Wing:[[wing.ostello|L'Ostello del Dottore]]
+Wing: [[wing.ostello|L'Ostello del Dottore]]

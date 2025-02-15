@@ -18,7 +18,7 @@ The miasma here is neither chilly nor blinding. It's crisp as autumn. Contaminat
 - library.instrument.piano  
 - library.easel  
 - library.workbench.potter
-- "Leonel Cipagauta'
+- [[bust.leonel|'Leonel Cipagauta']]
 - 'A Last Farewell'
 - Artist's Stool
 - Potted Dragon Tree
@@ -26,7 +26,7 @@ The miasma here is neither chilly nor blinding. It's crisp as autumn. Contaminat
 - Paint: Pink
 - Paint: Moth-gold
 - Paint: Dusk-Blue
-- Quartz Chunk
-- Uncatalogued Book (Retreat)"
+- [Quartz Chunk](https://uadaf.theevilroot.xyz/rowenarium/element/quartz.chunk)
+- Uncatalogued Book ([[wing.retreat|Retreat]])
 
 Wing: [[wing.ostello|L'Ostello del Dottore]]

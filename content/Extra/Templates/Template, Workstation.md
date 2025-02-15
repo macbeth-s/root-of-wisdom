@@ -4,22 +4,16 @@ tags:
 draft: "true"
 ---
 # Label
-Desc
-Location: [[]]
+Desc<br>Location: [[]]
 ## Slots
 ### Soul
-**Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)
-**Required**: 
+**Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: 
 ### Skill
-**Essential**: Skill
-**Required**:
+**Essential**: Skill<br>**Required**:
 ### Memory
-**Essential**: Memory
-**Required**:
+**Essential**: Memory<br>**Required**:
 ### Label
-**Required**: 
-Forbidden: Fatigued
+**Required**: <br>**Forbidden:** Fatigued
 ### Label
-**Required**:
-Forbidden: Fatigued
+**Required**:<br>**Forbidden:** Fatigued
 

@@ -15,18 +15,15 @@ Jaundiced walls and bloodshot lights greet me. Toxic fumes seeped into the room,
 - [[servinghearth|Serving-Hearth]]
 
 ## Contents
-- The Dottore'  
-- 'Mlle. Matutine'  
-- Sacrament Calicite  
-- Hesperidina (Bottle)  
-- Bodgea Bahamonde (Bottle)  
-- Bodgea Bahamonde (Bottle)  
-- Lapidoth Winery (Bottle)  
-- Lapidoth Winery (Bottle)  
-- Cinti Singani (Bottle)  
-- Cinti Singani (Bottle)  
-- Pisco Alado (Bottle)  
-- Mezcal Eterna (Bottle)  
+- [[portrait.robigo|'The Dottore']]  
+- ['Mlle. Matutine'](https://uadaf.theevilroot.xyz/rowenarium/element/painting.morgen)
+- [Sacrament Calicite](https://uadaf.theevilroot.xyz/rowenarium/element/sacrament.calicite)
+- [[bottle.hesperidina|Hesperidina]] (Bottle)  
+- [[bottle.bahamonde|Bodgea Bahamonde]] (Bottle) (x2) 
+- [[bottle.lapidoth|Lapidoth Winery]] (Bottle)  (x2)
+- [[bottle.singani|Cinti Singani]] (Bottle) (x3)
+- [[bottle.pisco|Pisco Alado]] (Bottle)  
+- [[bottle.mezcal|Mezcal Eterna]] (Bottle)  
 - [[mazamorra|Mazamorra]]  
 - Morrete de setas
 

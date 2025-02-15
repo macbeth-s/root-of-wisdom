@@ -7,12 +7,12 @@ Coffee from the domain of hurricanes.
 Smooth and myriad complexities.
 **Effect**: [Memory: Taste](https://uadaf.theevilroot.xyz/rowenarium/element/mem.taste)
 ## Aspects
-Forge 1
-Lantern 2
-Rose 1
+- Forge 1
+- Lantern 2
+- Rose 1
 #Ingredient
 #Beverage
 #Restorative
 #Liquid
 #Thing
-To Serve (Pot)
+- To Serve (Pot)
