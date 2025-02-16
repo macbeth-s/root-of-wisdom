@@ -8,8 +8,10 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "Sixth History Community License": "https://weatherfactory.biz/sixth-history-community-licence/",
+	"Weather Factory": "https://weatherfactory.biz",
+	"Wishlist <I>Traveling at Night</I>": "https://store.steampowered.com/app/2915730/Travelling_At_Night/",
+      "Discord Community": "https://discord.gg/UQfqJ2Tvya",
     },
   }),
 }
