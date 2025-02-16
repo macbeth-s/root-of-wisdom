@@ -1,5 +1,5 @@
 ---
-draft: "true"
+{}
 ---
 # Llama Wool
 A thick and musty fiber.

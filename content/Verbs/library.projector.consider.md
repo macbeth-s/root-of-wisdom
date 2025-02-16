@@ -1,7 +1,6 @@
 ---
 tags:
   - verb
-draft:
 ---
 # Lacombe's Projector
 Lacombe seems to have brought as many reels as he can fit in a suitcase with him from England. Perhaps he knew how bored he would be.

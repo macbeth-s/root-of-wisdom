@@ -1,3 +1,6 @@
+---
+{}
+---
 # Kichka Matanka
 In the Andes, they take potatoes seriously. This potato is as old as the first blood spilt on earth.
 ## Consider

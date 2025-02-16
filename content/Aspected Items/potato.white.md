@@ -1,3 +1,6 @@
+---
+{}
+---
 # Saqta Mati
 In the Andes, they take potatoes seriously. This potato is full of potential.
 ## Consider

@@ -1,3 +1,6 @@
+---
+{}
+---
 A terrace garden must be maintained constantly through every tremble of earth and passage of the seasons. Labor fruitfully.<br>Location: [[toolshed|Toolshed]]
 ## Slots
 ### Soul

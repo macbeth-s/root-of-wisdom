@@ -1,3 +1,7 @@
+---
+tags:
+  - verb
+---
 # Necropsy Table
 A hygienic place for scrupulous examination of whatever might remain.<br>Location: [[infirmary|Infirmary]]
 ## Slots

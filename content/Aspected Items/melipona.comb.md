@@ -1,3 +1,6 @@
+---
+{}
+---
 # Melipona Comb
 The wax of a gentle bee. 
 ## Consider

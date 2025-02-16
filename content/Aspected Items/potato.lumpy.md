@@ -1,3 +1,6 @@
+---
+{}
+---
 # Yuraq Gaspar
 In the Andes, they take potatoes seriously. This potato embodies paradox.
 ## Consider

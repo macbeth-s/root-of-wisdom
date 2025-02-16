@@ -2,7 +2,7 @@
 {}
 ---
 # Morrete de Setas
-A dish that takes advantages of the Haustorium's two pirmary crops.
+A dish that takes advantages of the Haustorium's two primary crops.
 ## Consider
 Appetite satisfied.
 **Effect:** [Memory: Taste](https://uadaf.theevilroot.xyz/rowenarium/element/mem.taste)

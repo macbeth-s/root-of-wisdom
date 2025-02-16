@@ -13,7 +13,7 @@ Dark mold cakes every surface. A gentler touch is needed to scrape them off safe
 
 Opening it will Expose:  
 - [[toolshed|Toolshed]]
-- [[Fungal Pantry]]
+- [[fungalpantry|Fungal Pantry]]
 ## Contents  
 - [[portrait.dove|'Paloma']]
 - [[potato.sack|Sack of Potatoes ]]
@@ -29,4 +29,4 @@ Opening it will Expose:
 - [[bone.chalk|Bone-chalk]]
 - [[coco.coronalis|Coco Coronalis]]
 - [[chuno|Chuño]]
-- [[melipona.comb]]  (x2)
+- [[melipona.comb|Melipona Comb]]  (x2)

@@ -24,6 +24,6 @@ Jaundiced walls and bloodshot lights greet me. Toxic fumes seeped into the room,
 - [[bottle.pisco|Pisco Alado]] (Bottle)  
 - [[bottle.mezcal|Mezcal Eterna]] (Bottle)  
 - [[mazamorra|Mazamorra]]  
-- Morrete de setas
+- [[morrete.de.setas|Morrete de Setas]]
 
 Wing: [[wing.ostello|L'Ostello del Dottore]]

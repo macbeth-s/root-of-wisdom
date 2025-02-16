@@ -1,3 +1,6 @@
+---
+{}
+---
 # Snootle Jar
 Glassware custom-made for Father Saavedra. Gabriela Ber occasionally misappropriated it for snootlery while Saavedra surveyed the jungles.
 ## Consider

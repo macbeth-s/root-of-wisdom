@@ -1,5 +1,5 @@
 ---
-draft: "true"
+{}
 ---
 # Protector's Salve
 Inert fungal spores carefully mixed with other reagents. Medicinal, in theory.

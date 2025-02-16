@@ -1,5 +1,5 @@
 ---
-draft:
+{}
 ---
 # Berenechea's Masato
 A traditional Amazonian drink augmented with decidedly unconventional collaborators.

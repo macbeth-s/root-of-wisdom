@@ -1,3 +1,6 @@
+---
+{}
+---
 # Singing Bowl
 A meditative dish.
 ## Consider

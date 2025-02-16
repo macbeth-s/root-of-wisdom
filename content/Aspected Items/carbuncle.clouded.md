@@ -1,5 +1,5 @@
 ---
-draft: "true"
+{}
 ---
 # Clouded Carbuncle
 A hard and sooty charm against disease.

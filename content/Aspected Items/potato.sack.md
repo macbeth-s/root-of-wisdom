@@ -1,3 +1,6 @@
+---
+{}
+---
 # Sack of Potatoes
 Sometimes, you need a sack of potatoes.
 ## Consider

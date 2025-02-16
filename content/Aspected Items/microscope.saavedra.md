@@ -1,3 +1,6 @@
+---
+{}
+---
 # Saavedra's Microscope
 Still in good condition since the eighteenth century, except for the mildew on the base.
 ## Consider

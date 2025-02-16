@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "Sixth History Community License": "https://weatherfactory.biz/sixth-history-community-licence/",
 	"Weather Factory": "https://weatherfactory.biz",
-	"Wishlist <I>Traveling at Night</I>": "https://store.steampowered.com/app/2915730/Travelling_At_Night/",
+	"Wishlist Traveling at Night": "https://store.steampowered.com/app/2915730/Travelling_At_Night/",
       "Discord Community": "https://discord.gg/UQfqJ2Tvya",
     },
   }),

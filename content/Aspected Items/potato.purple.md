@@ -1,3 +1,6 @@
+---
+{}
+---
 # Tuqra Papa
 In the Andes, they take potatoes seriously. This potato is full of secrets.
 ## Consider

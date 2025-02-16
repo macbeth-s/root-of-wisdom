@@ -1,3 +1,7 @@
+---
+tags:
+  - verb
+---
 # Shallow Graves
 Overturned earth, long-ago ransacked memories strewn about the fungal soil. If my stomach is strong enough, and my scruples abate, I could look within for treasures.
 ## Slots

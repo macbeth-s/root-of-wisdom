@@ -1,7 +1,6 @@
 ---
 tags:
   - verb
-draft:
 ---
 # Lacombe's Iron Lung
 Pulsing, fluttering, preserving. What kind of doctor made this?<br>Location: [[infirmary|Infirmary]]
