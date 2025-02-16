@@ -1,3 +1,6 @@
+---
+{}
+---
 # Twitching Pile of Ants
 In fouler moods, Robigo has insisted all new visitors partake of an entire bowl, to test their openness to his hospitality. 
 ## Consider

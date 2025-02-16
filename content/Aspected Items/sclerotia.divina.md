@@ -1,3 +1,6 @@
+---
+{}
+---
 # Sclerotia Divina
 Kernels of rye inscribed with the paths of the sun. Used in rituals from Phrygia to Oaxaca.
 ## Consider

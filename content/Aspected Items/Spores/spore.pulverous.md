@@ -1,3 +1,6 @@
+---
+{}
+---
 # Pulverous Irritant
 Keep a handkerchief nearby.
 ## Aspects

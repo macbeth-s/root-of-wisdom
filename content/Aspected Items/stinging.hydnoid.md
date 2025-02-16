@@ -1,3 +1,6 @@
+---
+{}
+---
 # Stinging Hydnoid
 Savage droplets dot its toothy underside. Let them trail across your skin to watch it part and bleed.
 ## Consider

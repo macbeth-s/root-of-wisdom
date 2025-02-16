@@ -1,3 +1,6 @@
+---
+{}
+---
 # Dodgy Adventurer's Assistance
 Not all adventurers scour old ruins and brave occult dangers for the sake of money. Luckily, this one does.
 ## Aspects

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Guerrillera's Assistance
 We must come to the inevitable conclusion that the guerrilla fighter is a social reformer, \[...] that he fights in order to change the social system that keeps all his unarmed brothers in ignominy and misery..' - Guevara
 ## Aspects

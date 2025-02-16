@@ -1,3 +1,6 @@
+---
+{}
+---
 # Morrete de Setas
 A dish that takes advantages of the Haustorium's two pirmary crops.
 ## Consider

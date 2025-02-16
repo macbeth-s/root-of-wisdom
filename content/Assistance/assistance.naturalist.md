@@ -1,3 +1,6 @@
+---
+{}
+---
 # Avid Naturalist's Assistance
 Many unearthly oddities dwell in the Haustorium, oddities a naturalist would be eager to catalogue.
 ## Aspects

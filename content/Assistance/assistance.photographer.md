@@ -1,3 +1,6 @@
+---
+{}
+---
 # Photographer's Assistance
 Photography does not create eternity, as art does; it embalms time, rescuing it simply from its proper corruption.' - André Bazin
 ## Aspects

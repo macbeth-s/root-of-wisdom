@@ -1,3 +1,6 @@
+---
+{}
+---
 # Foxflame
 Keeperskin grows in dreams, but in the Wake it will sometimes cling to branches and ignite.
 ## Consider

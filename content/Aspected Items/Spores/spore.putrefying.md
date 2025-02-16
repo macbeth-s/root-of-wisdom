@@ -1,3 +1,6 @@
+---
+{}
+---
 # Putrefying Epiphyte
 What is corrosion but our last transformation?
 ## Aspects

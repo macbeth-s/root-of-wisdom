@@ -1,3 +1,6 @@
+---
+{}
+---
 # Sanguinous Tooth
 A crimson hydnoid that will tear flesh from bone or wood from root.
 ## Consider

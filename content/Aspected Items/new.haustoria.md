@@ -1,3 +1,6 @@
+---
+{}
+---
 # New Haustoria
 The root of a plant, now the root of a fungus. 
 ## Consider

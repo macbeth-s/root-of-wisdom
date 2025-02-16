@@ -1,3 +1,6 @@
+---
+{}
+---
 # Friar's Assistance
 The Church erased the Colegio from their records, but its memory survives in the friars who pilgrim to its grave.
 ## Aspects

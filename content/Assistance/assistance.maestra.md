@@ -1,3 +1,6 @@
+---
+{}
+---
 # Maestra's Assistance
 Alcira's clear eyes see the paths of the soul as well as the paths through the mountains.
 ## Aspects

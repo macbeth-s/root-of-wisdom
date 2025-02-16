@@ -1,3 +1,6 @@
+---
+{}
+---
 # Peddler's Assistance
 Things have a life of their own [...] It's simply a matter of waking up their souls.' - García Márquez
 ## Aspects

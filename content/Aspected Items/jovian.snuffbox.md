@@ -1,3 +1,6 @@
+---
+{}
+---
 # Jovian Snuffbox
 Delicious with butter, if harvested early enough. 
 ## Consider

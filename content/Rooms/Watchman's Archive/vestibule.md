@@ -12,7 +12,7 @@ I have reached the threshold of the Haustorium. Across the door, inscribed in Qu
 
 Opening it will Expose:
 - [[grandentrance|Grand Entrance]]
-- [[Terrace Garden]]
+- [[terracegarden|Terrace Garden]]
 ## Contents
 - [Serve Here](https://uadaf.theevilroot.xyz/rowenarium/verb/station.serving.lodge)
 - Uncatalogued Book ([[wing.archive|Archive]]) (x2)

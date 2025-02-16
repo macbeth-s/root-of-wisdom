@@ -1,3 +1,6 @@
+---
+{}
+---
 # Weaver's Assistance
 Textiles carry on things. Karma is one of them.' - Alexandra Kehayoglou
 ## Aspects

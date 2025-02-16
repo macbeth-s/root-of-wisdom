@@ -1,3 +1,6 @@
+---
+{}
+---
 # Brume-Scum
 Hazy algae, with traces of movement within.
 ## Consider

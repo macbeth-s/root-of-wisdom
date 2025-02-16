@@ -1,3 +1,6 @@
+---
+{}
+---
 # Endolithic Rust
 A dark and dangerous pathogen of stone.
 ## Aspects

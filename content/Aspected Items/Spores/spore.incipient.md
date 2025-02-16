@@ -1,3 +1,6 @@
+---
+{}
+---
 # Incipient Saptotroph
 Burrowing and entwined with roots. 
 ## Aspects

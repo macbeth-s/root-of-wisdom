@@ -1,3 +1,6 @@
+---
+{}
+---
 # Surveyor's Assistance
 Surveyors brave the high passes to retrace disputed borders and delay the budding conflict over La Espinada a little longer.
 ## Aspects

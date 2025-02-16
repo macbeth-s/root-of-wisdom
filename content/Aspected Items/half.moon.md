@@ -1,3 +1,6 @@
+---
+{}
+---
 # Media Luna
 A delicate fruiting body, rare and precious as moonlight.
 ## Consider

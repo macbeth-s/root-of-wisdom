@@ -1,3 +1,6 @@
+---
+{}
+---
 # Gravedigger's Assistance
 Salvinia Kochki is very old but she can move the cold, hard earth of La Espinada more easily than a man half her age and twice her height.
 ## Aspects

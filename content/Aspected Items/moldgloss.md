@@ -1,3 +1,6 @@
+---
+{}
+---
 # Moldgloss
 An agglutinant scraping of thick mildew which thorougly obscures and degrades most of what it touches. 
 ## Consider

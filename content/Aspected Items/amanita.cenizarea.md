@@ -1,3 +1,6 @@
+---
+{}
+---
 # Amanita Cenizarea
 A pale white cap and a brilliant orange underside. They grow best on decaying flesh. 
 ## Consider

@@ -1,3 +1,6 @@
+---
+{}
+---
 # Farmer's Assistance
 The farmer knows how to coax the earth's gifts from the Andes, aided by his plough and the ossified lessons of his forebears.
 ## Aspects

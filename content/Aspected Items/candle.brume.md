@@ -1,3 +1,6 @@
+---
+{}
+---
 # Brumous Candle
 A candle made with a certain fungus, so that the beeswax becomes almost translucent.
 ## Consider

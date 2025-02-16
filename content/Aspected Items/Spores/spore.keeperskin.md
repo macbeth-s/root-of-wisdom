@@ -1,3 +1,6 @@
+---
+{}
+---
 # Keeperskin Spore
 A luminous contaminant, scraped from secret texts. 
 ## Aspects
