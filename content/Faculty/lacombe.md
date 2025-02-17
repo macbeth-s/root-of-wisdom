@@ -1,5 +1,5 @@
 ---
-{}
+tags: faculty
 ---
 # Charles Lacombe
 A former agent of Britain's ruthless Suppression Bureau, now transformed. Terminally robigoid, preserved through the generostiy of the Protector.

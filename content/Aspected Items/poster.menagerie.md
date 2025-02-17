@@ -1,7 +1,7 @@
 ---
 {}
 ---
-# Come One, Come All!'
+# 'Come One, Come All!'
 Before coming to the Haustorium, Bengui planned to take her treasures to America in a travelling show. 
 Initial Location: Menagerie
 ## Consider
