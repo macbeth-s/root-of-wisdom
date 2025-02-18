@@ -19,8 +19,8 @@ Putrid smells fill the room, wafting from the avian decor. Waves pulse out with 
 - [[painting.flicker|'Pito in the Bush']]  
 - [Potted Pink Orchid](https://uadaf.theevilroot.xyz/rowenarium/element/pot.orchid.pink)  
 - [[a.keeneyedsculpture|Keen-Eyed Sculpture]]
-- [[pot.lapsang|Gloom Huntress Lapsang Suchong]] (Pot)  
-- [[pot.lapsang|Gloom Huntress Lapsang Suchong]] (Cup)  
+- [[pot.tea.lapsang|Gloom Huntress Lapsang Suchong]] (Pot)  
+- [[pot.tea.lapsang|Gloom Huntress Lapsang Suchong]] (Cup)  
 - [[chair.downy|Downy Chair]]  
 - [[chunk.pumice|Pumice Chunk]]
 

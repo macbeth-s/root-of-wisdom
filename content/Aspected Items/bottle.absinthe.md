@@ -1,7 +1,7 @@
 ---
 {}
 ---
-# Emeraud Absinthe
+# Émeraud Absinthe
 'The green fairy,' tinged with hues remembered.
 ## Consider
 A fixture of some of the more violent soirées of the library called Crossrow.<br>

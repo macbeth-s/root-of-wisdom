@@ -1,3 +1,6 @@
+---
+tags: Monster
+---
 # Defiant Lion
 Ferocious and vehement as only the children of the Lionsmith could be.
 ## Consider
@@ -7,9 +10,9 @@ Across the sea, it might have been worshipped as a god. But in these lands, its 
 \[Add any appropriate card. Monsters can have strange tastes.]
 **Essential:** Sustenance
 **Required:** Remains
-**Effect:** [[lion.tame|Majestic Lion]]
+**Effect:** [[lion.majestic|Majestic Lion]]
 ## Aspects
-- [[Monster]]
+-  [[monster|Monster]]
 - Heart 1
 - Edge 1
 - Forge 1

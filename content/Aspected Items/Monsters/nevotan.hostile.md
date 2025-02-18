@@ -1,3 +1,6 @@
+---
+tags: Monster
+---
 # Captive Nevotan
 Nevotan are unceasingly vigilant monsters, whose eight rows of small bladed teeth remove only the skin in the process of feasting. Most prey pass entirely through the digestive tract alive, and die only from the flaying.
 ## Consider
@@ -9,7 +12,7 @@ The Thunderskin is said to have preserved these particular grandchildren of the 
 **Required:** Heart 4
 **Effect:** [[nevotan.stridulating|Stridulating Nevotan]]
 ## Aspects
-- [[Monster]]
+- [[monster|Monster]]
 - Heart 1
 - Scale 1
 - Sky 1

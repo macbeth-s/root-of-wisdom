@@ -1,14 +1,12 @@
 ---
 {}
 ---
-"# Silver Crucifix
-See how the Savior suffered.
-Initial Location: Anchorite Cloister
+# Dappled Mask
+Half-shaven, half-shaded, half-shadowed..
+Initial Location: [[warroom|War Room]]
 ## Consider
-And remember that the Company Anchorite are faithful Catholics.
+The Shorn Brotherhood don masks when conducting their subtle war. This was particularly prized as an artifact of confusion, only to be worn by the greatest deciever. Naturally, no one ever did.
 **Effect:** [Memory: Sight](https://uadaf.theevilroot.xyz/rowenarium/elements/mem.sight)
 ## Aspects
-- Knock 1
--  
--  
+- Moth 2
 - #WallArt"

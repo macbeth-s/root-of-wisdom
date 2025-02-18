@@ -1,7 +1,7 @@
 ---
 {}
 ---
-# St. Andrew Stratelates'
+# 'St. Andrew Stratelates'
 An icon of a bearded Roman holding a pilum.
 Initial Location: War Room
 ## Consider

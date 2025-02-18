@@ -1,7 +1,7 @@
 ---
 {}
 ---
-# The Liberator'
+# 'The Liberator'
 Revolutionary, dictator, some would say pawn of the Corrivality. 
 Initial Location: War Room
 ## Consider

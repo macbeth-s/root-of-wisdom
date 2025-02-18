@@ -1,7 +1,7 @@
 ---
 {}
 ---
-# The Apus'
+# 'The Apus'
 Castillo Knox's assembly drawing of a complex aeronautical machine, left on the night of his departure.
 Initial Location: Radio Room
 ## Consider

@@ -9,6 +9,4 @@ Sister Oxiacantha never sits down. But if she did sit, she would like a chair th
 **Effect:** [Memory: Touch](https://uadaf.theevilroot.xyz/rowenarium/elements/mem.touch)
 ## Aspects
 - Lantern 1
-- 
-- 
 - #Comfort

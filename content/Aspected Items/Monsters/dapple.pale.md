@@ -1,3 +1,6 @@
+---
+tags: Monster
+---
 # Pale Dapple
 Wood-thing; Moth-servant; Mansus-spirit; and right now, Hue-starved.
 ## Consider
@@ -8,7 +11,7 @@ It could escape at any time. It's surprising it doesn't. Perhaps that's why it s
 **Required:** Pigment
 **Effect:** [[dapple.spotted|Spotted Dapple]]
 ## Aspects
-- [[Monster]]
+- [[monster|Monster]]
 - Moth 1
 - Nectar 1
 - Scale 1

@@ -1,3 +1,6 @@
+---
+tags: Monster
+---
 # Despondent Peryton
 A coat matted with melancholy, wings weighed by solitude.
 ## Consider
@@ -9,7 +12,7 @@ In a city behind the sea and beyond the Bounds, this knew the songs of light. Ev
 **Required:** Sky 4
 **Effect:** [[peryton.optimistic|Optimistic Peryton]]
 ## Aspects
-- [[Monster]]
+- [[monster|Monster]]
 - Rose 1
 - Sky 1
 - Lantern 1

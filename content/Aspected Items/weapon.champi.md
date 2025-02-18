@@ -10,5 +10,4 @@ It strikes skulls as it once struck the earth.
 ## Aspects
 - Edge 2
 - Sky 1
--  
 - #WallArt
