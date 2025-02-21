@@ -1,7 +1,7 @@
 ---
 {}
 ---
-# The Elegiast'
+# 'The Elegiast'
 The Elegiast commemorates and grieves. When the world forgets, he remains to remember. He cannot be decieved; he calls each of the Dead by name; nothing more can be taken from him.'
 Initial Location: Reliquary
 ## Consider
@@ -10,5 +10,4 @@ When the last friar died, the Obliviates unsealed the cloister to learn the Comp
 ## Aspects
 - Winter 2
 - Scale 2
--  
 - #WallArt

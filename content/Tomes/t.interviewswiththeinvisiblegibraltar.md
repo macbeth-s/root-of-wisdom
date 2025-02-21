@@ -2,7 +2,7 @@
 {}
 ---
 # Interviews with the Invisible: Gibraltar
-An interview with a newly-initiated Edge-long - supposedly conducted by the journalist Amadea Franciacorta in the aftermath of the 1925 Reckoner War.
+An interview with a newly-initiated Edge-long - supposedly conducted by the journalist Amadea Franco in the aftermath of the 1925 Reckoner War.
 ## I'm Reading...
 If an Edge-dyad truly arose from the Reckoner War, they've conducted very subtle battles. It's much more probable that the journalist (or the actual author) employed it as an conflict-rich setting for their work; but described here are the Iron Forms - that is, the higher lessons of the Colonel.
 ## I've Read...

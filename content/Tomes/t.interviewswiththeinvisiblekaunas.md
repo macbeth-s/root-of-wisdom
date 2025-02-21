@@ -2,7 +2,7 @@
 {}
 ---
 # Interviews with the Invisible: Kaunas
-An interview with a newly-kindled Edge-long - who the journalist Amadea Franciacorta purported to have met through the 1925 Reckoner War.
+An interview with a newly-kindled Edge-long - who the journalist Amadea Franco purported to have met through the 1925 Reckoner War.
 ## I'm Reading...
 Though the Reckoner War could have facilitated an Edge-ascendance, no account of a dyad emerging from that period exists. Unless they kept quiet (and very few dyads ever do), the journalist - or whatever the author is - likely fabricated this Long; but recorded here are the Cinnabar Forms - that is, the fiercer onslaughts of the Wolf-Divided.
 ## I've Read...

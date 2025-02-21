@@ -2,7 +2,7 @@
 {}
 ---
 # Interviews with the Invisible: Busayya
-An interview with a newly-wrought Edge-long, who ascended as a result of the 1925 Reckoner War - at least, according to its interviewer, the journalist Amadea Franciacorta.
+An interview with a newly-wrought Edge-long, who ascended as a result of the 1925 Reckoner War - at least, according to its interviewer, the journalist Amadea Franco.
 ## I'm Reading...
 There are no known records of an ascendant Edge-dyad resulting from the Reckoner War. In all likelihood, the journalist (or whoever authored this) used it as a framing device for their own fiction; but outlined here are the Brass Forms - that is, the greater techniques of the Lionsmith.
 ## I've Read...
