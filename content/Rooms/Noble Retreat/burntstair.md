@@ -10,7 +10,7 @@ If a fire can burn in Nowhere, it burns like this. I know the flames are not rea
 
 Opening it will Expose:
 - [[brightstair|Bright Stair]]
-- Museum of Old Things
+- [[museumofoldthings|Museum of Old Things]]
 ## Contents
 - [[library.altar.mare|Altar: St. Marzanna]]
 - [[icon.mare|'St. Marzanna']]

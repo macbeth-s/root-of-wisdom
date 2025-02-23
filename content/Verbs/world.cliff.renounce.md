@@ -3,7 +3,7 @@ tags:
   - verb
 ---
 # Cliffside Vista
-Where Leonor met her premature end, and Alfonso his deserved one. \[Discard objects here, or release beasts.]
+Where Leonor met her premature end, and Alfonso his deserved one. \[Discard objects here, or release beasts.]<br>Location: [[cliffside|Cliffside]]
 ## Slots
-### Soul
+### Thing
 **Required**: Thing, Beast
