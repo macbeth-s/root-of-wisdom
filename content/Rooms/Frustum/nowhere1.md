@@ -11,7 +11,7 @@ Once this is opened, it cannot be closed.
 **Required:** 6 Scale, 6 Sky, 6 Moon  
   
 Opening it will Expose:  
-- [[nowhere|Nowhere]]  
+- [[nowhere2|Nowhere]]  
 ## Contents  
 - [[photograph.rowena|'The Shores of Brancrug' ]] 
 - [[confessor|The Confessor]]

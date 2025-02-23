@@ -3,7 +3,7 @@ tags:
   - verb
 ---
 # ...
-...<br>Location: [[nowhere|Nowhere]]
+...<br>Location: [[nowhere2|Nowhere]]
 #EvolveviaSkolekosophy 
 ## Slots
 ### Soul

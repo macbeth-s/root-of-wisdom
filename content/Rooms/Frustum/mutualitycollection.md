@@ -12,7 +12,7 @@ Nowhere claimed this space before relinquishing it. We must coax it back to the 
   
 Opening it will Expose:  
 - [[hypogeum|Hypogeum]] 
-- [[nowhere?|Nowhere?]]
+- [[nowhere1|Nowhere?]]
 - [[refectory|Refectory]]  
 ## Contents  
 - [[library.desk.mutuality.consider|Desk: Mutuality]]
