@@ -2,7 +2,7 @@
 {}
 ---
 # Anchorite Meditations
-The secretive friars of the Company Anchorite believed those who saw only walls would see ways of escape unknown to the liberated.
+The secretive friars of the Company Anchorite believed those who saw only walls would see ways of escape unknown to the free.
 ## Aspects
 - #Skill
 - Moon 2
@@ -19,6 +19,11 @@ The Law binds us all. Are we trapped within it? Humanity knows another way, one 
 **Effect:** Mettle
 
 ## Crafting
-| Principle | Challenge | Requirement | Result |
-| --------- | --------- | ----------- | ------ |
-|           |           |             |        |
+| Principle | Challenge | Requirement         | Result                                         |
+| --------- | --------- | ------------------- | ---------------------------------------------- |
+| Knock     | 5         | -                   | Secret Threshold                               |
+| Knock     | 10        | Wood                | [[hawthorn.chain\|Hawthorn Chain]]             |
+| Knock     | 15        | Nameday Riddle      | [[amphisbaena.tame\|Amphisbaena Zafiro]]       |
+| Moon      | 5         | -                   | [[saudade\|Saudade]]                           |
+| Moon      | 10        | Mark                | [[buzzing.in.the.brain\|Buzzing in the Brain]] |
+| Moon      | 15        | Confounding Parable | Forbidden Epic                                 |

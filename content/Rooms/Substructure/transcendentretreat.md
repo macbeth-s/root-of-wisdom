@@ -14,6 +14,7 @@ This is a sacred place for some, a threshold, a frontier... revelatory ergot inf
 Opening it will Expose:  
 - [[Crypt]]  
 ## Contents  
+- [[library.circle.dreaming|Dreaming-Circle]]
 - [[singing.bowl|Singing Bowl]]  
 - [[pitcher.water.penumbral|Penumbral Water]] (Pitcher)  
 - [[sclerotia.divina|Sclerotia Divina]]

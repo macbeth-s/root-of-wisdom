@@ -19,6 +19,11 @@ Perfection is made, not found. The stones of the strongest walls are shaped, all
 **Effect:** Wist
 
 ## Crafting
-| Principle | Challenge | Requirement | Result |
-| --------- | --------- | ----------- | ------ |
-|           |           |             |        |
+| Principle | Challenge | Requirement                       | Result                                    |
+| --------- | --------- | --------------------------------- | ----------------------------------------- |
+| Scale     | 5         | -                                 | [[bone.chalk\|Bone-Chalk]]                |
+| Scale     | 10        | Stone                             | [[ichor.lernaean\|Ichor Lernaean]]        |
+| Scale     | 15        | Old Moment                        | Earthquake Name                           |
+| Forge     | 5         | -                                 | [[mirror.smokeswept\|Smoke-Swept Mirror]] |
+| Forge     | 10        | Stone                             | [[ichor.lernaean\|Ichor Lernaean]]        |
+| Forge     | 15        | [[silence.tame\|Leashed Silence]] | [[staved.eruption\|Staved Eruption]]      |

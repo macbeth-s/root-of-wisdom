@@ -9,6 +9,7 @@ Opening it will Expose:
 - [[fourfoldsacrarium|Fourfold Sacrarium]]
 - [[chapterhouse|Chapter House]]
 ## Contents  
+- [[library.kitchen.colegio|Hearth: Colegio]]
 - [[pitcher.water.penumbral|Penumbral Water]] (Pitcher)  
 - [[pitcher.water.penumbral|Penumbral Water]] (Glass) (x2)  
 - [Misshapen Fruit](https://uadaf.theevilroot.xyz/rowenarium/element/fruit.misshapen)

@@ -9,6 +9,4 @@ When he founded the Colegio, Luis Bahamonde renounced many desires nurtured in h
 **Effect:** [Memory: Touch](https://uadaf.theevilroot.xyz/rowenarium/elements/mem.touch)
 ## Aspects
 - Knock 1
-- 
-- 
 - #Comfort

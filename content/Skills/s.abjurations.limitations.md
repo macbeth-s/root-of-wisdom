@@ -19,6 +19,11 @@ When the last-god-from-stone laid down her blades, she suspended her war of veng
 **Effect:** Phost
 
 ## Crafting
-| Principle | Challenge | Requirement | Result |
-| --------- | --------- | ----------- | ------ |
-|           |           |             |        |
+| Principle | Challenge | Requirement       | Result                             |
+| --------- | --------- | ----------------- | ---------------------------------- |
+| Knock     | 5         | -                 | Secret Threshold                   |
+| Knock     | 10        | Wood              | [[hawthorn.chain\|Hawthorn Chain]] |
+| Knock     | 15        | Glassfinger Toxin | Sacrament Ascite                   |
+| Winter    | 5         | -                 | [[saudade\|Saudade]]               |
+| Winter    | 10        | [[coil\|Coil]]    | [[silence.tame\|Leashed Silence]]  |
+| Winter    | 15        | Ascendant Harmony | Didumos                            |

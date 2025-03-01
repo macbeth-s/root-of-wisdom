@@ -13,6 +13,7 @@ The noise from within is immense, unbelievable. I feel it rattle my ribcage. Som
 Opening it will Expose:  
 - [[benguisquarters|Bengui's Quarters]] 
 ## Contents  
+- [[library.instrument.chimes|Instrument: Bar Chimes]]
 - [[nevotan.hostile|Captive Nevotan]]
 - [[painting.nevotan|'Tlepolemus']]
 
