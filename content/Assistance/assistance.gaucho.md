@@ -11,4 +11,4 @@ They never conceive any attachment either for the soil or for a master: however 
 -  #Introduction 
 ## Slots
 ### Collaborate
-Work alongside them, or provide something they can use. \[This  assistant can also make use of a cooperative beast].<br>**Required:** Tool, Memory, Ability, Sustenance, Beverage, Cooperative<br>**Forbidden:** Monster
+Work alongside them, or provide something they can use. \[This assistant can also make use of a cooperative beast].<br>**Required:** Tool, Memory, Ability, Sustenance, Beverage, Cooperative<br>**Forbidden:** Monster

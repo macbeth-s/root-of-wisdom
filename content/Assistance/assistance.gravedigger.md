@@ -10,4 +10,4 @@ Salvinia Kochki is very old but she can move the cold, hard earth of La Espinada
 - #Introduction
 ## Slots
 ### Collaborate
-Work alongside them, or provide something they can use. \[This  assistant can also make use of stones.]<br>**Required:** Tool, Memory, Ability, Sustenance, Beverage, Stone
+Work alongside them, or provide something they can use. \[This assistant can also make use of stones.]<br>**Required:** Tool, Memory, Ability, Sustenance, Beverage, Stone

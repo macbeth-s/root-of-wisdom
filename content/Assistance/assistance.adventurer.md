@@ -11,4 +11,4 @@ Not all adventurers scour old ruins and brave occult dangers for the sake of mon
 -  #Introduction 
 ## Slots
 ### Collaborate
-Work alongside them, or provide something they can use. \[This  assistant can also make use of spintriae, the currency of the occult worl].<br>**Required:** Tool, Memory, Ability, Sustenance, Beverage, Tally
+Work alongside them, or provide something they can use. \[This assistant can also make use of spintriae, the currency of the occult worl].<br>**Required:** Tool, Memory, Ability, Sustenance, Beverage, Tally

@@ -14,9 +14,8 @@ When I need fresh air I can hike this winding, treacherous path through the moun
 ## Recipes
 ### Gather during the [[celestial_recipes_time|Dry Season]]
 `gather.trail.dry`	
-**Start Description:** Clear footpaths for sure feet. <br> **Description:** Unexpected gifts from the mountains and their many paths.
+**Start Description:** Clear footpaths for sure feet. <br>**Description:** Unexpected gifts from the mountains and their many paths.
 ### Gather during the [[celestial_recipes_time#Wet Season|Wet Season]]
-`gather.trail.wet`		<br> **Start Description**: Fog clings to the mountainside like the bereaved clings to their beloved.	<br> **Description**: Unexpected gifts from the mountains and their many paths.
+`gather.trail.wet`		<br> **Start Description**: Fog clings to the mountainside like the bereaved clings to their beloved.	<br>**Description**: Unexpected gifts from the mountains and their many paths.
 ### Gather during the [[celestial_recipes_time|Season of Growth]]
-`gather.trail.camai`		<br> **Start Description:** What grows throughout the mountains in this season? Let's find out.	<br> **Description:** Unexpected gifts burst forth from the mountains.
-
+`gather.trail.camai`		<br> **Start Description:** What grows throughout the mountains in this season? Let's find out.	<br>**Description:** Unexpected gifts burst forth from the mountains.

@@ -11,4 +11,4 @@ The Church erased the Colegio from their records, but its memory survives in the
 -  #Introduction 
 ## Slots
 ### Collaborate
-Work alongside them, or provide something they can use. \[This  assistant can also make use of remains].<br>**Required:** Tool, Memory, Ability, Sustenance, Beverage, Remains
+Work alongside them, or provide something they can use. \[This assistant can also make use of remains].<br>**Required:** Tool, Memory, Ability, Sustenance, Beverage, Remains

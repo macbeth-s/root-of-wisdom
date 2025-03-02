@@ -10,4 +10,4 @@ Apolonio is always worried: that the smeltery will be nationalized, that the vil
 -  #Introduction 
 ## Slots
 ### Collaborate
-Work alongside them, or provide something they can use. \[This  assistant can also make use of fuels.]<br>**Required:** Tool, Memory, Ability, Sustenance, Beverage, Fuel
+Work alongside them, or provide something they can use. \[This assistant can also make use of fuels.]<br>**Required:** Tool, Memory, Ability, Sustenance, Beverage, Fuel

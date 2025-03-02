@@ -11,4 +11,4 @@ Dionisio is perpetually calm. He knows why everyone is sick, and how to help the
 -  #Introduction 
 ## Slots
 ### Collaborate
-Work alongside them, or provide something they can use. \[This  assistant can also make use of leaves or roots, but not both in the same day].<br>**Required:** Tool, Memory, Ability, Sustenance, Beverage, Leaf, Root
+Work alongside them, or provide something they can use. \[This assistant can also make use of leaves or roots, but not both in the same day].<br>**Required:** Tool, Memory, Ability, Sustenance, Beverage, Leaf, Root

@@ -10,4 +10,4 @@ Surveyors brave the high passes to retrace disputed borders and delay the buddin
 -  #Introduction 
 ## Slots
 ### Collaborate
-Work alongside them, or provide something they can use. .<br>**Required:** Tool, Memory, Ability, Sustenance, Beverage
+Work alongside them, or provide something they can use.<br>**Required:** Tool, Memory, Ability, Sustenance, Beverage

@@ -11,4 +11,4 @@ Textiles carry on things. Karma is one of them.' - Alexandra Kehayoglou
 -  #Introduction 
 ## Slots
 ### Collaborate
-Work alongside them, or provide something they can use. \[This  assistant can also make use of coils].<br>**Required:** Tool, Memory, Ability, Sustenance, Beverage, Coil
+Work alongside them, or provide something they can use. \[This assistant can also make use of coils].<br>**Required:** Tool, Memory, Ability, Sustenance, Beverage, Coil

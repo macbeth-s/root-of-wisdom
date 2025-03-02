@@ -11,4 +11,4 @@ The farmer knows how to coax the earth's gifts from the Andes, aided by his plou
 -  #Introduction 
 ## Slots
 ### Collaborate
-Work alongside them, or provide something they can use. .<br>**Required:** Tool, Memory, Ability, Sustenance, Beverage,
+Work alongside them, or provide something they can use.<br>**Required:** Tool, Memory, Ability, Sustenance, Beverage,
