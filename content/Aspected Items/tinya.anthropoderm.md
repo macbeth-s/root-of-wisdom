@@ -1,7 +1,7 @@
 ---
 {}
 ---
-# Anthropoderm Tinyya
+# Anthropoderm Tinya
 An instrument that finds its origin, resonance, and resolution in violence.
 ## Consider
 The Peruvians who became Sisters of the Triple Knot re-fashioned their traditional Cybeline drums in this style as they adopted old rituals to the Andes.<br>

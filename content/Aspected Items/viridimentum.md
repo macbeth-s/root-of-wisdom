@@ -10,3 +10,7 @@ Destroying a work written in viridimentum causes the contents to appear on one's
 - #Liquid 
 - #Ink 
 - #Thing
+## Crafting
+| Start                                              | Finish                                               |
+| -------------------------------------------------- | ---------------------------------------------------- |
+| Concentrate the chicha into a tenacious Heart-ink. | Nothing ends quite entirely; this, the least of all. |

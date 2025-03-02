@@ -24,5 +24,5 @@ Fungal Pantry, Staircase: No Return
 - [[bottle.pulque|Golden Pulque]] (Bottle)  (x3)
 - [[bottle.ron|Ron Añejo]] (Bottle)  
 - [[bottle.pisco|Pisco Alado]] (Bottle)  (x2)
-- [[masato.berenechea|Berenechea's Masato]]
+- [[Aspected Items/masato.berenechea|Berenechea's Masato]]
 - Tall Parcel

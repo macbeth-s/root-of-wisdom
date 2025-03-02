@@ -19,6 +19,11 @@ Most know that the Name Aunt Mopsy protects by proverb, contorting secrets too d
 **Effect:** Phost
 
 ## Crafting
-| Principle | Challenge | Requirement | Result |
-| --------- | --------- | ----------- | ------ |
-|           |           |             |        |
+| Principle | Challenge | Requirement                            | Result                                             |
+| --------- | --------- | -------------------------------------- | -------------------------------------------------- |
+| Grail     | 5         | -                                      | Witching Tisane                                    |
+| Grail     | 10        | [[spore\|Spore]]                       | [[salve.protector\|Protector's Salve]]             |
+| Grail     | 15        | [[florid.tecpatl\|Florid Tecpatl]]     | [[enthusiastic.sacrifice\|Enthusiastic Sacrifice]] |
+| Heart     | 5         | -                                      | Cheerful Ditty                                     |
+| Heart     | 10        | Fruit                                  | [[chicha.bullido\|Chicha Bullido]]                 |
+| Heart     | 15        | [[salve.protector\|Protector's Salve]] | [[sacrament.hyphalite\|Sacrament Hyphalite]]       |

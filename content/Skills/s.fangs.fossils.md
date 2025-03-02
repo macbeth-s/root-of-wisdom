@@ -19,6 +19,12 @@ The Law cannot protect those outside it. All Worms know this, so they tear at th
 **Effect:** Shapt
 
 ## Crafting
-| Principle | Challenge | Requirement | Result |
-| --------- | --------- | ----------- | ------ |
-|           |           |             |        |
+| Principle | Challenge | Requirement       | Result                                 |
+| --------- | --------- | ----------------- | -------------------------------------- |
+| Scale     | 5         | -                 | [[bone.chalk\|Bone-Chalk]]             |
+| Scale     | 10        | Egg               | Living Relic                           |
+| Scale     | 15        | Perinculate       | Serpent-MIlk                           |
+| Winter    | 5         | -                 | [[wormwracked.rope\|Wormwracked Rope]] |
+| Winter    | 10        | Remains           | Essential Periost                      |
+| Winter    | 15        | Essential Periost | Year-Tally                             |
+| Heart     | 10        | Stone             | [[ichor.lernaean\|Ichor Lernaean]]     |

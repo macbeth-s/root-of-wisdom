@@ -19,6 +19,11 @@ Skolekosophists know the dead are drawn to the Mansus to be tested upon its conv
 **Effect:** Shapt
 
 ## Crafting
-| Principle | Challenge | Requirement | Result |
-| --------- | --------- | ----------- | ------ |
-|           |           |             |        |
+| Principle | Challenge | Requirement       | Result                                 |
+| --------- | --------- | ----------------- | -------------------------------------- |
+| Moon      | 5         | -                 | [[wormwracked.rope\|Wormwracked Rope]] |
+| Moon      | 10        | Liquid            | [[tear.tunupa\|Tunupa's Tear]]         |
+| Moon      | 15        | Asimel            | [[sunder.silence\|Sunder-Silence]]     |
+| Winter    | 5         | -                 | [[saudade\|Saudade]]                   |
+| Winter    | 10        | [[coil\|Coil]]    | [[silence.tame\|Leashed Silence]]      |
+| Winter    | 15        | Ascendant Harmony | Didumos                                |

@@ -13,3 +13,7 @@ Lacombe discovered how this could be fermented from the peculiar fungus called f
 - #Fuel
 - #Liquid
  - #Thing
+## Crafting
+| Start                                                                                                           | Finish              |
+| --------------------------------------------------------------------------------------------------------------- | ------------------- |
+| Ferment the foxflame into an arsonist's preferred combustible. \[Mycology plus foxflame creates Olio Velletri.] | Fuel for the flame. |

@@ -1,5 +1,7 @@
 ---
-tags: NobleRetreat
+tags:
+  - NobleRetreat
+  - room
 ---
 # Guestroom: Maternal
 This was Leonor's room, but now it has been made ready for someone else. Each morning, Shura fluffs each pillow, opens the curtains, and wails softly for several minutes. This is a room that seems to speak of the sadness of children wrest from their mothers, the sadness that remains from their time in the womb.

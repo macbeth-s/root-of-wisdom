@@ -7,4 +7,6 @@ Leonor's last curse: an imposition of a nameless gnawing longing. It is the doom
 - #Memory 
 - #Omen
 ## Crafting
-**Start:** Touch an old bane of doom and desire. <br>**Finish:** A little dragon gnaws at the roots of my soul.
+| Start                                 | Finish                                         |
+| ------------------------------------- | ---------------------------------------------- |
+| Touch an old bane of doom and desire. | A little dragon gnaws at the roots of my soul. |

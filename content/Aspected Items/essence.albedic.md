@@ -7,8 +7,9 @@ A pale pigment, an isolation of absence, a condensation of loss.
 A favored material of Calyptra, which might be used in the creation of an amnemonic elixir.
 **Effect**: [Memory: Sight](https://uadaf.theevilroot.xyz/rowenarium/element/mem.sight)
 ## Aspects
-- Winter 4
+- Winter 3
 - Forge 2
+- Sky 2
 - #Liquid 
 - #Pigment 
 - #Thing 

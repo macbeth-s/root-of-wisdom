@@ -6,9 +6,7 @@ A lumpy mass of multicolored fungi takes up the entirety of the background. Engu
 Initial Location: Spidery Ascent
 ## Consider
 When Robigo first came to the Haustorium, she wished to meet the many souls who came here. Serving the Haustorical Mutuality displeased her to no end, for they inevitably drove away or subsumed all who came before Robigo could know them. Nowdays, he prefers to find hosts across the wider world, and has of late found a number of favorites.
-**Effect:** Regret
+<br>**Effect:** Regret
 ## Aspects
 - Nectar 2
--  
--  
 - #WallArt

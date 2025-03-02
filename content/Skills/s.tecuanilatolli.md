@@ -19,8 +19,3 @@ There is a very old story known to scribes, about the first of their number. A g
 ### The Astronomer's Tale
 There is a very old story known to astronomers, about the first of their number. A great star appeared over his homeland, sought by all who saw it. The astronomer attempted to chart a path to it on bark but always lacked the space to complete it. So he sought a beast with healing skin and flayed it, completing his map on its ever-growing hide and following it to the star. Others who saw him attempted to create one greater. But the astronomer’s would always be the first.<br>
 **Effect:** Fet
-
-## Crafting
-| Principle | Challenge | Requirement | Result |
-| --------- | --------- | ----------- | ------ |
-| -         | -         | -           | -      |

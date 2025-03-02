@@ -17,8 +17,12 @@ The old Wood is gone, but its Blood still lingers. It's heard in wings, tasted i
 ### Below the Roots
 The old Wood is gone, but its Blood still lingers. It’s heard in fire, tasted in fruit, seen in fungi. What is lost never remains, so Hushery sees.<br>
 **Effect:** Trist
-
 ## Crafting
-| Principle | Challenge | Requirement | Result |
-| --------- | --------- | ----------- | ------ |
-|           |           |             |        |
+| Principle | Challenge | Requirement                        | Result                           |
+| --------- | --------- | ---------------------------------- | -------------------------------- |
+| Nectar    | 5         | -                                  | [[melipona.comb\|Melipona Comb]] |
+| Nectar    | 10        | Instrument                         | Hive's Lament                    |
+| Nectar    | 15        | [[coco.coronalis\|Coco Coronalis]] | Sacrament Malachite              |
+| Moth      | 5         | -                                  | [[saudade\|Saudade]]             |
+| Moth      | 10        | Egg                                | Chimeric Larva                   |
+| Moth      | 15        | Chimeric Larva                     | Perilous Imago                   |

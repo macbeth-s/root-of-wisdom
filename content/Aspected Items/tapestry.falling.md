@@ -6,9 +6,7 @@ Two figures reach out towards each other: a woman descends from above wrapped in
 Initial Location: Spidery Ascent
 ## Consider
 The woman is unmistakably Leonor Curicuillor, but the man does not resemble any of the Haustorium's guests. None of its <i>known</i> guests, in any case. Along the upper borders, spindly fingers pull at the threads, and clinging to one is a figure clad in the robes of the Company Anchorite.
-**Effect:** Hindsight
+<br>**Effect:** Hindsight
 ## Aspects
 - Sky 2
--  
--  
 - #WallArt

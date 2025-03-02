@@ -13,3 +13,7 @@ Amphisbaena slither from dreams; one head reminds you who you were, the other wh
 - #Cooperative 
 - Knock 3
 - Scale 3
+## Crafting
+| Start                                                       | Finish                                                                                                          |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Open a hidden passage of dream and lure out a Knock-spirit. | Dots of black emerge like stars in dying sunlight, then the slithering body appears with the softness of night. |

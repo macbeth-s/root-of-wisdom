@@ -19,6 +19,11 @@ Upon the nine highest mountains, an Hour treks ever-downward. She longs to prote
 **Effect:** Chor
 
 ## Crafting
-| Principle | Challenge | Requirement | Result |
-| --------- | --------- | ----------- | ------ |
-|           |           |             |        |
+| Principle | Challenge | Requirement         | Result                               |
+| --------- | --------- | ------------------- | ------------------------------------ |
+| Lantern   | 5         | -                   | [[tumbaga.plate\|Tumbaga Plate]]     |
+| Lantern   | 10        | Light               | Ichor Auroral                        |
+| Lantern   | 15        | Xanthotic Essence   | Uzult                                |
+| Rose      | 5         | -                   | Wistful Air                          |
+| Rose      | 10        | Remains             | [[chasqui.clarion\|Chasqui Clarion]] |
+| Rose      | 15        | Confounding Parable | Forbidden Epic                       |

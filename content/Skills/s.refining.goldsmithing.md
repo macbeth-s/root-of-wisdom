@@ -19,6 +19,12 @@ All that ends requires a beginning. The Lionsmith understands this, as does the 
 **Effect:** Fet
 
 ## Crafting
-| Principle | Challenge | Requirement | Result |
-| --------- | --------- | ----------- | ------ |
-|           |           |             |        |
+| Principle | Challenge | Requirement                          | Result                                     |
+| --------- | --------- | ------------------------------------ | ------------------------------------------ |
+| Forge     | 5         | -                                    | [[tumbaga.plate\|Tumbaga Plate]]           |
+| Forge     | 10        | Metal                                | Orichalcum Wire                            |
+| Forge     | 15        | [[silence.tame\|Leashed Silence]]    | [[staved.eruption\|Staved Eruption]]       |
+| Forge     | 15        | Iotic Essence                        | Orpiment Exultant                          |
+| Sky       | 5         | -                                    | Stargall Ink                               |
+| Sky       | 10        | Pigment                              | [[essence.albedic\|Albedic Essence]]       |
+| Sky       | 15        | [[essence.albedic\|Albedic Essence]] | [[noonspring.draught\|Noonspring Draught]] |

@@ -25,6 +25,15 @@ All places a Worm can squirm.<br>
 **Effect:** Shapt
 
 ## Crafting
-| Principle | Challenge | Requirement | Result |
-| --------- | --------- | ----------- | ------ |
-|           |           |             |        |
+| Principle | Challenge | Requirement                                    | Result                                     |
+| --------- | --------- | ---------------------------------------------- | ------------------------------------------ |
+| Edge      | 5         | -                                              | Old Wound                                  |
+| Edge      | 5         | Memory                                         | Winning Move                               |
+| Edge      | 15        | Labhitic Tincture                              | [[wenutrewa\|Wenutrewa]]                   |
+| Edge      | 15        | [[buzzing.in.the.brain\|Buzzing in the Brain]] | [[wenutrewa\|Wenutrewa]]                   |
+| Scale     | 5         | -                                              | [[wormwracked.rope\|Wormwracked Rope]]     |
+| Scale     | 10        | Wood                                           | [[hawthorn.chain\|Hawthorn Chain]]         |
+| Scale     | 15        | Stymphling                                     | Wormwood Dream                             |
+| Scale     | 15        | Glassfinger Toxin                              | Nillycant                                  |
+| Heart     | 5         | -                                              | [[tinya.anthropoderm\|Anthropoderm Tinya]] |
+| Heart     | 10        | Fruit                                          | [[chicha.bullido\|Chicha Bullido]]         |

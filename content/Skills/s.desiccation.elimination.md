@@ -20,6 +20,11 @@ The students of light say that Eternity is bleached in sunlight. When everything
 **Effect:** Phost
 
 ## Crafting
-| Principle | Challenge | Requirement | Result |
-| --------- | --------- | ----------- | ------ |
-|           |           |             |        |
+| Principle | Challenge | Requirement       | Result                                 |
+| --------- | --------- | ----------------- | -------------------------------------- |
+| Winter    | 5         | -                 | [[wormwracked.rope\|Wormwracked Rope]] |
+| Winter    | 10        | Remains           | Essential Periost                      |
+| Winter    | 15        | Essential Periost | Year-Tally                             |
+| Edge      | 5         | -                 | Old Wound                              |
+| Edge      | 10        | [[coil\|Coil]]    | [[hawthorn.chain\|Hawthorn Chain]]     |
+| Edge      | 15        | Winning Move      | Invincible Audacity                    |
