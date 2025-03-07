@@ -11,7 +11,9 @@ Matters of insight?<br>*If friend:* Maestra Alcira shares your enthusiasm for pa
 **Required**: Lantern, Rose
 ## Recipes
 ### Assistance from [[assistance.maestra|Maestra Alcira]]
-*Recruit. escuela*: 'I'd appreciate some conversation with someone my own age.'<br>*Recruit. escuela. friend:* 'Maestra Alcira had a dream about me recently. She is eager to share the insights gleamed from it.'
+`recruit.escuela` 
+'I'd appreciate some conversation with someone my own age.'<br>`recruit.escuela.friend` 
+Maestra Alcira had a dream about me recently. She is eager to share the insights gleaned from it.
 # Escuela Pública No. 29 \[locked]
 `village.escuela.closed`
 The teacher, Maestra Alcira, will not stop her lessons for me unless I have something to share with the class.

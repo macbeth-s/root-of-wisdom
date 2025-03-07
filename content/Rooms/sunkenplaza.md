@@ -13,7 +13,7 @@ The flatstones are colorless. The air is cold and silent. The sky stands still. 
 Opening it will Expose:  
 - [[excavation|Excavation]]
 - [[hypogeum|Hypogeum]]
-- [[mutuallitycollection|Mutuality Collection]]
+- [[mutualitycollection|Mutuality Collection]]
 - Anbar Rootway  
 ## Contents
 - [[world.tree.poisoned|Poisoned Tree]]

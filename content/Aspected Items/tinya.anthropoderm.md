@@ -15,6 +15,6 @@ The Peruvians who became Sisters of the Triple Knot re-fashioned their tradition
 - #Tool
 - #Thing
 ## Crafting
-| Skill | Requirements | Start Description           | Description                                      |
-| ----- | ------------ | --------------------------- | ------------------------------------------------ |
-|       |              | Bind a drum of keen rhythm. | The beat of the heart, of the war, of the storm. |
+| Start Description           | Description                                      |
+| --------------------------- | ------------------------------------------------ |
+| Bind a drum of keen rhythm. | The beat of the heart, of the war, of the storm. |

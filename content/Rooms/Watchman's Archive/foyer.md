@@ -10,8 +10,8 @@ I dare not go ahead without Robigo's approval. He smiles still, but he is clearl
 **Essential:** Circumstance
 **Required:** 1 Heart, 1 Grail
 
-Opening it will Expose:]]
-[[staircasenoreturn|Staircase: No Return]]
+Opening it will Expose:
+- [[staircasenoreturn|Staircase: No Return]]
 ## Contents
 - [[library.desk.circulation.consider|Desk: Circulation]]
 - Uncatalogued Book ([[wing.archive|Archive]]) (x3)

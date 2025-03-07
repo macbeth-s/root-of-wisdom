@@ -11,8 +11,10 @@ Matters of death?<br>*If friend:* Doña Kochki will stop her work to walk among 
 **Required**: Winter, Scale
 ## Recipes
 ### Assistance from [[assistance.gravedigger|Doña Kochki]]
-*Recruit. cementerio*: Doña Kochki nods as she accepts my coin.<br>
-*Recruit. cementerio. friend:* 'Doña Kochki's mouth turns the slightest bit upwards as she dusts off her hands to join me. 
+`recruit.cementerio`  
+Doña Kochki nods as she accepts my coin.<br>
+`Recruit. cementerio. friend` 
+Doña Kochki's mouth turns the slightest bit upwards as she dusts off her hands to join me. 
 # Cementerio de Santa Rosa \[locked]
 `village.cementerio.closed`
 Doña Salvinia Kochki stalks among the graves, grim as death. She will not tolerate anyone here in any mood besides grief.

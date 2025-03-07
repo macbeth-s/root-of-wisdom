@@ -11,7 +11,7 @@ Someone is here. Someone guards the Gallery... someone guards the entire Haustor
 **Required:** 2 Knock, 2 Sky
 
 Opening it will Expose:
- [[foyer|Coward's Foyer]]
+- [[foyer|Coward's Foyer]]
 ## Contents
 - [[painting.doppelganger|'How They Met Themselves']]  
 - ['The Bridge at Ortucchio' ](https://uadaf.theevilroot.xyz/rowenarium/element/painting.bridge.ortucchio)
@@ -25,6 +25,7 @@ Opening it will Expose:
 - [[painting.themermansqueen|'Coronation of the Sea']]
 - [[painting.gossamer|'Phillipine, the Beauty of Ambras']]
 - [[sheet.placeholder|'A Placeholder']]
+- [[painting.gleaming|'Summer Eternal']]
 - [Vase of Rushes ](https://uadaf.theevilroot.xyz/rowenarium/element/vase.rushes)
 - [Vase of Rushes](https://uadaf.theevilroot.xyz/rowenarium/element/vase.rushes)
 

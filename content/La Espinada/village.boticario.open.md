@@ -11,8 +11,10 @@ Matters of substance?<br>*If friend:* Dionisio fixes something special, just for
 **Required**: Grail, Moth
 ## Recipes
 ### Assistance from [[assistance.apothecary|Dionisio Pasamonte]]
-*Recruit. boticario:*'I'll close up shop for the day.'<br>
-*Recruit. boticario. friend:* 'Up the mountain we go! I'll bring drinks.'
+`Recruit.boticario` 
+'I'll close up shop for the day.'<br>
+`Recruit.boticario.friend` 
+'Up the mountain we go! I'll bring drinks.'
 # Boticario Pasamonte \[locked]
 `village.boticario.closed`
 The apothecary, Dionisio Pasamonte, will take my business, but to get at the good stuff requires some extra persuasion.

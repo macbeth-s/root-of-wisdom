@@ -18,6 +18,7 @@ All rectors, not just Orgóñez, were well-versed in the ways of opening and pro
 - [Nivine Parchment](https://uadaf.theevilroot.xyz/rowenarium/element/parchment.nivine)
 - [Moth-Orchid-Scented Candle](https://uadaf.theevilroot.xyz/rowenarium/element/candle.mothorchid)
 - [Asimel](https://uadaf.theevilroot.xyz/rowenarium/element/asimel)  
+- [[mirror.lavish|Lavish Mirror]]
 - [[bottle.bahamonde|Bodega Bahamonde]] (Bottle)  
 - Uncatalogued Book ([[wing.colegio|Colegio]]) (x2)  
 - Uncatalogued Book ([[wing.cathedral|Cathedral]]) (x2)
