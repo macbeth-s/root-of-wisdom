@@ -1,7 +1,7 @@
 ---
 {}
 ---
-# Sun
+# Storm
 Thunder-roaring, lightning-lashed skies.
 ## Aspects
 - #Weather
