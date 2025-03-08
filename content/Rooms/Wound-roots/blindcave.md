@@ -14,5 +14,6 @@ Opening it will Expose:
 - [[escape|Escape]]
 - [[spideryascent|Spidery Ascent]]  
 ## Contents  
+- [[library.angstloch|Angstloch]]
 - [[guano|Guano]]  
 - [[bat.wild|Wild Bat]]

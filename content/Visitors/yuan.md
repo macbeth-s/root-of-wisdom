@@ -7,6 +7,7 @@ Butcher, poet, connoisseur. Sponsored by T.R.N. Limited to procure their rarer i
 - Understands Phyrigian
 - Understands Sanskrit
 - Understands Mandaic
+- #Visitor 
 ## Talk
 ### A Conversation with Prof. Ji Yuan
 'How are you, Librarian? Sleeping well, I hope.’ \[If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]
