@@ -7,11 +7,11 @@ The radio can be tuned to a few national stations, and even some international o
 #EvolveviaBirdsong
 ## Slots
 ### Soul
-**Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Lantern, Sky, Forge, Rose
+**Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Lantern, Sky, Moth, Rose
 ### Skill
-**Essential**: Skill<br>**Required**: Lantern, Sky, Forge, Rose
+**Essential**: Skill<br>**Required**: Lantern, Sky, Moth, Rose
 ### Memory
-**Essential**: Memory<br>**Required**: Lantern, Sky, Forge, Rose
+**Essential**: Memory<br>**Required**: Lantern, Sky, Moth, Rose
 ### Transmission
 **Required**: Ability, Instrument, Language<br>**Forbidden:** Fatigued
 ### Reception

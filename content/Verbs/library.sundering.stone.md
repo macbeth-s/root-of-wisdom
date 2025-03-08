@@ -7,11 +7,11 @@ Here the initiates of the Shorn Brotherhood shave their heads, shatter their arm
 #EvolveviaIthastry 
 ## Slots
 ### Soul
-**Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Moth, Forge, Heart
+**Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Moth, Forge, Heart, Knock
 ### Skill
-**Essential**: Skill<br>**Required**: Moth, Forge, Heart
+**Essential**: Skill<br>**Required**: Moth, Forge, Heart, Knock
 ### Memory
-**Essential**: Memory<br>**Required**: Moth, Forge, Heart
+**Essential**: Memory<br>**Required**: Moth, Forge, Heart, Knock
 ### Devotion
 **Required**: Ability<br>**Forbidden:** Fatigued
 ### Offering
