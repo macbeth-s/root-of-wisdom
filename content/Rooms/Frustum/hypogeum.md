@@ -16,6 +16,6 @@ Opening it will Expose:
 - Crawlspace  
 ## Contents  
 - [[library.ossuary.mutuality|Mutuality's Ossuary]]
-- [[casket.rotted|Rotted Casket]]  
+- [[casket.sealed|Sealed Casket]]  
 - [Widow's Candle](https://uadaf.theevilroot.xyz/rowenarium/element/candle.holderblack) (x2)
 <br>Wing: [[wing.frustum|Frustum]]
