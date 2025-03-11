@@ -9,4 +9,4 @@ A biting cold.
 - Winter 2
 - Edge 2
 ## Drawn in Deck:
-[deck.weather.dry]
+[[deck.weather.dry]]
