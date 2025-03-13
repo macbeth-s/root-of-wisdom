@@ -6,9 +6,9 @@ The original court transcript containing the final interrogation of Jeanne, the 
 ## I'm Reading...
 Seeking to implicate her for heresy, the inquisitors furtively question Jeanne on the nature of the Light which guided her. She remains thoroughly evasive on its particular qualities, but reveals the forms in which it appeared to her.
 ## I've Read...
-‘The Door-in-the-Eye is not Sunset Celia’s master, but her shelter. She bears the flame of Splendor; while she walks behind him, it endures in his lantern. He is the beacon for the Sun’s lost light, and when they are whole once more, he will be the first to see the Second Dawn.’
-**Effect: **[Memory: Revelation](https://uadaf.theevilroot.xyz/rowenarium/element/mem.revelation)
-**Mastery: **[Lesson: Pyroglyphics](https://uadaf.theevilroot.xyz/rowenarium/element/x.pyroglyphics)
+‘St. Catherine came in waxen form; upon her headless neck stood St. Michael with his golden wick; and embracing him in fiery resplendence was St. Marina. They entrusted to me the secret signs of Glory, so that it may alight the hearts of all in my path.’
+**Effect:** [Memory: Revelation](https://uadaf.theevilroot.xyz/rowenarium/element/mem.revelation)
+**Mastery:** [Lesson: Pyroglyphics](https://uadaf.theevilroot.xyz/rowenarium/element/x.pyroglyphics)
 ## Aspects
 - Mystery: Lantern 10
 - [Written in Latin](https://uadaf.theevilroot.xyz/rowenarium/element/w.latin)

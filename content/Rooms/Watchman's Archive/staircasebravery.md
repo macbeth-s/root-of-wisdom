@@ -13,7 +13,7 @@ A shimmering film hangs in the air before the landing. If I pass it carelessly -
 Opening it will Expose:
 - [[historicalexhibit|Historical Exhibit]]
 - [[staircasetemerity|Staircase: Temerity]]
-- [[Mirror Hold]]
+- [[mirrorhold|Mirror Hold]]
 ## Contents
 - [Vase of Lilies](https://uadaf.theevilroot.xyz/rowenarium/element/vase.lilies)
 - [[taxidermy.stag|Taruca]]

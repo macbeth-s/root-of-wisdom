@@ -9,4 +9,4 @@ From the cliffs we can see La Espinada, and so much more.
 - Sky 2
 - Rose 1
 ## Drawn in Deck:
-[deck.weather.dry]
+[[deck.weather.dry]]

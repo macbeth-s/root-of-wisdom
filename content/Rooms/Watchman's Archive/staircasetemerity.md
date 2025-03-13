@@ -13,7 +13,7 @@ Colors bend toward a glowing pinprick in the ceiling. It could be mistaken for s
 Opening it will Expose:
 - [[greenlitstudy|Greenlit Study]]
 - [[Ophidiarium]]
-- [[Faculty Lounge]]
+- [[facultylounge|Faculty Lounge]]
 ## Contents
 - [[bust.oscar|'Don Óscar Zavala']]  
 - [[photograph.medusa|'What is Not Seen']]  

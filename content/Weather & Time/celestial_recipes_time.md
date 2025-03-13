@@ -2,11 +2,11 @@
 {}
 ---
 # Seasons
-## Dry Season
+## [[deck.weather.dry|Dry Season]]
 The Horned-Axe's season.
-## Wet Season
+## [[deck.weather.wet|Wet Season]]
 Once, the Tide's season. Now, the Malachite's.
-## Camai Quilla
+## [[deck.weather.camai|Camai Quilla]]
 A time of festivals, of plenty, of rest, of appeasing the gods.
 # Time
 ## Daybreak
