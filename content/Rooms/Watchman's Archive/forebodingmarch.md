@@ -11,7 +11,7 @@ Why would I do this? Everyone agrees that to approach the Haustorium means death
 **Required:** 1 Sky, 1 Edge, 1 Moon
 
 Opening it will Expose:
-[[vestibule|Vestibule]]
+- [[vestibule|Vestibule]]
 ## Contents
 - [[bust.protector|'Our Protector']]
 - [[carving.skolekosophy|'Skolekosophy']]

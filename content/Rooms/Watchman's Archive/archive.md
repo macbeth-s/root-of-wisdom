@@ -11,13 +11,13 @@ Witchworms crawl on every surface. Whispers claw at my inner ears. We need ruthl
 **Required:** 3 Winter, 3 Edge
 
 Opening it will Expose:
-[[hallofrecords|Hall of Records]]
+- [[hallofrecords|Hall of Records]]
 ## Contents
 - [[library.bench.archaeologist.consider|Archaeologist's Bench]]
 - Catwink  
 - Stargall Ink  
-- [[pot.tea.assam]] (Pot) 
-- [[pot.tea.assam]] (Cup)
+- [[pot.tea.assam|Second Flush Assam]] (Pot) 
+- [[pot.tea.assam|Second Flush Assam]] (Cup)
 - Quire of Paper  
 - Hawthorn Blank  
 - Uncatalogued Book ([[wing.archive|Archive]])  (x5)

@@ -19,7 +19,7 @@ Opening it will Expose:
 - [[lamp.nectar|Emerald Lamp]]
 - [[icon.wheel|'St. Catherine']]
 - [[mirror.dewy|Dewy Mirror]]
-- [[Emeraud Absinthe]] (Bottle)
+- [[bottle.absinthe|Émeraud Absinthe]] (Bottle)
 - Perhibiate  
 - [[witching.tisane|Witching Tisane]]
 - Uncatalogued Book ([[wing.archive|Archive]]) (x2)

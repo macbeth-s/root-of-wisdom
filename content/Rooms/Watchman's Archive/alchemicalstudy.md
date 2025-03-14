@@ -11,7 +11,7 @@ Phantom firelight flickers across the room. It burns where it falls on me, but t
 **Required:** 4 Grail, 4 Forge
 
 Opening it will Expose:
-[[reservedstudy|Reserved Study]]
+- [[reservedstudy|Reserved Study]]
 ## Contents
 - [[library.glassware.alchemist|Alchemist's Glassware]]
 - [[bust.ursula|'Ursula Sabès']]
@@ -20,7 +20,7 @@ Opening it will Expose:
 - Arsenic
 - Xanthotic Essence
 - [[essence.albedic|Albedic Essence]]
-- [[Protector's Salve]]
+- [[salve.protector|Protector's Salve]]
 - Uncatalogued Book ([[wing.archive|Archive]])
 - Uncatalogued Book ([[wing.cathedral|Cathedral]])
 

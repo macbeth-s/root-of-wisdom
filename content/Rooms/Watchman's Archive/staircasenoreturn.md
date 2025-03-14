@@ -12,7 +12,7 @@ When I approach, the darkness quivers. Hostility? Anticipation? Either way, I ca
 
 Opening it will Expose:
 - [[staircasebravery|Staircase: Bravery]]
-- [[Fermentation Cellar]]
+- [[fermentationcellar|Fermentation Cellar]]
 ## Contents
 - [Potted Monstera](https://uadaf.theevilroot.xyz/rowenarium/element/pot.swiss)
 - [[painting.jacob|'Lord Jacob Gristwood']]

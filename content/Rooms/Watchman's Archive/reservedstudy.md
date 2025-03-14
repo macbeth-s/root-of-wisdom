@@ -11,14 +11,14 @@ The door is marked by a black flower. Beneath, words scrawled in catwink read EN
 **Required:** 1 Moon, 1 Moth
 
 Opening it will Expose:
-[[hallofrecords|Hall of Records]]
+- [[hallofrecords|Hall of Records]]
 ## Contents
 - [[library.desk.skolekosophist.consider|Desk: Skolekosophist]]
 - [[library.fireplace.reserved|Reserved Study Fireplace]]
 - [[painting.nigredo|'Nigredo']]
 - Dessicated Witchworms 
 - Perinculate  
-- [[Smoke-Swept Mirror ]]
+- [[mirror.smokeswept|Smoke-Swept Mirror]]
 - [[photograph.kleidouchos|'Mortal's Chiefest Enemy']] 
 - Uncatalogued Book ([[wing.frustum|Frustum]])  (x2)
 - Uncatalogued Book ([[wing.menagerie|Menagerie]])  

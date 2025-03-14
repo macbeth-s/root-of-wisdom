@@ -11,8 +11,8 @@ Dark crimson leaks from the cabinets. Without a caretaker, their residents grew 
 **Required:** 5 Lantern, 5 Winter
 
 Opening it will Expose:
-[[reservedstudy|Reserved Study]] 
-[[archive|Archive]]
+- [[reservedstudy|Reserved Study]] 
+- [[archive|Archive]]
 ## Contents
 - [[roster.faculty|Faculty Roster]]
 - [[chart.consanguinity|Chart of Consanguinity]]
