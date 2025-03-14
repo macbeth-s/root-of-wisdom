@@ -1,3 +1,8 @@
+---
+tags:
+  - room
+  - colegio
+---
 # Refectory  
 It is a common misconception to claim that the friars of the Company Anchorite were themselves anchorites. This has never, technically, been true. They were mostly chaplains, missionaries, theologians, and teachers, though no one denies that they also welcomed many spies and graverobbers into their order. These motley brothers would take their solemn meals here, then a select few would ascend the stairs to the cloister and leave food at the cell of the true anchorite or anchoress for whom they cared.  
 ## Sacrosanct Silence (Locked)  
@@ -18,3 +23,5 @@ Opening it will Expose:
 - [[chuno|Chuño]] (x2)  
 - [[candle.holdersmall|Small Candlestick]] (x2)
 - Uncatalogued Book ([[wing.colegio|Colegio]]) (x3)
+
+Wing: [[wing.colegio|Colegio de Santa Potenciana]]

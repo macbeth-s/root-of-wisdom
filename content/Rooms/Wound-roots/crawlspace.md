@@ -23,3 +23,5 @@ Opening it will Expose:
 - [[carbuncle.clouded|Clouded Carbuncle]]  
 - Uncatalogued Book ([[wing.archive|Archive]])  
 - Uncatalogued Book ([[wing.frustum|Frustum]])
+## Art Description
+*The top third of the room is just the foundation of the room above. Amid the cramped space is a hoarder's collection, an eclectic shrine to the Velvet, and a small bedroll tucked away.*

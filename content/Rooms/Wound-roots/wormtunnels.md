@@ -16,3 +16,5 @@ Opening it will Expose:
 ## Contents  
 - [[chunk.scolecite|Scolecite Chunk]]
 - [Midnight Mark](https://uadaf.theevilroot.xyz/rowenarium/element/midnight.mark)
+## Art Description
+*A challenging path for a spelunker, full of small holes and fissures made by the passage of worms into the world.*

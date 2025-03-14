@@ -1,7 +1,8 @@
 ---
 tags: Deck
 ---
-# Flowers: Camai Quilla
+# Gather During the Season of Growth
+The fecund airs invite certain flowers to bloom.
 
 | Draw                       | Quantity |
 | -------------------------- | -------- |

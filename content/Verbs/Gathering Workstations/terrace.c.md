@@ -9,3 +9,8 @@ A variety of native and non-native flowers year-round, thanks to Sisa's wards wh
 **Essential:** Ability<br>**Required:**  Heart
 ### Knowledge
 **Essential:** Ability<br>**Required:** Nectar
+
+## Recipes
+- [[flowers.wet|Gather During the Wet Season]]
+- [[flowers.dry|Gather During the Dry Season]]
+- [[flowers.camai|Gather During the Season of Growth]]

@@ -1,5 +1,7 @@
 ---
-tags: NobleRetreat
+tags:
+  - NobleRetreat
+  - room
 ---
 # Burnt Stair
 The dark alcoves under this stair are so perfect for secret trysts that it is said not one but two lovers have been murdered post-coitus here. At some point afterwards, someone cleverly tucked a shrine in the alcove so that there would not be so much room for dalliances.
