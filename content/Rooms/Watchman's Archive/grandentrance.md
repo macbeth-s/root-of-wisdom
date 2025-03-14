@@ -12,6 +12,7 @@ Someone is here. Someone guards the Gallery... someone guards the entire Haustor
 
 Opening it will Expose:
 - [[foyer|Coward's Foyer]]
+- It will also spawn [[robigo.setup|Dottore Robigo]]
 ## Contents
 - [[painting.doppelganger|'How They Met Themselves']]  
 - ['The Bridge at Ortucchio' ](https://uadaf.theevilroot.xyz/rowenarium/element/painting.bridge.ortucchio)
