@@ -11,4 +11,4 @@ Guerrilla, zealot, barber. Subcomandante of the Shorn Brothers and eternal striv
 ### A Conversation with Subcomandante Zuazo
 'I can't stay long... wouldn't want to put you in more danger than you're already in, buzzing about this place. ' \[If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]
 ## Zuazo's Address
-c/o White Husk Fraternity, Corazon Court, Gallup... \[To make an invitation to Zuazo sufficiently enticing, you'll need at least 5 <sprite name=moth> from Skills, Memories, Inks or anything else.]
+c/o White Husk Fraternity, Corazon Court, Gallup... \[To make an invitation to Zuazo sufficiently enticing, you'll need at least 5 \<sprite name=moth> from Skills, Memories, Inks or anything else.]

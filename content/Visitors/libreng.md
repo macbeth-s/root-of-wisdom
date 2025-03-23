@@ -15,4 +15,4 @@ Nationalist and novelist, ophthalmologist and opinionist, polyglottist and propa
 ### A Conversation with Libreng Ibon
 '<i>Mabuhay</v>, Librarian. Or whichever greeting you prefer.' \[If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]
 ## Libreng's Address
-Hotel Monteleone, New Orleans... \[To make an invititation to Libreng Ibon sufficiently enticing, you'll need at least 7 <sprite name=sky> from Skills, Memories, Inks or anything else.]
+Hotel Monteleone, New Orleans... \[To make an invititation to Libreng Ibon sufficiently enticing, you'll need at least 7 \<sprite name=sky> from Skills, Memories, Inks or anything else.]
