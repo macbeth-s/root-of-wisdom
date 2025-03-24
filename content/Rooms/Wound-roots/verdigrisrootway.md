@@ -14,7 +14,7 @@ Opening it will Expose:
 - [[missingrootway|The Missing Rootway]] 
 ## Contents  
 - [[library.pool|Sanguine Pool]]
-- In Pursuit of the Cuckoo's Egg  
+- [[t.inpursuitofthecuckoosegg|In Pursuit of the Cuckoo's Egg]]
 - [[casket.slender|Slender Casket]]  
 ## Art Description
 *Most of the roots end here, in a pool tinged with coppery hues. The roots are coated in deep green verdigris (not quite so blue as most verdigris). Lush lichens and other greenery coat every surface.*

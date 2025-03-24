@@ -17,6 +17,7 @@ Opening it will Expose:
 - [[casket.bronzed|Bronzed Casket]]
 - [[casket.turquoise|Turquoise Casket]]
 - [[casket.royal|Royal Casket]]
+- [[t.imasmarisonqo|Imasmari Sonqo]]
 - [[amber|Amber]]
 ## Art Description
 *Roots flecked with amber, motes of light like little gold nuggets glint from the soil. Perhaps some bugs or fossils move in the roots or the rock behind? Evokes paleontological wonder.*

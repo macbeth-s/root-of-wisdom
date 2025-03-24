@@ -20,7 +20,7 @@ Opening it will Expose:
 - [[hours.growth|'The Crowned Growth']]
 - [[spore.endolithic|Endolithic Rust]] (Bottled)  
 - [[spore.putrefying|Putrefying Epiphyte]] (Bottled)  
-- The Manors of the Vain  
+- [[t.themanorsofthevain|The Manors of the Vain]]  
 - Uncatalogued Book ([[wing.frustum|Frustum]]) (x9)
 - Uncatalogued Book ([[wing.menagerie|Menagerie]]) (x2)
 - Uncatalogued Book ([[wing.substructure|Substructure]]) (x2)
