@@ -15,7 +15,7 @@ Opening it will Expose:
 ## Contents  
 - [[tapestry.twins|'Mountain Pearl']]
 - [[casket.princess|Princess' Casket]]  
-- Inscribed Scolecite Tablet
+- [[t.inscribedscolecitetablet|Inscribed Scolecite Tablet]]
 - [[a.ekekotheabundant|'Ekeko the Abundant']] 
 - [[a.thesilentstories|The Silent Stories]]  
 - [[anaku|Leonor's Anaku]]  

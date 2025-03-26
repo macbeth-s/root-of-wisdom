@@ -11,7 +11,6 @@ Even Robigo kneels here, before the throne of his liege lord. His court is close
 **Required:** 1 Heart, 1 Nectar  
 ## Contents  
 - [[library.throne|THE THRONE]]
-- Sacrament Hyphalite 
-- Aeon Egg
+- [[sacrament.hyphalite|Sacrament Hyphalite]] 
 
 Wing: [[wing.colegio|Colegio de Santa Potenciana]]
