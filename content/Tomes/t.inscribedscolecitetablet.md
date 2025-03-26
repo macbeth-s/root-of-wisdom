@@ -1,6 +1,6 @@
 ---
-tags: []
-draft: "true"
+tags: 
+draft:
 ---
 # Inscribed Scolecite Tablet
 An impossible tablet of worm-stone, formed such that the acicular fibers form writing in Killasimi.<br>Initial Location: [[fourfoldsacrarium|Fourfold Sacrarium]]
