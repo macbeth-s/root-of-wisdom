@@ -1,5 +1,10 @@
+---
+tags:
+  - Ending
+---
 **Requirements:**
 - Journal 
+- Ability
 - -1 History
 - [[world.tree.poisoned|Poisoned Tree]]
 ## Lay Down My Work
