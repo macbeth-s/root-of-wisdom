@@ -1,7 +1,7 @@
 ---
 {}
 ---
-# Yellow Obsidian Tablet
+ # Yellow Obsidian Tablet
 Supposedly copied from a tablet of yellow obsidian which serves as the Covenant-stone of Crossrow - the token which gives that Library shelter beneath the Watchman's Tree.
 ## I'm Reading...
 ‘When humankind transcended the Branches, Eternity erased those beyond them. No skin nor shell could shield us from its gaze, and we lamented. But when our cries crossed the horizon, the Leak sang back his Nesting Song…’

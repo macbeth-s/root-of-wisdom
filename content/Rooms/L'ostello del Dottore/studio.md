@@ -14,8 +14,8 @@ The miasma here is neither chilly nor blinding. It's crisp as autumn. Contaminat
 - [[condorroom|Condor Room]]
 - [[rooftopplaza|Rooftop Plaza]]
 ## Contents
-- [[library.easel|Composer's Piano]]
-- [[library.instrument.piano|Panoramic Easel]]
+- [[library.instrument.piano|Composer's Piano]]
+- [[library.easel|Panoramic Easel]]
 - [[library.workbench.potter|Potter's Bench]]
 - [[bust.leonel|'Leonel Cipagauta']]
 - [[painting.farewell|'A Last Farewell']]
