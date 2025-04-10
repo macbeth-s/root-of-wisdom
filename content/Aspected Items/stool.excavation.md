@@ -10,5 +10,4 @@ Speckled by the dust of dead ages.
 ## Aspects
 - Winter 1
 - Scale 2
-- 
 - #Comfort

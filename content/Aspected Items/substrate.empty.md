@@ -8,7 +8,7 @@ Satisfy this creature's appetite. \[Food will make a hungry beast, or a wild one
 **Essential:** Spore
 **Effect:** [[substrate.tame|Shambling Substrate]]
 ## Aspects
--  Nectar 1
+- Nectar 1
 - Moth 1
 - #Beast 
 - #Comfort 

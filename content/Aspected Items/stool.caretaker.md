@@ -9,6 +9,4 @@ For those friars who were faithful and patient, some anchorites and anchoresses 
 **Effect:** [Memory: Touch](https://uadaf.theevilroot.xyz/rowenarium/elements/mem.touch)
 ## Aspects
 - Heart 1
-- 
-- 
 - #Comfort

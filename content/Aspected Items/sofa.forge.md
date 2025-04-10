@@ -6,7 +6,7 @@ A member of the Dal Fabbres Chiaroscuro Suite. After Kume Tsūten's temper marre
 
 Initial Location: [[discourteousroom|Discourteous Room]]
 ## Consider
-Heat wafts up to curl around me like chains.
+Heat wafts up to curl around me like chains.<br>
 **Effect**: [Memory: Touch](https://uadaf.theevilroot.xyz/rowenarium/element/mem.touch)
 ## Aspects
 - Forge 1
