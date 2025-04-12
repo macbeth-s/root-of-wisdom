@@ -1,5 +1,5 @@
 # Sra. Paloma Silva
-An Obliviate with uncertain ties to the government--both civil and military. Some adepts whisper that her appearance on one's doorstop means one will either soon be dead or living in an extravagant villa in Port Noon. 
+An Obliviate with uncertain ties to the government--both civil and military. Some  whisper that her appearance on one's doorstop means one will either soon be dead or living in an extravagant villa in Port Noon. 
 ## Aspects
 - Interest: Sky 3
 - Interest: Moon 3
