@@ -13,5 +13,6 @@ Here is a riddle only certain truths can solve. Do I have an answer?
 Opening it will spawn [[feathered.woman|The Feathered Woman]].
 ## Contents
 - [[library.altar.urgrund|Urgrund Altar]]
+Wing: [[wing.woundroots|Wound-Roots]]
 ## Art Description
 *A beautiful and unnerving outlet to the open sky, like a stone portal out of the caves. The Urgrund altar is under and around this window. Carvings evoking the Feathered Woman's particular appearance reflect in the crystal and stone.*

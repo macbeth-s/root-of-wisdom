@@ -16,5 +16,6 @@ Opening it will Expose:
 - [[casket.sealed|Sealed Casket]]
 - [[chunk.scolecite|Scolecite Chunk]]
 - [[t.thelivingproof|The Living Proof]]
+Wing: [[wing.woundroots|Wound-Roots]]
 ## Art Description
 *Scary and bleak! Harsh steel-greys and blues. Some roots resemble tendons. Borders on body horror. Maybe some roots have teeth, or tooth-like growths.* 

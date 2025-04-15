@@ -18,5 +18,6 @@ Opening it will Expose:
 - Records Box 
 - Curious Seashell
 - Rose-Pearl
+Wing: [[wing.woundroots|Wound-Roots]]
 ## Art Description
 *What a rootway at Hush House might look like: Nume-brume around the roots, maybe even seashells in the stone. Purples, blues, grays dominate, with highlights of porphyrine-purple.

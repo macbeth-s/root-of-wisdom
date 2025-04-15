@@ -16,5 +16,6 @@ Opening it will Expose:
 ## Contents  
 - [[a.threecordedquipu|Three-Corded Quipu]]
 - [[casket.falsebottomed|False-Bottomed Casket]]
+Wing: [[wing.woundroots|Wound-Roots]]
 ## Art Description
 *The most jarringly normal rootway. Two large normal-looking roots have cut ends: one is neatly sawed off, the other looks burnt or splintered or somehow more violently aborted. Perhaps some symbol in the background could evoke scale aspect.*

@@ -17,5 +17,6 @@ Opening it will Expose:
 - [[library.angstloch|Angstloch]]
 - [[guano|Guano]]  
 - [[bat.wild|Wild Bat]]
+Wing: [[wing.woundroots|Wound-Roots]]
 ## Art Description
 *A vignette/spotlight effect on a guano-covered hole into the ground. Bat eyes flicker from the darkness around the border.*

@@ -14,5 +14,6 @@ Opening it will Expose:
 - [[webs|Webs]]  
 ## Contents  
 - [[library.nest|Empty Nest]]
+Wing: [[wing.woundroots|Wound-Roots]]
 ## Art Description
 *A large nest lined with wool or some other substance, formed of branches of petrified trees and large bones. Cave drawings all along the walls.*
