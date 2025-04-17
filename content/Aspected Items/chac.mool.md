@@ -1,5 +1,5 @@
 ---
-tags: [#Comfort]
+tags: [Comfort]
 ---
 # Chac Mool
 Purchased for cheap from La Lagunilla and brought by an unsuspecting adept.<br>
