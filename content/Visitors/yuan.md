@@ -1,5 +1,5 @@
 # Prof. Ji Yuan
-Butcher, poet, connoisseur. Sponsored by T.R.N. Limited to procure their rarer ingredients.
+Butcher, poet, connoisseur. Versed in junctures of taste and novelty, T.R.N. Limited sponsored them to procure a catalogue of rarer ingredients.
 ## Aspects
 - Interest: Grail 3
 - Interest: Moth 3
