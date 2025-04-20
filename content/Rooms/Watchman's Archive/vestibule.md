@@ -21,7 +21,7 @@ Opening it will Expose:
 - [[chair.vigilant|Vigilant Chair]]
 - [[bust.luis|'Father Luis Bahamonde, CA']]
 - [Vase of Amaryllis](https://uadaf.theevilroot.xyz/rowenarium/element/vase.amaryllis)
-- [[pitcher.water.melt]] (Pitcher)
+- [[pitcher.water.melt|Melt-Water]] (Pitcher)
 - [[pot.coffee.eveningisles|Evening Isles Coffee]] (Packet)
 - [[pot.cocoa|Drinking Cocoa]] (Packet)
 - [[painting.star|'When we were Wise']]

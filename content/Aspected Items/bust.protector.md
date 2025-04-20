@@ -2,12 +2,10 @@
 {}
 ---
 # 'Our Protector'
-A noble bust of a handsome man, in Roman style.
-
-Initial Location: [[forebodingmarch]]
+A noble bust of a handsome man, in Roman style.<br>
+Initial Location: [[forebodingmarch|Foreboding March]]
 ## Consider
-Engraved: ROBIGVS PRAESTES.
-**Effect**: [Memory: Sight](https://uadaf.theevilroot.xyz/rowenarium/element/mem.sight)
+Engraved: ROBIGVS PRAESTES.<br>**Effect**: [Memory: Sight](https://uadaf.theevilroot.xyz/rowenarium/element/mem.sight)
 ## Aspects
-Nectar 1
-#Thing
+- Nectar 1
+- #Thing

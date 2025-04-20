@@ -18,7 +18,7 @@ Opening it will Expose:
 - [[a.bronzetajadero|Bronze Tajadero]]
 - [[statue.liberator|'The Liberator Ascendant']]
 - [[tinya.anthropoderm|Anthropoderm Tinya]]
-- [[tumbaga.plate]]
+- [[tumbaga.plate|Tumbaga Plate]]
 - [[chac.mool|Chac Mool]]
 - [[painting.knot|Cuetlaxtlapilli]]
 - [[painting.celsus|'The Fire at Celsus']]

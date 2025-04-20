@@ -4,14 +4,14 @@
 # Lusty Flask
 Medicinal whiskey, a tincture with outré substances.
 ## Consider
-Smoke and wood-notes thrilled with earthen mugginess.
+Smoke and wood-notes thrilled with earthen mugginess.<br>
 **Effect**: [Memory: Taste](https://uadaf.theevilroot.xyz/rowenarium/element/mem.taste)
 ## Aspects
-Grail 3
-Heart 3
-#Intoxicating
-#Ingredient
-#Beverage
-#Restorative
-#Liquid
-#Thing
+- Grail 3
+- Heart 3
+- #Intoxicating
+- #Ingredient
+- #Beverage
+- #Restorative
+- #Liquid
+- #Thing

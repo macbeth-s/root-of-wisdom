@@ -24,7 +24,7 @@ Opening it will Expose:
 - Uncatalogued Book ([[wing.substructure|Substructure]])
 - Uncatalogued Book ([[wing.menagerie|Menagerie]])
 - Anthropoderm Parchment  
-- Perhibiate  
+- [Perhibiate](https://uadaf.theevilroot.xyz/rowenarium/element/perhibiate)
 - Box of Oddities  
 - Box of Oddities  
 - Box of Rarities  

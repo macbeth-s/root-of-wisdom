@@ -10,5 +10,4 @@ Beauty and potency alloyed into a graceful form, lithe as a rapier.
 ## Aspects
 - Edge 1
 - Lantern 1
-- 
 - #Comfort

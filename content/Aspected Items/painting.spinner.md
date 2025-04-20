@@ -3,12 +3,11 @@ tags: []
 ---
 # 'Attendant to Fate'
 Delivered to the Haustorium a scant few years ago from an anonymous sender, identified only as a 'cousin to Teodoro.'
-
-Initial Location: [[grandentrance]]
+<br>Initial Location: [[grandentrance|Grand Entrance]]
 ## Consider
-In 1755, Teodoro Cisneros y Peralta arrived to the Haustorium. A century later, Francisco Laso returned to Peru. It's likely only a coincidence... but both could be considered a homecoming.
+In 1755, Teodoro Cisneros y Peralta arrived to the Haustorium. A century later, Francisco Laso returned to Peru. It's likely only a coincidence... but both could be considered a homecoming.<br>
 **Effect**: [Memory: Sight](https://uadaf.theevilroot.xyz/rowenarium/element/mem.sight)
 ## Aspects
-Heart 1
-Sky 2
-#WallArt
+- Heart 1
+- Sky 2
+- #WallArt
