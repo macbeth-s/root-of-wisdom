@@ -4,4 +4,3 @@ tags:
 ---
 # Spore
 A traveler awaiting hospitality.
-![[spore.png]]
