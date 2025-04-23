@@ -3,5 +3,5 @@ tags:
   - aspect
 ---
 # Spore
-A traveler awaiting hospitality.
-![[spore.png]]
+A traveler awaiting hospitality.<br>
+![[!_Extra/spore.png]]
