@@ -2,7 +2,7 @@
 tags:
   - verb
 ---
-# Terrace Garden
+# Terrace Garden: Flowers
 A variety of native and non-native flowers year-round, thanks to Sisa's wards which also protect against the elements.
 ## Slots
 ### Effort

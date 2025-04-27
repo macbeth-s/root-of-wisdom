@@ -7,13 +7,9 @@ tags:
 # Toolshed
 Hanging on the walls are tools of such varied provenance and preservation as to resemble their own form of exhibit. Trowels dating back to before Independence are shelved near shears imprinted with the logo of Sovereign Metals, founded 1875.
 ## Neglected Toolshed (Locked)
-Dulled or rusted tools are scattered about. I'll need to mend them before reorganizing the place.
-<br>**Essential:** Assistance
-<br>**Required:** Forge 4, Scale 4
-
+Dulled or rusted tools are scattered about. I'll need to mend them before reorganizing the place.<br>**Essential:** Assistance<br>**Required:** Forge 4, Scale 4
 <br>Opening it will Expose:
 - [[rootcellar|Root Cellar]]
-
 ## Contents
 - [[library.workbench.garden|Gardener's Workbench]] 
 - [[stool.toolshed|Robust Stool]]  

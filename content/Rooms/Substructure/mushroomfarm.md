@@ -7,10 +7,10 @@ tags:
 # Mushroom Farm  
 Edible, medicinal, transcendental, perilous. Mushrooms are many things, but they have always been essential to the Haustorium.  
 ## Spore-Clouded Cavern (Locked)  
-Lethal dusk clouds the room. If we feed it the right elements, it will soften to a safe gloom.  
-**Essential:** Assistance  
-**Required: **9 Grail, 9 Nectar  
-  
+Lethal dusk clouds the room. If we feed it the right elements, it will soften to a safe gloom. <br>
+**Essential:** Assistance  <br>
+**Required:** 9 Grail, 9 Nectar  
+<br>  
 Opening it will Expose:  
 - [[shallowgraves|Shallow Graves]]
 ## Contents  

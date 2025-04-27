@@ -11,15 +11,14 @@ My body recoils from the salt-bitter haze. I need a focused soul to ground me be
 **Essential:** Assistance  
 **Required:** 6 Grail, 6 Sky  
   
-Opening it will Expose:  
-Fungal Pantry, Staircase: No Return  
+Opening it will Expose: [[fungalpantry|Fungal Pantry]], [[staircasenoreturn|Staircase: No Return]]  
 ## Contents  
 - [[portrait.lily|'Lilia']] 
 - [[melipona.comb|Melipona Comb]] 
-- Honey    
-- Cuckoo-Honey  
-- Agave Eterna  
-- Sacrament Malachite  
+- [Honey](https://uadaf.theevilroot.xyz/rowenarium/element/honey)    
+- [Cuckoo-Honey](https://uadaf.theevilroot.xyz/rowenarium/element/honey.cuckoo)
+- [Agave Eterna](https://uadaf.theevilroot.xyz/rowenarium/element/agave.aeterna) 
+- [[sacrament.malachite|Sacrament Malachite]] 
 - [[bottle.mezcal|Mezcal Eterna]] (Bottle)  (x3)
 - [[bottle.pulque|Golden Pulque]] (Bottle)  (x3)
 - [[bottle.ron|Ron Añejo]] (Bottle)  

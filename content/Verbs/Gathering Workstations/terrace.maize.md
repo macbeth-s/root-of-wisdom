@@ -2,8 +2,8 @@
 tags:
   - verb
 ---
-# Terrace Garden
-The 'history plant', <i>agave aeterna</i>, flowers here during Camai Quilla.
+# Terrace Garden: Maize
+Maize when it is dry enough for harvest. Rarer or more perilous crops might burst forth in Camai Quilla.
 ## Slots
 ### Effort
 **Essential:** Ability<br>**Required:**  Heart

@@ -2,13 +2,10 @@
 {}
 ---
 # 'Green as Remembered Rain'
-Taken from Rostock in the dead of night; oils of green-gold glory.
-Initial Location: Vigilkeeper's Coatroom
+Taken from Rostock in the dead of night; oils of green-gold glory.<br>Initial Location: [[coatroom|Vigilkeeper's Coatroom]]
 ## Consider
-If the Wood has changed, is this what it changed from?
-**Effect:** [Memory: Sight](https://uadaf.theevilroot.xyz/rowenarium/elements/mem.sight)
+If the Wood has changed, is this what it changed from?<br>**Effect:** [Memory: Sight](https://uadaf.theevilroot.xyz/rowenarium/elements/mem.sight)
 ## Aspects
 - Nectar 1
 - Moth 1
--  
 - #WallArt

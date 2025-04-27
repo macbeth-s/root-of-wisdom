@@ -18,14 +18,14 @@ Opening it will Expose:
 - [[portrait.dove|'Paloma']]
 - [[potato.sack|Sack of Potatoes ]]
 - [[potato.violent|Kichka Matanka]]
-- Basket of Onions  
-- Basket of Vegetables  
-- Canned Ham  
-- Pumpkin  
-- Amber Pumpkin  
-- Honey  
-- Hen's Egg  
-- Moly  
+- [Basket of Onions](https://uadaf.theevilroot.xyz/rowenarium/element/veg.basket.onions)
+- [Basket of Vegetables](https://uadaf.theevilroot.xyz/rowenarium/element/veg.basket)
+- [Canned Ham](https://uadaf.theevilroot.xyz/rowenarium/element/ham.canned)  
+- [Pumpkin](https://uadaf.theevilroot.xyz/rowenarium/element/pumpkin)
+- [Amber Pumpkin](https://uadaf.theevilroot.xyz/rowenarium/element/pumpkin.amber)
+- [Honey](https://uadaf.theevilroot.xyz/rowenarium/element/honey)
+- [Hen's Egg](https://uadaf.theevilroot.xyz/rowenarium/element/egg.chicken)
+- [Moly](https://uadaf.theevilroot.xyz/rowenarium/element/moly)  
 - [[bone.chalk|Bone-chalk]]
 - [[coco.coronalis|Coco Coronalis]]
 - [[chuno|Chuño]]

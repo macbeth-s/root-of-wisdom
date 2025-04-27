@@ -4,7 +4,7 @@
 # Amanita Cenizarea
 A pale white cap and a brilliant orange underside. They grow best on decaying flesh. 
 ## Consider
-Useful in alchemy.
+Useful in alchemy.<br>
 **Effect:** [Memory: Foresight](https://uadaf.theevilroot.xyz/rowenarium/element/mem.foresight)
 ## Aspects
 - Winter 3

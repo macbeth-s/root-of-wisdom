@@ -1,5 +1,6 @@
 ---
 tags:
+  - artifact
 ---
 # Elixir Zeboim
 I am not the kind of temerarious cultist who would drink it... but I am the kind of person who might study it in detail.<br>Initial Location: [[shallowgraves|Shallow Graves]]

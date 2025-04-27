@@ -13,6 +13,7 @@ Something lives in here, or at the very least something breathes. Whatever it ma
   
 Opening it will Expose:  
 - [[laboratory|Mycological Laboratory]]
+- [[coatroom|Vigilkeeper's Coatroom]]
 - It will also spawn [[lacombe|Charles Lacombe]]
 ## Contents  
 - [[library.projector.consider|Lacombe's Projector]]

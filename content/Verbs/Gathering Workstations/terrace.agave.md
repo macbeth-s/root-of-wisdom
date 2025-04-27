@@ -2,8 +2,8 @@
 tags:
   - verb
 ---
-# Terrace Garden
-An abundance of tubers lie beneath the earth. What might I awaken from their slumber?
+# Terrace Garden: Agave
+The 'history plant', <i>agave aeterna</i>, flowers here during Camai Quilla.
 ## Slots
 ### Effort
 **Essential:** Ability<br>**Required:**  Heart

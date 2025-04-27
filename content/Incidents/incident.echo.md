@@ -1,5 +1,5 @@
 # The Affair of the Wind's Echoes
-Pica’s residents warn visitors from the abandoned socavones. A geologist ignored them to survey the structures and promptly disappeared. Now the evening winds carry his voice.
+Pica’s residents warn visitors away from the abandoned socavones. A geologist ignored them to survey the structures and promptly disappeared. Now the evening winds carry his voice.
 ## Aspects
 - Relevance: Sky
 - Relevance: Moon

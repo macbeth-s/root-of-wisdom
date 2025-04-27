@@ -2,8 +2,8 @@
 tags:
   - verb
 ---
-# Terrace Garden
-Maize when it is dry enough for harvest. Rarer or more perilous crops might burst forth in Camai Quilla.
+# Terrace Garden: Potatoes
+An abundance of tubers lie beneath the earth. What might I awaken from their slumber?
 ## Slots
 ### Effort
 **Essential:** Ability<br>**Required:**  Heart

@@ -10,18 +10,16 @@ The same agricultural practices developed by the engineers of the Fourfold Realm
 Flattened plants litter the terraces. Without a nurturing hand, they surrendered to the mountain.
 <br>**Essential:** Assistance
 <br>**Required:** Nectar 4, Grail 4
-
 <br>Opening it will Expose:
 - [[toolshed|Toolshed]]
 - [[apiary|Apiary]]
 ## Contents
 - [[library.fountain|Haustorium Fountain]]
-- Terrace Garden (x7)
-	- [[terrace.a]] (*Quinoa*)
-	- [[terrace.b]] (*Maize*)
-	- [[terrace.c]] (x2) *(Flowers)*
-	- [[terrace.d]] (*Agave Aeterna*)
-	- [[terrace.e]] (x2) (*Potatoes*)
+- [[terrace.quinoa|Terrace Garden: Quinoa]]
+- [[terrace.maize|Terrace Garden: Maize]] 
+- [[terrace.flowers|Terrace Garden: Flowers]] (x2) 
+- [[terrace.agave|Terrace Garden: Agave]] 
+- [[terrace.potatoes|Terrace Garden: Potatoes]] (x2) 
 - [[terrace.f|Chile Plant]]
 
 Wing: [[openair|Open Air]]
