@@ -11,4 +11,5 @@ Initial Location: Fossil Exhibit
 - Scale 2
 - Winter 2
 - Edge 2
+- #Fixed in Place
 - #Comfort

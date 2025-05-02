@@ -1,6 +1,7 @@
 ---
 tags:
   - verb
+  - "#EvolveviaHoromachistry"
 ---
 # Altar: Corrivality
 The Hours of the Corrivality teach what ensues when Rage meets Might, when Destruction meets Victory, when one tears at all which is without and all which is within.<br>Location: [[scarredchancel|Scarred Chancel]]

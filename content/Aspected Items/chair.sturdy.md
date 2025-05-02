@@ -10,5 +10,4 @@ Its underside is marked by the emblem of Sovereign Metals.
 ## Aspects
 - Sky 1
 - Forge 1
-- 
 - #Comfort

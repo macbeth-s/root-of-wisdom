@@ -10,5 +10,4 @@ The broad claws are caked with earth, but are just as sharp as they were the day
 ## Aspects
 - Edge 1
 - Scale 1
-- 
 - #Comfort

@@ -10,5 +10,4 @@ Don't look too closely...
 ## Aspects
 - Lantern 1
 - Edge 1
--  
 - #WallArt

@@ -10,5 +10,4 @@ Teodoro enjoyed a decadent lifestyle in Callao, funded by his inheritence, until
 ## Aspects
 - Edge 1
 - Grail 1
--  
 - #WallArt

@@ -9,6 +9,5 @@ A thudding of pine-stretched skin to start - pounds in my head, my hands, my hea
 **Effect:** [Memory: Storm](https://uadaf.theevilroot.xyz/rowenarium/elements/mem.storm)
 ## Aspects
 - Heart 1
-- Edge 1
-- 
+- Edge 1 
 - #Comfort

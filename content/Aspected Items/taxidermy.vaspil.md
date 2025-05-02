@@ -10,5 +10,4 @@ Barnacles cling to its stony quills, remnants from its excursions to the sea-dep
 ## Aspects
 - Edge 1
 - Moon 1
-- 
 - #Comfort

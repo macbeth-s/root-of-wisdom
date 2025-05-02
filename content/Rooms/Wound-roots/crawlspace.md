@@ -15,7 +15,7 @@ Opening it will Expose:
 ## Contents  
 - [[library.altar.velvet|Shrine: Black-Flax]]
 - [[library.bed.guest.nook|Guest Bed: Nook]]
-- Sacrament Malachite  
+- [[sacrament.malachite|Sacrament Malachite]]
 - Yewgall Ink  
 - Quartz Chunk  
 - [[potato.purple|Tuqra Papa]]  

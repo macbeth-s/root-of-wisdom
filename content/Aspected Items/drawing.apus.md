@@ -10,5 +10,4 @@ Smeared words in the corner: 'Faster than the Dawn.'
 ## Aspects
 - Sky 1
 - Forge 1
--  
 - #WallArt

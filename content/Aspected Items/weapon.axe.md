@@ -10,5 +10,4 @@ Before the time of iron, this was the conquerer's metal.
 ## Aspects
 - Edge 1
 - Scale 1
--  
 - #WallArt

@@ -10,5 +10,4 @@ When the Troissaint Company undertook the culling of the Tragulari, a number of 
 ## Aspects
 - Edge 2
 - Winter 1
--  
 - #WallArt

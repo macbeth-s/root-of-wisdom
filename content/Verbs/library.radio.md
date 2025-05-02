@@ -1,6 +1,7 @@
 ---
 tags:
   - verb
+  - "#EvolveviaBirdsong"
 ---
 # Cryptic Radio
 The radio can be tuned to a few national stations, and even some international ones. Most disturbing, however, are the muffled voices that speak when the dial is turned just so... they may be the chirpings of birds, or the incantations of witches. It can also transmit.<br>Location: [[radioroom|Radio Room]]

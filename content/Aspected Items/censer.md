@@ -2,8 +2,8 @@
 {}
 ---
 # Swinging Censer
-Incense wards off many influences, and welcomes others.
-Initial Location: Fragmented Nave
+Incense wards off many influences, and welcomes others.<br>
+Location: [[fragmentednave|Fragmented Nave]]
 ## Consider
 ---
 **Effect:** ---
@@ -12,3 +12,4 @@ Initial Location: Fragmented Nave
 - Knock 1
 - Moth 1
 - #WallArt
+- #Fixed in PLace
