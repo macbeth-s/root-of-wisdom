@@ -11,7 +11,7 @@ The pallor of disease coats the cages and pens of this once-great menagerie. Fec
 **Required:** 7 Knock, 7 Moon, 7 Scale, 7 Winter  
   
 Opening it will Expose:  
-Excavation  
+- [[excavation|Excavation]]  
 ## Contents  
 - [[lion.defiant|Defiant Lion]]
 - [[peryton.despondent|Despondent Peryton]]
@@ -20,6 +20,6 @@ Excavation
 - [[wenutrewa|Wenutrewa]]
 - [Lignum Vitae Blank](https://uadaf.theevilroot.xyz/rowenarium/element/lignum.vitae.blank)
 - [[poster.menagerie|'Come One, Come All!']]
-- [[Bleach]]
+- [[bleach|Bleach]]
 
 Wing: [[wing.menagerie|Skolex Menagerie]]

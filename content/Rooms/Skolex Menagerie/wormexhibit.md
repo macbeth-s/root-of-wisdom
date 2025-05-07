@@ -11,7 +11,7 @@ The door is painted with a red flower. Surrounding it, words written in yewgall 
 **Required:** 1 Nectar, 1 Scale  
   
 Opening it will Expose:  
-- Worm Tunnels  
+- [[wormtunnels|Worm Tunnels]] 
 ## Contents  
 - [[painting.julian|'Julian Coseley']]  
 - [[a.frostedenclosure|Frosted Enclosure]]  

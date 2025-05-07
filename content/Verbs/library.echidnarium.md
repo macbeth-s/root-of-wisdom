@@ -1,6 +1,7 @@
 ---
 tags:
   - verb
+  - "#EvolveviaSkolekosophy"
 ---
 # Echidnarium
 Since the days of scale and stone, monsters have been made of many materials. Bengui never mastered the art herself, but she did learn something of the methods of weaving flesh into something mighty.<br>Location: [[echidnarium|Echidnarium]]

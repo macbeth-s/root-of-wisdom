@@ -10,5 +10,4 @@ Each creak, a threat.
 ## Aspects
 - Lantern 1
 - Knock 1
-- 
 - #Comfort
