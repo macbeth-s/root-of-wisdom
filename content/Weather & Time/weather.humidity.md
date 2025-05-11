@@ -9,4 +9,4 @@ The moisture embraces us.
 - Heart 2
 - Grail 1
 ## Drawn in Deck:
-[deck.weather.wet]
+[[deck.weather.wet]]

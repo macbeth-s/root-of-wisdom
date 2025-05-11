@@ -9,4 +9,4 @@ The world is pale today. We are in the white west of the world.
 - Winter 2
 - Sky 2
 ## Drawn in Deck:
-[deck.weather.wet]
+[[deck.weather.wet]]

@@ -9,4 +9,4 @@ Thunder-roaring, lightning-lashed skies.
 - Heart 4
 - Sky 4
 ## Drawn in Deck:
-[deck.weather.wet]
+[[deck.weather.wet]]

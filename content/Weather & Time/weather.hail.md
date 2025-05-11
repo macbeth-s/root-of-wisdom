@@ -9,4 +9,4 @@ An assault of ice.
 - Edge 3
 - Sky 3
 ## Drawn in Deck:
-[deck.weather.wet]
+[[deck.weather.wet]]

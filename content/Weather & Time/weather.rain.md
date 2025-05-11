@@ -9,4 +9,4 @@ Soft rain brings life... unfortunately.
 - Grail 2
 - Nectar 2
 ## Drawn in Deck:
-[deck.weather.wet]
+[[deck.weather.wet]]
