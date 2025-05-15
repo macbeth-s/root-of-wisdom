@@ -1,6 +1,7 @@
 ---
 tags:
   - verb
+  - "#EvolveviaSkolekosophy"
 draft:
 ---
 # Shrine: St. Marzanna

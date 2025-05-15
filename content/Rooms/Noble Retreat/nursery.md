@@ -15,9 +15,9 @@ Opening it will Expose:
 ## Contents
 - [[library.cradle|Shura's Cradle]]
 - [[a.parnassianomphalos|Parnassian Omphalos]]
-- Serpent-Milk
+- [Serpent-Milk](https://uadaf.theevilroot.xyz/rowenarium/element/serpentmilk)
 - [[chair.rocking|Rocking-Chair]]
 - Uncatalogued Book ([[wing.retreat|Retreat]]) (x2)
-- Basket of Towels
+- [Basket of Towels](https://uadaf.theevilroot.xyz/rowenarium/element/basket.towels)
 
 Wing: [[wing.retreat|Noble Retreat]]

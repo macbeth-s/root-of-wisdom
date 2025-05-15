@@ -11,9 +11,9 @@ If there is light in Nowhere, it looks like this. I must avert my eyes and find 
 Opening it will Expose:
 - [[crimsonparlor|Crimson Parlor]]
 ## Contents
-[[library.altar.applebright|Shrine: Applebright]]
-[[bust.gabriela|'Gabriela Ber']]
-[Paint: Red](https://uadaf.theevilroot.xyz/rowenarium/element/paint.red)
-[Chalice Candle](https://uadaf.theevilroot.xyz/rowenarium/element/candle.fragrant.chalice) (x2)
+- [[library.altar.applebright|Shrine: Applebright]]
+- [[bust.gabriela|'Gabriela Ber']]
+- [Paint: Red](https://uadaf.theevilroot.xyz/rowenarium/element/paint.red)
+- [Chalice Candle](https://uadaf.theevilroot.xyz/rowenarium/element/candle.fragrant.chalice) (x2)
 
 Wing: [[wing.retreat|Noble Retreat]]

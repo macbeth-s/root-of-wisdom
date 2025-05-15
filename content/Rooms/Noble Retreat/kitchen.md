@@ -21,7 +21,7 @@ Opening it will Expose:
 - [Sacrament Calicite](https://uadaf.theevilroot.xyz/rowenarium/element/sacrament.calicite)
 - [Leathy](https://uadaf.theevilroot.xyz/rowenarium/element/leathy)
 - [[amaranth|Love-lies-bleeding]]
-- [Labhitic Tincture](https://uadaf.theevilroot.xyz/rowenarium/element/labhitic.tincture)
+- [Labhitic Tincture](https://uadaf.theevilroot.xyz/rowenarium/element/tincture.labhitic)
 - [Pickled Mushrooms](https://uadaf.theevilroot.xyz/rowenarium/element/mushrooms.pickled)
 - [[jovian.snuffbox|Jovian Snuffbox]]
 
