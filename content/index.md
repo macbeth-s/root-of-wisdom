@@ -1,13 +1,13 @@
 ---
 title: Welcome
 ---
-<p style="text-align: center;">“THE ROOT OF WISDOM IS TO FEAR THE LORD, AND THE BRANCHES THEREOF ARE LONG LIFE.” ECCLESIASTICUS 1:20<br><br>
+<p style="text-align: center;">“THE ROOT OF WISDOM IS TO FEAR THE LORD, AND THE BRANCHES THEREOF ARE LONG LIFE.” ECCLESIASTICUS 1:20<br>
 
-(inscribed above the throne in the Chapel of the Company Anchorite)<br><br>
+<p style="text-align: center;">(inscribed above the throne in the Chapel of the Company Anchorite)<br>
 
-<i>Go quietly.<br><br>
+<p style="text-align: center;"><i>Go quietly.<br>
 
-The Haustorium is not quite so kind as Hush House, but the foolish do not become librarians.</i></p>
+<p style="text-align: center;">The Haustorium is not quite so kind as Hush House, but the foolish do not become librarians.</i></p>
 
 Welcome, early readers. Give exploration a try, beginning with the [[apachita|Apachita]] that guides the Know to the Haustorium, or [see which librarian you are.](https://macbeth-s.itch.io/root-of-wisdom-opening-scene)
 
