@@ -1,9 +1,10 @@
 ---
 tags:
   - verb
+  - EvolveviaHoromachistry
 ---
 # Lectern
-Expound, explore, expose.<br>Location: [[lecturehall|Lecture Hall]]<br> #EvolveviaHoromachistry 
+Expound, explore, expose.<br>Location: [[lecturehall|Lecture Hall]]
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Lantern, Moth

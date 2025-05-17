@@ -1,10 +1,10 @@
 ---
 tags:
   - verb
+  - EvolveviaPreservation
 ---
 # Lacombe's Iron Lung
 Pulsing, fluttering, preserving. What kind of doctor made this?<br>Location: [[infirmary|Infirmary]]
-#EvolveviaPreservation
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Heart, Moth, Forge

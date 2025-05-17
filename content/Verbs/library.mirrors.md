@@ -1,10 +1,10 @@
 ---
 tags:
   - verb
+  - EvolveviaIllumination
 ---
 # Mirrors
 Did you see that? In the corner of your eye...<br>Location: [[mirrorhold|Mirror Hold]]
-#EvolveviaIllumination
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Lantern, Forge, Winter, Knock

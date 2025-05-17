@@ -1,10 +1,10 @@
 ---
 tags:
   - verb
+  - EvolveviaNyctodromy
 ---
 # Dreaming-Circle
 With proper ritual, one might dream higher. With proper substances, one might dream highest of all.<br>Location: [[transcendentretreat|Transcendent Retreat]]
-#EvolveviaNyctodromy
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Moth, Moon, Rose, Knock

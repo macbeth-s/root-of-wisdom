@@ -5,7 +5,6 @@ tags:
 ---
 # Echidnarium
 Since the days of scale and stone, monsters have been made of many materials. Bengui never mastered the art herself, but she did learn something of the methods of weaving flesh into something mighty.<br>Location: [[echidnarium|Echidnarium]]
-#EvolveviaSkolekosophy
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Edge, Forge, Scale, Moon

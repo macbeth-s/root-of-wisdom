@@ -1,10 +1,10 @@
 ---
 tags:
   - verb
+  - EvolveviaIthastry
 ---
 # Lambent Transfusion
 The blood of History? Nay, the blood of the Future.<br>Location: [[incandescentrootway|Incandescent Rootway]]
-#EvolveviaIthastry
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Forge, Lantern, Nectar, Grail

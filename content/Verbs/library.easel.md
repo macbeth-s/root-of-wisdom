@@ -1,10 +1,10 @@
 ---
 tags:
   - verb
+  - EvolveviaHushery
 ---
 # Panoramic Easel
 Seek inspiration across the mountains, or from the skies.<br>Location: [[studio|Studio]]
-#EvolveviaHushery
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Sky, Rose, Lantern

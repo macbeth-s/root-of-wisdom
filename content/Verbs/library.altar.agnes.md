@@ -5,7 +5,6 @@ tags:
 ---
 # Altar: St. Agnes
 It can be hard to pray with all the hissing and rattling. Unless that helps you connect with your particular intercessor.<br>Location: [[ophidiarium|Ophidiarium]]
-#EvolveviaHoromachistry
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Lantern, Forge, Winter, Knock

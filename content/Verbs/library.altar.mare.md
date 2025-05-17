@@ -6,7 +6,7 @@ draft:
 ---
 # Shrine: St. Marzanna
 Etched in the ash, in English: In the morning glad I see, / My foe outstretched beneath the tree.<br>Location: [[burntstair|Burnt Stair]]
-#EvolveviaSkolekosophy 
+
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Grail, Forge, Moth

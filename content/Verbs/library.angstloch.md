@@ -1,10 +1,10 @@
 ---
 tags:
   - verb
+  - "#EvolveviaBirdsong"
 ---
 # Angstloch
 Leonel Cipagauta dropped rocks down this hole to test the cavern acoustics. Others have lowered themselves, slowly, into the depths below, entranced by what they hear.<br>Location: [[blindcave|Blind Cave]]
-#EvolveviaBirdsong 
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Moon, Scale

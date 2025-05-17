@@ -1,10 +1,10 @@
 ---
 tags:
   - verb
+  - EvolveviaPreservation
 ---
 # Shura's Cradle
 Disturbingly large. Disturbingly still used most nights.<br>Location: [[nursery|Nursery]]
-#EvolveviaPreservation 
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Heart, Grail

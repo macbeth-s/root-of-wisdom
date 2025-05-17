@@ -5,7 +5,6 @@ tags:
 ---
 # Pearlescent Loom
 Iridescent, infatuated, inconsolable.<br>Location: [[curicuillorianroom|Curicuillorian Room]]
-#EvolveviaPreservation 
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Heart, Moon, Moth

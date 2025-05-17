@@ -1,9 +1,10 @@
 ---
 tags:
   - verb
+  - EvolveviaBosk
 ---
 # Petrified Gnarl
-The perfect place for something to curl up and hide for milennia.<br>Location: [[petrifiedforest|Petrified Forest]] <br> #EvolveviaBosk
+The perfect place for something to curl up and hide for milennia.<br>Location: [[petrifiedforest|Petrified Forest]] 
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Nectar, Moon

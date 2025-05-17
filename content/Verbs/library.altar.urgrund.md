@@ -1,9 +1,10 @@
 ---
 tags:
   - verb
+  - "#EvolveviaBosk"
 ---
 # Urgrund Altar
-Down or out, deep or high, flee or succumb, submit or transgress... it's all the same and yet it makes all the difference.<br>Location: [[escape|Escape]] <br> #EvolveviaBosk
+Down or out, deep or high, flee or succumb, submit or transgress... it's all the same and yet it makes all the difference.<br>Location: [[escape|Escape]] 
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Rose, Sky, Scale, Nectar

@@ -1,10 +1,10 @@
 ---
 tags:
   - verb
+  - EvolveviaHushery
 ---
 # Cell Grate
 How many have lived their lives and faced their deaths within? What wisdom did they find from removing themselves so?<br>Location: [[anchoritecloister|Anchorite Cloister]]
-#EvolveviaHushery
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Knock, Moon, Winter

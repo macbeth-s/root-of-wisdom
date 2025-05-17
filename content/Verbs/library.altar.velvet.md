@@ -1,9 +1,10 @@
 ---
 tags:
   - verb
+  - "#EvolveviaBosk"
 ---
 # Shrine: Black-Flax
-Shhhhh. Secrets are meant to be kept.<br>Location: [[crawlspace|Crawlspace]] <br> #EvolveviaBosk
+Shhhhh. Secrets are meant to be kept.<br>Location: [[crawlspace|Crawlspace]] 
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Moon, Moth, Nectar

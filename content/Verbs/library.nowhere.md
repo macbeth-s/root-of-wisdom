@@ -5,7 +5,6 @@ tags:
 ---
 # ...
 ...<br>Location: [[nowhere2|Nowhere]]
-#EvolveviaSkolekosophy 
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Moon, Knock, Winter

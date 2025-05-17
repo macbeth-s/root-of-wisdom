@@ -1,10 +1,10 @@
 ---
 tags:
   - verb
+  - Instrument
 ---
 # Instrument: Bar Chimes
 Used to condition the Nevotan for meals, and for a flourish.<br>Location: [[resonantcage|Resonant Cage]]
-#Instrument 
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Sky, Forge, Heart, Edge

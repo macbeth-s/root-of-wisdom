@@ -1,10 +1,10 @@
 ---
 tags:
   - verb
+  - EvolveviaIthastry
 ---
 # Burning Mirror
 A means of igniting tinder and burning sacrifices in complex rituals.<br>Location: [[rooftopplaza|Rooftop Plaza]]
-#EvolveviaIthastry
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Lantern, Forge, Edge, Sky

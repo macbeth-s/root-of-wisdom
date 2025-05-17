@@ -1,10 +1,10 @@
 ---
 tags:
   - verb
+  - EvolveviaPreservation
 ---
 # Empty Nest
 What precious eggs must once have been laid within? And what kind of monster must have guarded it?<br>Location: [[dragonsnest|Dragon's Nest]]
-#EvolveviaPreservation 
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Scale, Moon, Nectar, Grail

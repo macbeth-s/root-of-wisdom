@@ -1,9 +1,10 @@
 ---
 tags:
   - verb
+  - EvolveviaSkolekosophy
 ---
 # THE THRONE
-BOW. REJOICE. BECOME.<br>Location: [[throneroom|Throne Room]]<br> #EvolveviaSkolekosophy 
+BOW. REJOICE. BECOME.<br>Location: [[throneroom|Throne Room]]
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Heart, Grail, Winter, Nectar

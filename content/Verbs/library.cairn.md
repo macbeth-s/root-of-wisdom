@@ -1,5 +1,10 @@
+---
+tags:
+  - verb
+  - EvolveviaIllumination
+---
 # Cairn Intercalate
-An inverted skull on a bone-white cross, bleached white by the Sun-in-Rags' distant light.<br>Location: [[cliffbase|Cliff Base]]<br> #EvolveviaIllumination 
+An inverted skull on a bone-white cross, bleached white by the Sun-in-Rags' distant light.<br>Location: [[cliffbase|Cliff Base]]
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Winter, Lantern, Sky

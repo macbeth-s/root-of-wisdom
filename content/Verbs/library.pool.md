@@ -1,10 +1,10 @@
 ---
 tags:
   - verb
+  - EvolveviaBosk
 ---
 # Sanguine Pool
-When the earth drank blood, it learned to bleed in turn. This is its open wound; its thirsting mouth; its vibrant heart.<br>Location: [[verdigrisrootway|Verdigris Rootway]]<br>
-#EvolveviaBosk 
+When the earth drank blood, it learned to bleed in turn. This is its open wound; its thirsting mouth; its vibrant heart.<br>Location: [[verdigrisrootway|Verdigris Rootway]]
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Moon, Grail, Nectar, Knock
