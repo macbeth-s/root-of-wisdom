@@ -19,6 +19,6 @@ Opening it will Expose:
 - [[a.thegardenofgold|The Garden of Gold]] 
 - [[a.wingedfelinevessel|Winged Feline Vessel]]  
 - [[a.apalepetroglyph|A Pale Petroglyph]]
-- Tunupa's Tear  
+- [[tear.tunupa|Tunupa's Tear]]
 - Uncatalogued Book ([[wing.frustum|Frustum]]) (x5)
 <br>Wing: [[wing.frustum|Frustum]]

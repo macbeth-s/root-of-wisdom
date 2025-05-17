@@ -1,6 +1,7 @@
 ---
 tags:
   - verb
+  - "#EvolveviaSkolekosophy"
 ---
 # ...
 ...<br>Location: [[nowhere2|Nowhere]]

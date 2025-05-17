@@ -13,7 +13,7 @@ Where the greatest of my predecessors were laid to rest. Their judgements stretc
 Opening it will Expose:  
 - [[sunkenplaza|Sunken Plaza]]
 - [[mutualitycollection|Mutuality Collection]]
-- Crawlspace  
+- [[crawlspace|Crawlspace]]
 ## Contents  
 - [[library.ossuary.mutuality|Mutuality's Ossuary]]
 - [[casket.sealed|Sealed Casket]]  

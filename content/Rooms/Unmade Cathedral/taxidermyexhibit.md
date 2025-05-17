@@ -9,7 +9,7 @@ None of the displays are still alive, their furred and scaled bodies inert. But 
 **Required:** 10 Grail, 10 Edge, 10 Scale
 
 Opening it will Expose:
-Black and White Portal
+- [[blackandwhiteportal|Black and White Portal]]
 ## Contents
 - [[bust.almudena|'Almudena Shuña']]
 - [[taxidermy.percussigant|Percussigant]]

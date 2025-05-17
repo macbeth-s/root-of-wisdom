@@ -1,6 +1,7 @@
 ---
 tags:
   - verb
+  - "#EvolveviaNyctodromy"
 ---
 # Ingress Shrine
 Passage is the domain of the Horned-Axe, who minds the boundaries between Light and Dark, Old and New, Here and Nowhere.<br>Location: [[blackandwhiteportal|Black and White Portal]]

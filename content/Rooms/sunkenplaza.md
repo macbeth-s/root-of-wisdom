@@ -14,7 +14,7 @@ Opening it will Expose:
 - [[excavation|Excavation]]
 - [[hypogeum|Hypogeum]]
 - [[mutualitycollection|Mutuality Collection]]
-- Anbar Rootway  
+- [[anbarrootway|Anbar Rootway]]
 ## Contents
 - [[world.tree.poisoned|Poisoned Tree]]
 

@@ -30,4 +30,4 @@ My thoughts are often with you in New Spain. The rector asks that I remind you t
 
 Blessings, 
 
-Brother Nicolás**
+Brother Nicolás

@@ -18,7 +18,7 @@ Opening it will Expose:
 - [[library.bench.excavator.consider|Excavator's Bench]]
 - [[stool.excavation|Valenzuela's Stool]]
 - [Hurricane Lamp](https://uadaf.theevilroot.xyz/rowenarium/element/lamp.hurricane)
-- Bone-Chalk  
+- [[bone.chalk|Bone-Chalk]]
 - [[painting.starfall|'A Descent']]
 - [Yewgall Ink](https://uadaf.theevilroot.xyz/rowenarium/element/yewgall.ink)
 - [Granite Slab](https://uadaf.theevilroot.xyz/rowenarium/element/slab.granite)
