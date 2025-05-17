@@ -4,4 +4,4 @@ tags:
 ---
 # Written in Tecuanilatolli
 A striking language.<br>
-![[!_Extra/w.tecuanilatolli.png]]
+![[w.tecuanilatolli 1.png]]

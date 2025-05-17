@@ -4,4 +4,4 @@ tags:
 ---
 # Protector
 Robigo protects the Haustorium, though he is not always kind. He does not reside there, but visits yearly. Beware his changing moods.<br>
-![[!_Extra/protector.png]]
+![[protector 1.png]]

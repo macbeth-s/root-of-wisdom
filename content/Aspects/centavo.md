@@ -4,4 +4,4 @@ tags:
 ---
 # Centavo
 The nicely decimalized, reasonably named currency of an independent republic. The face may change, but the metal remains.<br>
-![[!_Extra/centavo.png]]
+![[centavo 1.png]]
