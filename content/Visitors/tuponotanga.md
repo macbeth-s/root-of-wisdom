@@ -12,4 +12,4 @@ Master weaver, retired whaler, courageous voyager. Lover and beloved of the sea,
 ### A Conversation with Capt Tuponotanga
 'Greetings! Can you help this sailor find his way?’  \[If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]
 ## Tuponotanga's Address
-Herenga', New Bedford... \[To make an invitation to Tuponotanga sufficiently enticing, you'll need at least 3 \<sprite name=heart> from Skills, Memories, Inks or anything else.]
+'Herenga', New Bedford... \[To make an invitation to Tuponotanga sufficiently enticing, you'll need at least 3 \<sprite name=heart> from Skills, Memories, Inks or anything else.]

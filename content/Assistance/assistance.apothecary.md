@@ -3,7 +3,6 @@
 ---
 # Apothecary's Assistance
 Dionisio is perpetually calm. He knows why everyone is sick, and how to help them feel better. All he needs is some appreciation, and some assurance that his brother will not shoot him in broad daylight. 
-
 ## Aspects
 - Grail 2
 - Moth 1

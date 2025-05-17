@@ -11,4 +11,4 @@ Many unearthly oddities dwell in the Haustorium, oddities a naturalist would be 
 -  #Introduction 
 ## Slots
 ### Collaborate
-Work alongside them, or provide something they can use. \[This  assistant can also make use of spores].<br>**Required:** Tool, Memory, Ability, Sustenance, Beverage, Spore
+Work alongside them, or provide something they can use. \[This assistant can also make use of spores].<br>**Required:** Tool, Memory, Ability, Sustenance, Beverage, Spore

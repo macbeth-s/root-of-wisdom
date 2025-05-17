@@ -12,4 +12,4 @@ The most famous adventurer you've never heard of.' She certainly likes it that w
 ### A Conversation with Sra. Bartolina Mamani
 'There is such a sadness here, Librarian. I'll not dwell long, lest I get caught up in the memory of these ruins...'  \[If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]
 ## Bartolina's Address
-Bartolina left instructions to tie letters for her around a small bird's foot. \[To make an invititation to Bartolina sufficiently enticing, you'll need at least 3 \<sprite name=rose> from Skills, Memories, Inks or anything else.]
+Bartolina left instructions to tie letters for her around a small bird's foot. \[To make an invitation to Bartolina sufficiently enticing, you'll need at least 3 \<sprite name=rose> from Skills, Memories, Inks or anything else.]
