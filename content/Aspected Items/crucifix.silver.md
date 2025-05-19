@@ -3,12 +3,10 @@
 ---
 # Silver Crucifix
 See how the Savior suffered.
-Initial Location: Anchorite Cloister
+Initial Location: [[anchoritecloister|Anchorite Cloister]]
 ## Consider
 And remember that the Company Anchorite are faithful Catholics.
 **Effect:** [Memory: Sight](https://uadaf.theevilroot.xyz/rowenarium/elements/mem.sight)
 ## Aspects
-- Knock 1
--  
--  
+- Knock 1  
 - #WallArt

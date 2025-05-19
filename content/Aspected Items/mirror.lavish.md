@@ -10,5 +10,4 @@ Commissioned by Bahamonde during his rectorship. A strange indulgence, but not u
 ## Aspects
 - Lantern 1
 - Grail 1
--  
 - #WallArt

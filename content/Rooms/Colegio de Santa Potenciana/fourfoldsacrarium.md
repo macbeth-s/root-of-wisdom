@@ -20,7 +20,7 @@ Opening it will Expose:
 - [[a.thesilentstories|The Silent Stories]]  
 - [[anaku|Leonor's Anaku]]  
 - [[a.unpairedqiru|Unpaired Qiru]]  
-- Chicha Bullido 
-- Tumbaga Plate (x2)
+- [[chicha.bullido|Chicha Bullido]]
+- [[tumbaga.plate|Tumbaga Plate]] (x2)
 
 Wing: [[wing.colegio|Colegio de Santa Potenciana]]

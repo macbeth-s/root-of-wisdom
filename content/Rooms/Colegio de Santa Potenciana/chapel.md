@@ -15,13 +15,13 @@ This is a place of significance for the Haustorium, but not a holy one. Whatever
 - [[icon.axe|'St. Hubert']]  
 - [[key.haustorium|Haustorium Key]]  
 - [[icon.beachcrow|'St. Vincent']]
-- Tumbaga Plate  
-- Quartz Chunk  
-- Whispering Sand  
+- [[tumbaga.plate|Tumbaga Plate]]
+- [Quartz Chunk](https://uadaf.theevilroot.xyz/rowenarium/element/quartz.chunk)
+- [Whispering Sand](https://uadaf.theevilroot.xyz/rowenarium/element/whispering.sand)  
 - [[icon.meniscate|'St. Lucia']]  
-- Smoke-Swept Mirror  
+- [[mirror.smokeswept|Smoke-Swept Mirror]]
 - [[candle.holdersmall|Small Candlestick]] (x2)  
-- Hawthorn Blank  
+- [Hawthorn Blank](https://uadaf.theevilroot.xyz/rowenarium/element/hawthorn.blank) 
 - [[chair.chapel|Chapel Seat]] (x2)  
 - Uncatalogued Book ([[wing.colegio|Colegio]])(x6)
 
