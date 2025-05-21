@@ -16,6 +16,7 @@ Opening it will Expose:
 - [[library.gnarl|Petrified Gnarl]]
 - [[world.forest|Among Roots and Stones]]
 - [[forest.tree|Blossomed Stone-Tree]]
+
 Wing: [[wing.woundroots|Wound-Roots]]
 ## Art Description
 *A wood of stone trees. There is petrified fruit and flowers in some branches. Conveys simultaneously a teeming jungle and a graveyard.*

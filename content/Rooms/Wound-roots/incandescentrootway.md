@@ -16,6 +16,7 @@ Opening it will Expose:
 - [[library.transfusion.lambent|Lambent Transfusion]]
 - [[t.lonbrajlimyea|Lonbraj Limye A]]
 - [[casket.steel|Steel Casket]]
+
 Wing: [[wing.woundroots|Wound-Roots]]
 ## Art Description
 *Center focus is on a bronze-colored person (a forge-long, bald and naked like Dr. Manhattan) is spread out like a cross, with roots in its veins like an IV, drawing out its blood, which glows the color of orpiment exultant. His face is reminiscient of* The Scream. *In the background, the faces of several much more muted (depleted) forge-long grimace, their skin dulled gray.*

@@ -12,6 +12,7 @@ It takes great bravery and cunning to navagate these passages. A foe may slink f
   
 Opening it will Expose:  
 - [[cliffbase|Cliff Base]]  
+
 Wing: [[wing.woundroots|Wound-Roots]]
 ## Art Description
 *Scolecite formations grow like stalagmites and stalagtites, creating a maze. Mushroom clusters that imitate the scolecite as well, at least one small spiderweb in the corner.*

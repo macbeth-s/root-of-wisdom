@@ -15,9 +15,10 @@ Opening it will Expose:
 ## Contents  
 - [[t.asongofsnow|A Song of Snow]]
 - [[fereter|Fereter]]
-- Records Box 
-- Curious Seashell
-- Rose-Pearl
+- [[box.records|Records Box]]
+- [[curious.seashell|Curious Seashell]]
+- [[pearl.rose|Rose-Pearl]]
+
 Wing: [[wing.woundroots|Wound-Roots]]
 ## Art Description
 *What a rootway at Hush House might look like: Nume-brume around the roots, maybe even seashells in the stone. Purples, blues, grays dominate, with highlights of porphyrine-purple.

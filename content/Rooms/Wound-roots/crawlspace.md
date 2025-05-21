@@ -16,13 +16,14 @@ Opening it will Expose:
 - [[library.altar.velvet|Shrine: Black-Flax]]
 - [[library.bed.guest.nook|Guest Bed: Nook]]
 - [[sacrament.malachite|Sacrament Malachite]]
-- Yewgall Ink  
-- Quartz Chunk  
+- [Yewgall Ink](https://uadaf.theevilroot.xyz/rowenarium/element/yewgall.ink)
+- [Quartz Chunk](https://uadaf.theevilroot.xyz/rowenarium/element/quartz.chunk)
 - [[potato.purple|Tuqra Papa]]  
-- Human Hair  
+- [Human Hair](https://uadaf.theevilroot.xyz/rowenarium/element/human.hair)
 - [[carbuncle.clouded|Clouded Carbuncle]]  
 - Uncatalogued Book ([[wing.archive|Archive]])  
 - Uncatalogued Book ([[wing.frustum|Frustum]])
+
 Wing: [[wing.woundroots|Wound-Roots]]
 ## Art Description
 *The top third of the room is just the foundation of the room above. Amid the cramped space is a hoarder's collection, an eclectic shrine to the Velvet, and a small bedroll tucked away.*

@@ -16,6 +16,7 @@ Opening it will Expose:
 - [[library.pool|Sanguine Pool]]
 - [[t.inpursuitofthecuckoosegg|In Pursuit of the Cuckoo's Egg]]
 - [[casket.slender|Slender Casket]]  
+
 Wing: [[wing.woundroots|Wound-Roots]]
 ## Art Description
 *Most of the roots end here, in a pool tinged with coppery hues. The roots are coated in deep green verdigris (not quite so blue as most verdigris). Lush lichens and other greenery coat every surface.*
