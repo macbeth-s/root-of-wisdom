@@ -6,7 +6,7 @@ Not extinct any longer!<br>**Effect:** [Memory: Touch](https://uadaf.theevilroot
 ### Feed the Beastie
 Satisfy this creature's appetite. \[Food will make a hungry beast, or a wild one, co-operative.]
 **Essential:** Sustenance<br>**Required:** Remains, Egg
-**Effect:** [[condor.tame|Pet Condor]]
+**Effect:** [[dog.tame|Loyal Chiribaya Dog]]
 ## Aspects
 - Heart 1
 - Scale 1
