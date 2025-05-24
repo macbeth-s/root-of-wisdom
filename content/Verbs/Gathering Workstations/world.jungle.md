@@ -15,9 +15,9 @@ It is not a short journey, but the tropical Andes lie a few thousand feet down. 
 ## Recipes
 ### Gather during the [[celestial_recipes_time|Dry Season]]
 `gather.jungle.dry`	
-**Start Description:** What might I discover in my venture? <br> **Description:** Treasures found in mire and root-gnarl, but no sign of Z.
+**Start Description:** What might I discover in my venture? <br> **Description:** Treasures found in mire and root-gnarl, but no sign of Z.<br>**Deck Effect:** [[jungle.dry]]
 ### Gather during the [[celestial_recipes_time#Wet Season|Wet Season]]
-`gather.jungle.wet`		<br> **Start Description**: What might I discover in my venture?	<br> **Description**: Treasures found in mire and root-gnarl, but no sign of Z.
+`gather.jungle.wet`		<br> **Start Description**: What might I discover in my venture?	<br> **Description**: Treasures found in mire and root-gnarl, but no sign of Z.<br>**Deck Effect:** [[jungle.wet]]
 ### Gather during the [[celestial_recipes_time|Season of Growth]]
-`gather.jungle.camai`		<br> **Start Description:** What might bloom in the jungles during this time?	<br> **Description:** Perhaps I found something in Z.
+`gather.jungle.camai`		<br> **Start Description:** What might bloom in the jungles during this time?	<br> **Description:** Perhaps I found something in Z.<br>**Deck Effect:** [[jungle.camai]]
 

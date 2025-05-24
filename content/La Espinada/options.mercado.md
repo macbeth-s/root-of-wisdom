@@ -28,7 +28,7 @@ There is an air of suspicion about Mercado Vagante today. Vendors look at each o
 ## Wares
 |                                                          |                   |         |       |      |        |       |       |      |       |     |      |        |       |      |
 | -------------------------------------------------------- | ----------------- | ------- | ----- | ---- | ------ | ----- | ----- | ---- | ----- | --- | ---- | ------ | ----- | ---- |
-| Ware                                                     | [[Centavo\|Cost]] | LANTERN | FORGE | EDGE | WINTER | HEART | GRAIL | MOTH | KNOCK | SKY | ROSE | NECTAR | SCALE | MOON |
+| Ware                                                     | [[Aspects/centavo\|Cost]] | LANTERN | FORGE | EDGE | WINTER | HEART | GRAIL | MOTH | KNOCK | SKY | ROSE | NECTAR | SCALE | MOON |
 | Copper Wire                                              | 100               |         | X     |      |        |       |       |      |       | X   |      | X      |       |      |
 | Glue                                                     | 25                |         | X     |      |        |       |       |      |       |     |      | X      |       |      |
 | Ham                                                      | 25                |         |       |      |        | X     |       |      |       |     |      |        | X     |      |

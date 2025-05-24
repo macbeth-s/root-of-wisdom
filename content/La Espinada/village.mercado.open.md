@@ -8,7 +8,7 @@ For such a small town, La Espinada's market is full of sparkling conversation an
 ### A Customer
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Forbidden**: Malady
 ### A Purchase
-**Required:** [[Centavo]], [Ready to Post](https://uadaf.theevilroot.xyz/rowenarium/element/post.ready)
+**Required:** [[Aspects/centavo]], [Ready to Post](https://uadaf.theevilroot.xyz/rowenarium/element/post.ready)
 ## Recipes
 *When a soul element is provided, a random mercado is drawn from the deck. Each different mercado opens order options like the order form UI.*
 [[options.mercado]]

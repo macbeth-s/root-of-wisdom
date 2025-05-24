@@ -20,6 +20,6 @@ Flattened plants litter the terraces. Without a nurturing hand, they surrendered
 - [[terrace.flowers|Terrace Garden: Flowers]] (x2) 
 - [[terrace.agave|Terrace Garden: Agave]] 
 - [[terrace.potatoes|Terrace Garden: Potatoes]] (x2) 
-- [[terrace.f|Chile Plant]]
+- [[terrace.chiles|Chile Plant]]
 
 Wing: [[openair|Open Air]]

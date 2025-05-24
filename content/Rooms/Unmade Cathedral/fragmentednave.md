@@ -6,7 +6,7 @@ Originally, the arch was engraved with Ecclesiasticus 1:20. Now, it is vandalize
 ## Proterant Offering (Locked)
 An incessant buzz alights my nerves with crushing pain. To overcome it, I must show that I can wield and warp weapons as the Lionsmith did.
 **Essential:** Device
-**Required:** 2 Edge, 2 Forge
+**Required:** 2 Edge, 2 Forge, 2 Heart
 
 Opening it will Expose:
 - [[scarredchancel|Scarred Chancel]]

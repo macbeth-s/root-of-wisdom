@@ -1,4 +1,4 @@
-*Many skills take on new meaning in the Haustorium. Their changed descriptions and/or commit texts for the Tree of Wisdoms are below.* <br>
+*Many skills take on new meaning in the Haustorium. Their changed descriptions and/or commit texts for the Tree of Wisdoms are below.* 
 ## Disciplines of the Hammer
 ### Commit to Ithastry - Lime and Ash
 A certain parable of the Bright Arts tells of a surveyor who raised a tower of lime and ash to see all the land; but then set fires without its walls so no other creation could bar their view.

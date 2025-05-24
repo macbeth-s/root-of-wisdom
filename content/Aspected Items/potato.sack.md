@@ -8,7 +8,7 @@ Sometimes, you need a sack of potatoes.
 - [[potato.violent|Kichka Matanka]]
 - [[potato.purple|Tuqra Papa]]
 - [[potato.lumpy|Yuraq Gaspar]]
-- [[potato.whiteSaqta Mati]]
+- [[potato.white|Saqta Mati]]
 ## Aspects
 - Heart 1
 - Nectar 1

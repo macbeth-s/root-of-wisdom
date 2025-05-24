@@ -15,6 +15,6 @@ Spice up your life.
 ### Gather During the Dry Season
 `gather.chile.dry`
 Pluck a ripened chile.<br>**Effect:** [[aji.atezado|Aji Atezado]]
-### Gather During the Season of Growth
+### Gather During the [[celestial_recipes_time#Camai Quilla|Season of Growth]]
 `gather.chile.camai`
 Pluck a rare and ripened chile.<br>**Effect:** [[aji.aurico|Ají Áurico]]
