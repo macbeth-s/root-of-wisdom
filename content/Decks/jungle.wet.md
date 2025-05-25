@@ -13,7 +13,7 @@ Treasures found in mire and root-gnarl, but no sign of Z.
 | [[roe.piranha\|Piranha Roe]]                                              | 1        |
 | [Viper's Egg](https://uadaf.theevilroot.xyz/rowenarium/element/egg.viper) | 1        |
 | [[lucuma\|Lúcuma]]                                                        | 3        |
-| [Yew Blank](https://uadaf.theevilroot.xyz/rowenarium/element/yew.blank)   | 2        |
+| [[blank.ceiba\|Ceiba Blank]]                                              | 2        |
 
 
 

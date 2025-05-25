@@ -14,12 +14,12 @@ Opening it will Expose:
 - [[hallofrecords|Hall of Records]]
 ## Contents
 - [[library.bench.archaeologist.consider|Archaeologist's Bench]]
-- Catwink  
-- Stargall Ink  
+- [Catwink](https://uadaf.theevilroot.xyz/rowenarium/element/catwink)
+- [Stargall Ink](https://uadaf.theevilroot.xyz/rowenarium/element/stargall.ink)  
 - [[pot.tea.assam|Second Flush Assam]] (Pot) 
 - [[pot.tea.assam|Second Flush Assam]] (Cup)
-- Quire of Paper  
-- Hawthorn Blank  
+- [Quire of Paper](https://uadaf.theevilroot.xyz/rowenarium/element/quire.paper)
+- [[blank.quenua|Queñua Blank]]
 - Uncatalogued Book ([[wing.archive|Archive]])  (x5)
 - Uncatalogued Book ([[wing.substructure|Substructure]]) (x4) 
 - Uncatalogued Book ([[wing.cathedral|Cathedral]]) (x4)

@@ -16,7 +16,7 @@ Dulled or rusted tools are scattered about. I'll need to mend them before reorga
 - [[saw|Saw]]
 - [[can.watering|Watering Can]]
 - [Treasury of Shelters](https://uadaf.theevilroot.xyz/rowenarium/element/stand.umbrella)
-- [Yew Blank](https://uadaf.theevilroot.xyz/rowenarium/element/yew.blank)  
+- [[blank.ceiba|Ceiba Blank]]
 - [[bleach|Bleach]]  
 - [[wool|Llama Wool]]  
 - [Copper Wire](https://uadaf.theevilroot.xyz/rowenarium/element/wire.copper)  

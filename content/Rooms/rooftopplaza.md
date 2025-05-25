@@ -13,7 +13,7 @@ Numbing wind blows with no voice. It will trap me if I stay too long. An ardent 
 ## Contents
 - [[library.mirror.burning|Burning Mirror]]
 - [[library.instrument.drum|Instrument: Echoing Drum]]
-- [Hawthorn Blank](https://uadaf.theevilroot.xyz/rowenarium/element/hawthorn.blank)
+- [[blank.quenua|Queñua Blank]]]
 - [Kerosene](https://uadaf.theevilroot.xyz/rowenarium/element/jerry.kerosene)
 - [Paraffin](https://uadaf.theevilroot.xyz/rowenarium/element/jerry.paraffin)  
 - [[chair.stone|Stone Chair]]

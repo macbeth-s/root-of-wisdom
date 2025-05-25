@@ -17,7 +17,7 @@ Opening it will Expose:
 - [[library.workbench.mason|Mason's Workbench]]
 - [[library.shrine.axe|Ingress Shrine]]
 - [[a.cryptictriacontahedron|Cryptic Triacontahedron]]
-- [Sacrament Ascite](https://uadaf.theevilroot.xyz/rowenarium/element/sacrament.ascite)
+- [[sacrament.ascite|Sacrament Ascite]]
 - [Granite Slab](https://uadaf.theevilroot.xyz/rowenarium/element/slab.granite)
 - [[obsidian|Obsidian Shard]]
 <br>Wing: [[wing.frustum|Frustum]]

@@ -14,7 +14,7 @@ Opening it will Expose:
 - [[throneroom|Throne Room]]
 ## Contents  
 - [[library.grate|Cell Grate]]
-- [Sacrament Ascite](https://uadaf.theevilroot.xyz/rowenarium/element/sacrament.ascite)
+- [[sacrament.ascite|Sacrament Ascite]]
 - [Nivine Parchment](https://uadaf.theevilroot.xyz/rowenarium/element/parchment.nivine)  
 - [Widow's Candle](https://uadaf.theevilroot.xyz/rowenarium/element/candle.holderblack)  
 - [[crucifix.silver|Silver Crucifix]] 

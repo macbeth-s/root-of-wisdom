@@ -21,7 +21,7 @@ This is a place of significance for the Haustorium, but not a holy one. Whatever
 - [[icon.meniscate|'St. Lucia']]  
 - [[mirror.smokeswept|Smoke-Swept Mirror]]
 - [[candle.holdersmall|Small Candlestick]] (x2)  
-- [Hawthorn Blank](https://uadaf.theevilroot.xyz/rowenarium/element/hawthorn.blank) 
+- [[blank.quenua|Queñua Blank]]
 - [[chair.chapel|Chapel Seat]] (x2)  
 - Uncatalogued Book ([[wing.colegio|Colegio]])(x6)
 
