@@ -25,7 +25,7 @@ We know we are alive because we are not dead, but we will be. The cycle cannot b
 | Moth      | 5         | -                                      | [[melipona.comb\|Melipona Comb]]             |
 | Moth      | 10        | Beverage                               | Leathy                                       |
 | Moth      | 15        | [[salve.protector\|Protector's Salve]] | [[sacrament.hyphalite\|Sacrament Hyphalite]] |
-| Heart     | 5         | -                                      | [[tinya.anthropoderm\|Anthropoderm Tinya]]   |
+| Heart     | 5         | -                                      | [[beatrizs.chajcha\|Beatriz's Chajcha]]      |
 | Heart     | 10        | Fruit                                  | [[chicha.bullido\|Chicha Bullido]]           |
 | Heart     | 15        | Iotic Essence                          | Orpiment Exultant                            |
 | Nectar    | 10        | Remains                                | Essential Periost                            |

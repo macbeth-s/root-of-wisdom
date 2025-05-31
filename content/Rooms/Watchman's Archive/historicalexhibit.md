@@ -17,7 +17,7 @@ Opening it will Expose:
 - [[a.twinnedscytale|Twinned Scytale]]
 - [[a.bronzetajadero|Bronze Tajadero]]
 - [[statue.liberator|'The Liberator Ascendant']]
-- [[tinya.anthropoderm|Anthropoderm Tinya]]
+- [[beatrizs.chajcha|Beatriz's Chajcha]]
 - [[tumbaga.plate|Tumbaga Plate]]
 - [[chac.mool|Chac Mool]]
 - [[painting.knot|Cuetlaxtlapilli]]
