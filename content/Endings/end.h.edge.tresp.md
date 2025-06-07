@@ -1,6 +1,7 @@
 ---
 tags:
   - Ending
+draft: "true"
 ---
 **Requirements:**  
 - [[world.tree.paper|Paper Tree]]  
