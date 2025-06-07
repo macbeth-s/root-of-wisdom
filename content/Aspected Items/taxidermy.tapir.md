@@ -11,3 +11,4 @@ After placing this among her collection, Shuña resolved never again to slay a b
 - Edge 1
 - Nectar 1
 - #Comfort
+- #Carcass
