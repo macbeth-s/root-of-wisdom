@@ -15,7 +15,6 @@ There is a prophecy, of a world without Nowhere. There is a paradox, that Nowher
 The Hours of the Chancel decreed that no mortal can touch the Law, that such a privilege belongs only to the gods-who-are. The resolutions of the Chancel cannot be changed, but now and then they have been augmented… and we might appeal to the gods-who-were-flesh, who recall the paths of ascension by which they entered into the Law; who may grant us passage upon them to enter into its heart. \[This would be Nyctodromy.]
 ### Commit to Skolekosophy - Darkness
 The Hours of the Chancel decreed that no mortal can touch the Law, that such a privilege belongs only to the gods-who-are. The resolutions of the Chancel cannot be changed, but now and then they have been augmented… and we might appeal to the gods-who-are-Nowhere, who magnify the weaknesses in the world’s skin; who may show us how to take advantage of its flaws to break apart its heart. \[This would be skolekosophy.]
-
 ## Glassblowing & Vesselcrafting
 ‘To contain is a puerile feat. To show without what is kept within- that is the master’s accomplishment .’ - Kume Tsūten
 ## Inks of Revelation

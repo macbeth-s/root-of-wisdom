@@ -2,7 +2,7 @@
 {}
 ---
 # Sacra Tetrarcharum
-Desc
+The secret rites of the Know who came to power in the Realm of Four Parts, performed in these mountains for centuries before conquest.
 ## Aspects
 - #Skill
 - Lantern 2
