@@ -1,5 +1,5 @@
 # Robigo, Symbiotic
-She is eager to help me. My only fear is that I must then be eager to help her.
+She is eager to help me. My only fear is that I must then be eager to help her. \[While Robigo visits in this form, she is willing to help you open rooms and can be exalted like other assistance.]
 ## Aspects
 - Grail 7
 - Heart 7

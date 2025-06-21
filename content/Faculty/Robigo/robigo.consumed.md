@@ -1,5 +1,5 @@
 # Robigo, Consumed
-He is obsessed. I'd best answer his queries or satisfy his curiosities before I go the way of the Mutuality.
+He is obsessed. I'd best answer his queries or satisfy his curiosities before I go the way of the Mutuality. \[While Robigo visits in this form, he wishes to consult your collection like any other visitor.]
 ## Aspects
 - Interest: Grail 7
 - Interest: Heart 7
