@@ -4,7 +4,7 @@ tags:
   - EvolveviaPreservation
 ---
 # Skull-strewn Nest
-What precious eggs must once have been laid within? And what kind of monster must have guarded it? Within lies the skulls of those who are watchers and wards, who seek their shape to come. \[The Nest now admits Sky intentions. It also provides Sky Aspect.]<br>Location: [[dragonsnest|Dragon's Nest]] (Replaces the [[library.nest|Empty Nest]])
+What precious eggs must once have been laid within? And what kind of monster must have guarded it? Within lies the skulls of those who are watchers and wards, who seek their shape to come. \[The Nest now admits Sky intentions. It also provides Sky Aspect.]<br>**Location:** [[dragonsnest|Dragon's Nest]] (Replaces the [[library.nest|Empty Nest]])
 ## Aspects
 - Sky 2
 - #EvolveviaPreservation 

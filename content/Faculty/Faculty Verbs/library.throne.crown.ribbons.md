@@ -4,7 +4,7 @@ tags:
   - EvolveviaSkolekosophy
 ---
 # The Ribboned Throne
-BOW. REJOICE. SQUIRM BENEATH OUR QUEEN'S DEVOURING GAZE. \[The Throne now admits scale intentions. It also provides winter aspect.] <br>Location: [[throneroom|Throne Room]]
+BOW. REJOICE. SQUIRM BENEATH OUR QUEEN'S DEVOURING GAZE. \[The Throne now admits scale intentions. It also provides winter aspect.] <br>**Location:** [[throneroom|Throne Room]]
 ## Aspects
 - Winter 2
 - #EvolveviaSkolekosophy 

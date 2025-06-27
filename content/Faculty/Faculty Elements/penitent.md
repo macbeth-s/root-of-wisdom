@@ -5,7 +5,7 @@ From within the confessional, a voice: 'All I did, I thought was in service of m
 ## Talk
 ### Speak of our Sins
 The Penitent now adds his regrets to mine before discussing how we might atone.\[Add any appropriate card. Monsters can have strange tastes.]
-**Required:** Memory <br>**Effect:** -1 memory
+<br>**Required:** Memory <br>**Effect:** -1 memory
 **Deck Effect:** [[deck.confessor]]
 ## Aspects
 - #Monster 
