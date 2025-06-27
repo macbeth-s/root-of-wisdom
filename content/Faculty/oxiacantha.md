@@ -1,3 +1,7 @@
+---
+tags:
+  - faculty
+---
 # Sister Oxiacantha
 A nun, an Edge-long, an incessant locker of doors. 
 ## Aspects

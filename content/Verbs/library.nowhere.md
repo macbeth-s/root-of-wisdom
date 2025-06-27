@@ -3,8 +3,8 @@ tags:
   - verb
   - "#EvolveviaSkolekosophy"
 ---
-# ...
-...<br>Location: [[nowhere2|Nowhere]]
+# Absent Scar
+Almost silence. Midnight air. The backing of a mirror named Oblivion.<br>Location: [[nowhere2|Nowhere]]
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Moon, Knock, Winter
