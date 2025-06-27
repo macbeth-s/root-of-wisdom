@@ -4,9 +4,9 @@ A delicate key of silver inset with pearl and obsidian, tethered to a long chain
 - #Key  
 - #Thing
 ## Recipes
-``
+`upgrade.angstloch.void.key`
 ### Lower the Key
-**Requirements:** 
-**Start Description:** 
-**Description:** 
-**Effects:** 
+**Requirements:** [[library.angstloch|Angstloch]], void.key
+**Start Description:** The key perches above the void below, then descends.
+**Description:** There is a feeling like the catch of a hook in the mouth of a fish, then a dry warmth rushes up from the cavern in place of the cool dampness of before.
+**Effects:** -1 void.key, Replace [[library.angstloch|Angstloch]] with [[Shura's Hidey-Hole]]
