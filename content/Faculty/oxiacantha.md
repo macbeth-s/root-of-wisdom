@@ -134,36 +134,36 @@ A nun, an Edge-long, an incessant locker of doors.
 ### Assisting Sister Oxiacantha
 `talk.faculty.success5.oxiacantha.name`  
 **Requirements:** oxiacantha, ability, research4, earthquake.name
-**Start Description:** 'Someone spoke the Earthquake Name, and loudly. There is no way that Robigo could not have heard, no way that she could have permitted the incantor to live; though she could have permitted them to speak. I suspected Robigo resented her post, and she must desire a world that is different from the Mutuality's telos of all-encompassing theories.'  
-**Research AspectDescription:** '\[I taught Oxiacantha the name of the Earthquake that destroyed the Mutuality, but she determined that perhaps Robigo was not a faithful protector of their research.]'  
-**Effect:** x.wolfstories (x2)  
-**Mutation Effect:** Oxiacantha -> +1 research5
+<br>**Start Description:** 'Someone spoke the Earthquake Name, and loudly. There is no way that Robigo could not have heard, no way that she could have permitted the incantor to live; though she could have permitted them to speak. I suspected Robigo resented her post, and she must desire a world that is different from the Mutuality's telos of all-encompassing theories.'  
+<br>**Research AspectDescription:** '\[I taught Oxiacantha the name of the Earthquake that destroyed the Mutuality, but she determined that perhaps Robigo was not a faithful protector of their research.]'  
+<br>**Effect:** x.wolfstories (x2)  
+<br>**Mutation Effect:** Oxiacantha -> +1 research5
 
 ### Assisting Sister Oxiacantha
 `talk.faculty.failure6.oxiacantha`  
 **Requirements:** oxiacantha, ability, research5
-**Start Description:** 'Victory is near, librarian. I have a map, an ally, perhaps even a weakness. I will complete my work and against my best judgment, you may even wield it. Bring me the most secret knowledge of struggle and war. Bring me the hidden words of this place that will allow me once and for all to outline the victory that will seal off the Growth's further incursion.'
+<br>**Start Description:** 'Victory is near, librarian. I have a map, an ally, perhaps even a weakness. I will complete my work and against my best judgment, you may even wield it. Bring me the most secret knowledge of struggle and war. Bring me the hidden words of this place that will allow me once and for all to outline the victory that will seal off the Growth's further incursion.'
 
 ### Earning Sister Oxiacantha's Respect  
 `talk.faculty.success6.oxiacantha.tresp`  
 **Requirements:** oxiacantha, ability, research5, numen.tresp  
-**Start Description:** 'So many scars mar the Haustorium's foundation, but it is true that Menard's folly lies at the root of much of the Growth's power. I sought to seal the threat through force. I now see that forgiveness may be the only way to close that door for good.'  
-**Research Aspect Description:** '\[I assisted Oxiacantha in fulfilling her work: closing the passage to Nowhere in the Frustum.\]'  
-**Effect:** [[remedy.oxiacantha|Oxiacantha's Remedy]], [[abjuration.vehementi|Abjuration de vehementi]]
-**Mutation Effect:** Oxiacantha -> +1 grateful
+<br>**Start Description:** 'So many scars mar the Haustorium's foundation, but it is true that Menard's folly lies at the root of much of the Growth's power. I sought to seal the threat through force. I now see that forgiveness may be the only way to close that door for good.'  
+<br>**Research Aspect Description:** '\[I assisted Oxiacantha in fulfilling her work: closing the passage to Nowhere in the Frustum.\]'  
+<br>**Effect:** [[remedy.oxiacantha|Oxiacantha's Remedy]], [[abjuration.vehementi|Abjuration de vehementi]]
+<br>**Mutation Effect:** Oxiacantha -> +1 grateful
 
 ### Earning Sister Oxiacantha's Respect  
 `talk.faculty.success6.oxiacantha.damn`  
 **Requirements:** oxiacantha, ability, research5, numen.damn  
-**Start Description:** 'Does Robigo bleed? I imagine he does. Does she feel pain? I imagine so, as well... Bengui left these secrets. She knew how fang could pierce that corpoluent protector, and turn her on her heels to run. Cry havoc!'  
-**Research AspectDescription:** '\[I assisted Oxiacantha in fulfilling her work: summoning a beast to chase Robigo away.\]'  
-**Effect:** [[remedy.oxiacantha|Oxiacantha's Remedy]], [[ward.whistle|Ward-Whistle]]
-**Mutation Effect:** Oxiacantha -> +1 grateful
+<br>**Start Description:** 'Does Robigo bleed? I imagine he does. Does she feel pain? I imagine so, as well... Bengui left these secrets. She knew how fang could pierce that corpoluent protector, and turn her on her heels to run. Cry havoc!'  
+<br>**Research AspectDescription:** '\[I assisted Oxiacantha in fulfilling her work: summoning a beast to chase Robigo away.\]'  
+<br>**Effect:** [[remedy.oxiacantha|Oxiacantha's Remedy]], [[ward.whistle|Ward-Whistle]]
+<br>**Mutation Effect:** Oxiacantha -> +1 grateful
 
 ### Earning Sister Oxiacantha's Respect  
 `talk.faculty.success6.oxiacantha.crown`  
 **Requirements:** oxiacantha, ability, research5, numen.crown  
-**Start Description:** 'Ha! Have you seen that throne? Robigo sees himself atop it... the benevolent patron of a bounteous world. He would loathe to see another take their seat. Let us host a coronation, and defy the Growth's wish for dominion once and for all. Their kingdom will crumble before our 'Queen in Ribbons.''  
-**Research Aspect Description:** '\[I assisted Oxiacantha in fulfilling her work: a coronation for a worm-regent who would devour the Growth.\]'  
-**Effect:** [[remedy.oxiacantha|Oxiacantha's Remedy]], [[crown.ribbons|The Ribboned Crown]]
-**Mutation Effect:** Oxiacantha -> +1 grateful
+<br>**Start Description:** 'Ha! Have you seen that throne? Robigo sees himself atop it... the benevolent patron of a bounteous world. He would loathe to see another take their seat. Let us host a coronation, and defy the Growth's wish for dominion once and for all. Their kingdom will crumble before our 'Queen in Ribbons.''  
+<br>**Research Aspect Description:** '\[I assisted Oxiacantha in fulfilling her work: a coronation for a worm-regent who would devour the Growth.\]'  
+<br>**Effect:** [[remedy.oxiacantha|Oxiacantha's Remedy]], [[crown.ribbons|The Ribboned Crown]]
+<br>**Mutation Effect:** Oxiacantha -> +1 grateful
