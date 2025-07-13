@@ -168,8 +168,8 @@ La Magdalena looks towards the camera in each, sat before a series of seven skul
 **Mutation Effect:** magdalena -> +1 grateful
 
 ### Earning La Magdalena's Respect  
-`talk.faculty.success6.magdalena.shad`  
-**Requirements:** ability, research5, [[numen.shad|Numen: The Glorious Shadows]] 
+`talk.faculty.success6.magdalena.glor`  
+**Requirements:** ability, research5, [[numen.glor|Numen: The Glorious Shadows]] 
 **Start Description:** I speak of the shadows of Glory, the hidden Light in darkness. La Magdalena listens with watchful eyes until I finish, then sets about scurrying around the desk, drawers opening and items spilling and the rhythm of wood filling the room. Try as I might to focus, I struggle to grasp onto any one image, until something which is not here passes into my vision like an errant lock of hair. It is brief: a shrine shrouded in darkness, matted with black moss. I see a skull set upon its surface, six smaller skulls placed within. A candle burns bright upon the depressed scalp, until I am blinded by light before being plunged into the dark. Faintly, I hear the night-soft steps of a life fragile as mist. The vision passes, and in my hands, I hold that very skull. La Magdalena stretches, then jumps off the desk, giving me one last glance before wandering off into the dark. Perhaps she is smiling.
 **Research AspectDescription:** \[I assisted La Magdalena in fulfilling her work; letting her lost kin live on through their living shadows.]
 **Effect:** [[remedy.magdalena|La Magdalena's Remedy]], [[skull.shadowed|Shadowed Skull]]

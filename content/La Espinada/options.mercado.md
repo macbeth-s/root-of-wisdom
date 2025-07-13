@@ -1,3 +1,7 @@
+---
+tags:
+  - Deck
+---
 ### A Bright Day at Market  
 Mercado Vagante is a place of wonder today. Vendors have much to say about all they have in store; each good a treasure with its own special virtues. Buyers approach with curiosity: they want to know provenance, technique, terroir. \[Wares and assistance with \<sprite name=lantern> aspect are available for purchase today.]
 ### An Inventive Day at Market  

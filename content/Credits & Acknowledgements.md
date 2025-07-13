@@ -7,6 +7,7 @@ draft:
 ## Faculty
 These esteemed colleagues provided significant feedback, encouragement, and ideas throughout critical moments of the writing process. Without their assistance, much of ROOT OF WISDOM would not exist.
 - A Blessed Feline
+- Marin V. 
 - Sneakworks
 - Limabot, A Seer
 - Alunsina
