@@ -4,7 +4,7 @@ A sprawling atlas documenting the 'Geographies of the Histories' and the means o
 Convoluted charts and chronologies span the parchment in dizzyingly delightful script. The text insists them to be accurate, having received them from 'the Scaled Ones' well-versed in traversing Time.  
 ## I've Read...  
 Numerous annotations attempt to derive a pattern from the movements of the Hooded Princes, the Worms, and the many locations which have spread throughout the Histories. Nothing specific about the methods of passage are revealed, only hints that the key lies in 'Coil, Knot, and Nest'.  
-**Effect:** [Memory: Intuition](https://uadaf.theevilroot.xyz/rowenarium/element/mem.intuition)
+**Effect:** [Memory: Intuition](https://uadaf.theevilroot.xyz/rowenarium/element/mem.intuition)<br>
 **Mastery:** Lesson: Path & Pilgrim (x3)
 ## Aspects
 - Mystery: Scale 21
