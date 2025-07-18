@@ -17,6 +17,7 @@ Opening it will Expose:
 - [[library.bench.reliquarian.consider|Reliquarian's Bench]]  
 - [[hours.elegiast|'The Elegiast']]  
 - [[a.stcatherineswheel|St. Catherine's Wheel]]  
+- [[a.cloakofstfelixofschuren|Cloak of St Felix of Schüren]]
 - [[a.elvino|El Vino]]
 - [[a.thekeyofascalon|The Key of Ascalon]]  
 - [[a.handofbarbarathespark|Hand of Barbara the Spark]]

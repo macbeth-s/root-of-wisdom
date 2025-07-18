@@ -5,7 +5,7 @@ tags:
 # Boticario Pasamonte
 A thick fog of smells, medicinal and recreational, blend seamlessly around Dionisio's cluttered shop.
 ## Slots
-### The Classroom
+### The Counter
 Matters of substance?<br>*If friend:* Dionisio fixes something special, just for you.<br>
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>
 **Required**: Grail, Moth

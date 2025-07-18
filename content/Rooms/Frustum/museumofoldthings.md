@@ -17,6 +17,7 @@ Opening it will Expose:
 - [[post.intihuatana|Intihuatana]]  
 - [[a.hicsuntdracones|Hic sunt dracones]]  
 - [[a.thegardenofgold|The Garden of Gold]] 
+- [[a.thricoticquipu|Thricotic Quipu]]
 - [[a.wingedfelinevessel|Winged Feline Vessel]]  
 - [[a.apalepetroglyph|A Pale Petroglyph]]
 - [[tear.tunupa|Tunupa's Tear]]
