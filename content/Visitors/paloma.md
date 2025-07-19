@@ -12,5 +12,7 @@ An Obliviate with uncertain ties to the government--both civil and military. Som
 ## Talk
 ### A Conversation with Sra. Paloma Silva
 'I don't have much of a file on you. You're helpful, I presume? Otherwise they wouldn't keep you around...'  \[If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]
+### Dissatisfying
+'I was never here.'
 ## Paloma's Address
 Hotel Ciervo, Mendicant Street, Port Noon... \[To make an invitation to Paloma sufficiently enticing, you'll need at least 7 \<sprite name=moon> from Skills, Memories, Inks or anything else.]

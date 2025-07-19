@@ -7,8 +7,8 @@ A fragile manuscript, illuminated with twinned shapes of sad and luminous beauty
 These pages outline the seven bloody natures of the 'Daughters of Lagiah' - those corrupted immortals who gave birth to children, in defiance of the Laws of the Upper Heaven; who devoured them, in obedience to the Hours' punishment; and who have been left outside the law...
 ## I've Read...
 The second volume of the Geminiad suggests that these seven corrupted immortals have been accorded the privileges of Names of the Witch-and-Sister - or perhaps the Sister-and-Witch. It reminds us that the Twins unite what is apart, and that the 'Crime of the Sky' is in some sense a supreme joining. And it speaks at length about the sadness of the seven, the sadness of mothers whose children are forever lost, and far worse than lost.
-**Effect: **[Memory: Satisfaction](https://uadaf.theevilroot.xyz/rowenarium/element/mem.satisfaction)
-**Mastery: **[Lesson: Pentiments & Precursors](https://uadaf.theevilroot.xyz/rowenarium/element/x.pentiments.precursors)
+<br>**Effect:** [Memory: Satisfaction](https://uadaf.theevilroot.xyz/rowenarium/element/mem.satisfaction)
+**Mastery:** [Lesson: Pentiments & Precursors](https://uadaf.theevilroot.xyz/rowenarium/element/x.pentiments.precursors)
 ## Aspects
 - Mystery: Grail 10
 - [Written in Fucine](https://uadaf.theevilroot.xyz/rowenarium/element/w.fucine)

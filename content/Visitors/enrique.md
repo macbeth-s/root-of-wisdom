@@ -12,5 +12,7 @@ Senator, gadfly, the self-appointed 'voice of the suppressed' in the Capital. Su
 ## Talk
 ### A Conversation with Lic. Enrique Esquivel
 'The good doctor isn't in, is he? What a shame... perhaps you can give him my regards, and help me out before I have to get back.'  \[If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]
+### Dissatisfying
+'I really must get going! Much to do back home. Much for you to do here.'
 ## Enrique's Address
 Palacio Legislativo, Barrios Altos, Lima... \[To make an invitation to Enrique sufficiently enticing, you'll need at least 3 \<sprite name=sky> from Skills, Memories, Inks or anything else.]

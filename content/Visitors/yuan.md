@@ -12,5 +12,7 @@ Butcher, poet, connoisseur. Versed in junctures of taste and novelty, T.R.N. Lim
 ## Talk
 ### A Conversation with Prof. Ji Yuan
 'How are you, Librarian? Sleeping well, I hope.’ \[If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]
+### Dissatisfying
+'I suppose that's that.'
 ## Ji's Address
 Avenida Horta e Costa, Santo António, Macau... \[To make an invitation to Ji sufficiently enticing, you'll need at least 3 \<sprite name=grail> from Skills, Memories, Inks or anything else.]

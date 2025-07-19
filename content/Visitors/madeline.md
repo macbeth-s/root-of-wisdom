@@ -10,5 +10,7 @@ A failed anchoress, a current Winter-Long, ill at home in her archipelagic nunne
 ## Talk
 ### A Conversation with Sor Madeline Cross
 'Hello, Librarian. I've come to walk some memories once more.' \[If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]
+### Dissatisfying
+'The memories were not unwelcome. I hope you make many more to come.'
 ## Madeline's Address
 Monastère Sainte-Catherine, Roseau... \[To make an invitation to Madeline sufficiently enticing, you'll need at least 7 \<sprite name=winter> from Skills, Memories, Inks or anything else.]

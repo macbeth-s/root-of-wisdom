@@ -7,7 +7,7 @@ A famous 'weeping statue' from a small church in La Paz, reported to have cried 
 The statue is carved from one solid piece of a hard and heavy stone, but nonetheless seems to indeed be porous around Our Lady's eyes.
 ## I've Studied...
 The material streaked down her face is not mortal blood, but it is a kind of golden ichor, like the blood of the Carapace Cross. In the presence of signifcant scale-aspect, it seems that the blood of the Cross can once again flow from stone.
-**Effect:** [Memory: Hindsight](https://uadaf.theevilroot.xyz/rowenarium/element/mem.hindsight)
+<br>**Effect:** [Memory: Hindsight](https://uadaf.theevilroot.xyz/rowenarium/element/mem.hindsight)
 **Mastery:** [Lesson: Coil & Chasm](https://uadaf.theevilroot.xyz/rowenarium/element/x.coil.chasm)
 ## Aspects
 - Mystery: Scale 6

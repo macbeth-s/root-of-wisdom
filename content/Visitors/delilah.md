@@ -11,5 +11,7 @@ Ethnographer, sculptor, archaeologist. Her publications, especially those focuse
 ## Talk
 ### A Conversation with Dr Delilah Molotla
 'I'm glad someone helpful has come to study here. I'm working on another project...'  \[If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]
+### Dissatisfying
+'Oh well. I can try looking elsewhere...'
 ## Delilah's Address
 San Blas, Cusco... \[To make an invitation to Delilah sufficiently enticing, you'll need at least 3 \<sprite name=lantern> from Skills, Memories, Inks or anything else.]

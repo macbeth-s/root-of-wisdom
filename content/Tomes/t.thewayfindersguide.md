@@ -7,8 +7,8 @@ An introductory manual for initiates to the New Wayfinders, a fledgling society 
 Various chapters outline the lifestyle of a ‘true Wayfinder,’ though many of them seem corrupted or entirely made up. Occasionally, bits of knowledge can be picked out from the verbose text.
 ## I've Read...
 ‘Where the first Wayfinder walked, she left behind roads. Our eyes cannot see them, but if we walk blind, they can lead us to her home of wonders.’
-**Effect: **[Memory: Intuition](https://uadaf.theevilroot.xyz/rowenarium/element/mem.intuition)
-**Mastery: **[Lesson: Sand Stories](https://uadaf.theevilroot.xyz/rowenarium/element/x.sandstories)
+<br>**Effect:** [Memory: Intuition](https://uadaf.theevilroot.xyz/rowenarium/element/mem.intuition)
+**Mastery:** [Lesson: Sand Stories](https://uadaf.theevilroot.xyz/rowenarium/element/x.sandstories)
 ## Aspects
 - Mystery: Moon 4
 - Subject: Sand Stories

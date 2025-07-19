@@ -7,7 +7,7 @@ Audio recorded at the now-abandoned Università Velletri during their Saint John
 Various voices chatter and overlap over crackling fire before settling down. The master of ceremonies begins speaking in the dry Fucine dialect, thanking the students and faculty for their participation before introducing a guest of honor…
 ## I've Read...
 Raspy scratches ring out, soon turning into a mesmerizing song as the master of ceremonies begins to sing. She appears to be singing about the guest of honor, complementing the luster of their scales, their keen fangs, and how gracefully they consume their prey.
-**Effect:** [Savage Hymn](https://uadaf.theevilroot.xyz/rowenarium/element/music.savage)<br>
+<br>**Effect:** [Savage Hymn](https://uadaf.theevilroot.xyz/rowenarium/element/music.savage)<br>
 **Mastery:** Lesson: [[s.fangs.fossils|Fangs & Fossils]]
 ## Aspects
 - Mystery: Scale 6

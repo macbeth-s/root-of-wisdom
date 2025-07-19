@@ -7,7 +7,7 @@ One of the tapestries that brought the Weaver to international attention when Li
 The front depicts a geometric pattern. The backstitching forms words in the chilly and ancient speech called Killasimi. The tapestry tells of Killasimi's use as the secret speech of only the most senior initiates of certain cabals influential among the Fourfold.
 ## I've Read...
 While the Sapan Inka held solar faith publicly and praised the Sun-in-Splendor, many of the most prescient of the realm clung to two of its Names: the Sun-in-Rags and the Meniscate. 'Through secret meetings in the House of the Moon, they learned much of the past that will be, but little of the future that was.'
-**Effect:** [Memory: Hindsight](https://uadaf.theevilroot.xyz/rowenarium/element/mem.hindsight)
+<br>**Effect:** [Memory: Hindsight](https://uadaf.theevilroot.xyz/rowenarium/element/mem.hindsight)
 **Mastery:** Lesson: [Meniscate Reflections](https://uadaf.theevilroot.xyz/rowenarium/element/s.meniscatereflections) (x2)
 ## Aspects
 - Mystery: Winter 12

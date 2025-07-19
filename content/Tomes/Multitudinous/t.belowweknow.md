@@ -4,7 +4,7 @@ Corridos of the Carapace-kinds, performed by the Shorn Brotherhood.
 These are the songs sung beneath the earth - in the caverns and the kivas and Nowhere. This is not a Cross-tongue, but as the throat grows dry, the tongue yearns for honey, for nectar, for blood.  
 ## I've Read...  
 'Once we flew through black and walked on gold; once we sought out white and swam in blue; once we lived by green and yearned for pink. Those times are gone, yet we sing this song.'  
-**Effect:** [Memory: Storm](https://uadaf.theevilroot.xyz/rowenarium/element/mem.storm)<br>
+<br>**Effect:** [Memory: Storm](https://uadaf.theevilroot.xyz/rowenarium/element/mem.storm)<br>
 **Mastery:** Lesson: [[s.fermentation.sustentation|Fermentation & Sustentation]] (x3)
 ## Aspects
 - Mystery: Heart 21

@@ -9,8 +9,8 @@ Initial Location: [[apachita|Apachita]]
 'Fear not, weary traveler, for the Influences and Growths of the Haustorium need not consume you. You must simply be quick, and know exactly what it is you need. A Ramazzini mask is also essential during fecund seasons.'
 ## I've Read...
 'The March and the Vestibule are daunting but not insurmountable. Keep your eyes forward and do not breathe too deeply. Find yourself to the small foyer and wait there for faculty to assist you. Get your text, pay your tally, and leave. Do not descend the stairs. And do not even consider admiring the artwork.'
-**Effect:** [Memory: Fear](https://uadaf.theevilroot.xyz/rowenarium/element/mem.fear)
-**Mastery:** [Lesson: Path & Pilgrim](https://uadaf.theevilroot.xyz/rowenarium/element/x.path.pilgrim) (x1)
+<br>**Effect:** [Memory: Fear](https://uadaf.theevilroot.xyz/rowenarium/element/mem.fear)
+<br>**Mastery:** [Lesson: Path & Pilgrim](https://uadaf.theevilroot.xyz/rowenarium/element/x.path.pilgrim) (x1)
 ## Aspects
 - Mystery: Rose 4
 - #Codex

@@ -11,5 +11,7 @@ Storyteller, translator, anthropologist. A fresh-faced scholar of long-lived peo
 ## Talk
 ### A Conversation with Dr Yukie Chiri
 'Thank you for the warm welcome.’ \[If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]
+### Dissatisfying
+'A shame, but there are always things you can't find in books and libraries.'
 ## Yukie's Address
 Butantã, São Paulo... \[To make an invitation to Yukie sufficiently enticing, you'll need at least 3 \<sprite name=nectar> from Skills, Memories, Inks or anything else.]

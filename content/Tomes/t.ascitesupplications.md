@@ -7,7 +7,7 @@ Prayers addressed to the Horned-Axe by the Sisterhood of the Triple Knot.
 If we should pass not, let our enemies pass, unto their deserved end…'
 ## I've Read...
 One prayer describes how sufficient Knock-aspect can be used with the arts of Abjurations & Limitations and wood to harden 'the Chancel's noose, the Ascite leash, the oldest thorns.'
-**Effect:** [Memory: Impulse](https://uadaf.theevilroot.xyz/rowenarium/element/mem.impulse)<br>
+<br>**Effect:** [Memory: Impulse](https://uadaf.theevilroot.xyz/rowenarium/element/mem.impulse)<br>
 **Mastery:** [Lesson: Stone Stories](https://uadaf.theevilroot.xyz/rowenarium/element/x.stonestories)
 ## Aspects
 - Mystery: Scale 8

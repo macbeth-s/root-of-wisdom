@@ -7,8 +7,8 @@ In the aftermath of Black Tuesday, Reginald Pickins, the draconian banker, sold 
 The Sutra examines the labyrinthine Bounds and the dangers which arise from its ways. It warns that though it lies above the Wood, as the lowest part of the House, Nowhere rests not far beneath its mazed foundation.
 ## I've Read...
 ‘The door to dusk opens at the nadir of the soul, when the blade of awareness scrapes against the skull.’
-**Effect: **[Memory: Fear](https://uadaf.theevilroot.xyz/rowenarium/element/mem.fear)
-**Mastery: **[Lesson: Putrefactions & Calcinations](https://uadaf.theevilroot.xyz/rowenarium/element/x.putrefactions.calcinations)
+<br>**Effect:** [Memory: Fear](https://uadaf.theevilroot.xyz/rowenarium/element/mem.fear)
+**Mastery:** [Lesson: Putrefactions & Calcinations](https://uadaf.theevilroot.xyz/rowenarium/element/x.putrefactions.calcinations)
 ## Aspects
 - Mystery: Moon 8
 - [Written in Sanskrit](https://uadaf.theevilroot.xyz/rowenarium/element/w.sanskrit)

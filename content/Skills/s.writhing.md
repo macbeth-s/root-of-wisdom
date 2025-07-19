@@ -15,7 +15,7 @@ With metal white and bright  <br>
 By fire thrashing and clashing  <br> 
 In water ruddy and bloody  <br> 
 A world created and illuminated. <br> 
-**Effect:** Mettle
+<br>**Effect:** Mettle
 ## Commit to Skolekosophy
 ### Plans of Passing
 Through tunnels thinned and skinned <br> 

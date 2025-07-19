@@ -7,8 +7,8 @@ An extracanonical account on the death of the Thorn-Crowned Son oft attributed t
 ‘What is lost without shall be found within; so into the Earth I commend my Blood.’
 ## I've Read...
 At Noon, darkness falls upon the world; the land stirs at the taste of Blood; the Thorn-Crowned Son echoes the scream of Sea and Sky and Stone. As he breathes his last, the Legate’s sight is ‘silvered,’ and he witnesses the shadowed, silent pulse of the Moon.
-**Effect: **[Memory: Storm](https://uadaf.theevilroot.xyz/rowenarium/element/mem.storm)
-**Mastery: **[Lesson: Rites of the Roots](https://uadaf.theevilroot.xyz/rowenarium/element/x.ritesoftheroots)
+<br>**Effect:** [Memory: Storm](https://uadaf.theevilroot.xyz/rowenarium/element/mem.storm)
+**Mastery:** [Lesson: Rites of the Roots](https://uadaf.theevilroot.xyz/rowenarium/element/x.ritesoftheroots)
 ## Aspects
 - Mystery: Nectar 8
 - [Written in Latin](https://uadaf.theevilroot.xyz/rowenarium/element/w.latin)

@@ -10,5 +10,7 @@ Fanatical eugenicist, discredited hospital executive, desperate applicant to a f
 ## Talk
 ### A Conversation with Dr Louize Haig
 'They allowed <i>you</i> and refused <i>me</i>?! Disgraceful...'  \[If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]
+### Dissatisfying
+'Incompetents like you get devoured soon enough. Only then will they realize I should be here...'
 ## Louize's Address
 Washington Street, Battle Creek... \[To make an invitation to Louize sufficiently enticing, you'll need at least 3 \<sprite name=edge> from Skills, Memories, Inks or anything else.]
