@@ -4,4 +4,5 @@ Hand-carved by Oxiacantha's slender pocketknife. \[Oxiacantha suggested you blow
 - Scale 2
 - Edge 2
 - #Tool 
+- #Instrument 
 - #Thing

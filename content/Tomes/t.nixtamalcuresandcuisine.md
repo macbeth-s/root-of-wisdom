@@ -2,7 +2,7 @@
 {}
 ---
 # Nixtamal Cures and Cuisine
-Mesoamerican recipes to help those affected by pellagra, the ‘pale spring sickness.’ The disease appeared worldwide as foreign lands began cultivating maize. The Nahuatl named it moxipehui, the self-husking.
+Mesoamerican recipes to help those affected by the ‘pale spring sickness.’ The disease appeared worldwide as foreign lands began cultivating maize. The Nahuatl named it moxipehui, the self-husking.
 ## I'm Reading...
 Though maize sustains, the body cannot withstand its joyous force. When enough gathers inside, a person’s skin begins joining with the skin of the world, a process most mortals cannot survive. But fragments of the ‘Lime Shell’ can quell this, turning the force into a quiet, peaceful frost.
 ## I've Read...

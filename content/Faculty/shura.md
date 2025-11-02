@@ -11,6 +11,7 @@ A child? An old woman? Their voice is sweet like stomach bile and their eyes are
 - Interest: Sky 7
 - Understands Hyksos
 - Understands Fucine
+- Understands Greek
 ## Talk
 ### An Unimpressed Academic?
 `talk.faculty.Shura.sceptical.intro`
@@ -141,7 +142,7 @@ A child? An old woman? Their voice is sweet like stomach bile and their eyes are
 ### Earning Shura's Respect
 `talk.faculty.success6.Shura.void`
 <br>**Requirements:** shura, ability, research 5, [[numen.void|Numen: The Void Between]]
-<br>**Start Description:** 'The root of my sorrow has not been my mother, but the punishment enforced upon her by the cruelty of the Hours. Her so-called Crime and her appointed punishment has hurt me more than her, and I will never be happy as long as we are apart. The Black Flower teaches the ways of obscurity and escape which my mother might use to avoid her ravenous punishment. In the shelter of the place where the obsidian egg was concealed, she will feel no hunger. We will meet in the caverns, below the Angstloch, in the darkness of the New Moon, and we will be child and daughter as we should.
+<br>**Start Description:** 'The root of my sorrow has not been my mother, but the punishment enforced upon her by the cruelty of the Hours. Her so-called Crime and her appointed punishment has hurt me more than her, and I will never be happy as long as we are apart. The Black Flower teaches the ways of obscurity and escape which my mother might use to avoid her ravenous punishment. In the shelter of the place where the obsidian egg was concealed, she will feel no hunger. We will meet in the caverns, below the Angstloch, in the darkness of the New Moon, and we will be child and daughter as we should.'
 <br>**Research Aspect Description:** \[I assisted Shura in fulfilling their work: creating a secret sanctum outside of the rules of the Hours where the Crime of the Sky was not punished and they and their mother can be together.]
 <br>**Effect:** [[remedy.shura|Shura's Remedy]], [[void.key|Void-Key]]
 <br>**Mutation Effect:** shura -> +1 grateful

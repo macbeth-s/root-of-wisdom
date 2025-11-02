@@ -5,7 +5,7 @@ aliases:
 # Aeon Egg
 A mirror-black eggshell, cracked in twain. Bold script sprawls across the opaline innards - done after its hatching, or by its inhabitant? \[This object houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]
 .<br>
-Initial Location: Hidden.
+Initial Location: #Hidden.
 #### Unveil a Treasure of the Haustorium
 **Requirements:** [[s.abjurations.limitations|Abjurations & Limitations]] or [[s.edictshospitable|Edicts Hospitable]], and [[new.haustoria|New Haustoria]], [[library.throne|THE THRONE]]<br>
 **Start Description:** Let this little limb act at the command of its master, to reveal a treasure of the Haustorium. <br>

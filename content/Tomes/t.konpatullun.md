@@ -5,7 +5,7 @@ aliases:
 # Konpa Tullun
 A slab of ignimbrite layered in pigmented handprints of all shapes and sizes. Every handprint, even those beneath, can be discerned, all reminiscent of Sabazine - a language younger than this stone and born across the sea. \[This object houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]
 <br>
-Initial Location: Hidden.
+Initial Location: #Hidden.
 #### Recover a Treasure of the Haustorium
 **Requirements:** [[library.cairn|Cairn Intercalate]], [Auroral Contemplations](https://uadaf.theevilroot.xyz/rowenarium/element/s.auroralcontemplations) or [[s.transcendence.ascendance|Transcendence & Ascendance]], [Evolve via Nyctodromy](https://uadaf.theevilroot.xyz/rowenarium/element/e.nyctodromy<br>
 **Start Description:** If I sleep before the crooked cairn and let the past guide me, I can find something hidden from waking eyes. <br>
