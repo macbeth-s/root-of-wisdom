@@ -2,7 +2,7 @@
 tags: faculty
 ---
 # Charles Lacombe
-A former agent of Britain's ruthless Suppression Bureau, now transformed. Terminally robigoid, preserved through the generostiy of the Protector.
+A former agent of Britain's ruthless Suppression Bureau, now transformed. Terminally robigoid, preserved through the generosity of the Protector.
 ## Aspects
 - Interest: Moth 7
 - Interest: Lantern 7
@@ -33,7 +33,7 @@ A former agent of Britain's ruthless Suppression Bureau, now transformed. Termin
 
 ### Assisting Lacombe
 `talk.faculty.failure1.lacombe`
-<br>**Requirements:** lacombe, ability, research -1<br>**Start Description:** 'This first errand is one we ought keep between ourselves. I've got a few pages here of stuff that really nobody needs to be reading, least of all that cat that comes riling through my stuff, or that scary nun who stalks about. All I've got is some stargall when another ink would be much more suitable to my more delicate materials, or you could head down to the garden and find me a fungal reagent that could take care of the documents just as well.' 
+<br>**Requirements:** lacombe, ability, research -1<br>**Start Description:** 'This first errand is one we ought keep between ourselves. I've got a few pages here of stuff that really nobody needs to be reading, least of all that cat that comes riling through my stuff, or that scary nun who stalks about. All I've got is some stargall when another ink would be much more suitable to my more delicate materials. Down in the garden there's also a fungal reagent that could take care of the documents just as well.' 
 ### Assisting Lacombe
 `talk.faculty.success1.lacombe.catwink`
 <br>**Requirements:** lacobe, ability, research -1, [catwink](https://uadaf.theevilroot.xyz/rowenarium/element/catwink)
@@ -73,7 +73,7 @@ A former agent of Britain's ruthless Suppression Bureau, now transformed. Termin
 ### Assisting Lacombe
 `talk.faculty.success3.lacombe.larva`
 **Requirements:** lacombe, ability, research 2, [larva.chimeric](https://uadaf.theevilroot.xyz/rowenarium/element/larva.chimeric)
-<br>**Start Description:** 'Although I am well past middle-age, I am in many ways still pupate. The Dottore does not much publicize his relations with the Moth, but the old lad loves to exploit the mania of the Change. If I'm to thread this needle, I'll need to watch the difference between changing and growing very carefully. With your help, mate, I can find my way through these tangling woods.
+<br>**Start Description:** 'Although I am well past middle-age, I am in many ways still pupal. The Dottore does not much publicize his relations with the Moth, but the old lad loves to exploit the mania of the Change. If I'm to thread this needle, I'll need to watch the difference between changing and growing very carefully. With your help, mate, I can find my way through these tangling woods.
 <br>**Research Aspect Description:** \[I helped Lacombe analyze a creature of perilous potential, spying a way through the Moth that he might embrace the changes within himself without being consumed by the Growth.]
 <br>**Effect:** x.sylvanstories 
 <br>**Mutation Effect:** lacombe -> research 3
@@ -87,7 +87,7 @@ A former agent of Britain's ruthless Suppression Bureau, now transformed. Termin
 ### Assisting Lacombe
 `talk.faculty.failure4.lacombe`
 <br>**Requirements:** lacombe, ability, research 3
-<br>**Start Description:** 'Since our last realization, I've been walking more in the wood. Well, stumbling, really. On my last venture I found myself suckling at the tea party of a Name of the Mare-in-the-Tree; a woman who came to visit me shortly before my little pyrotechnics display at the Cucurbit Gaol. She goaded me on to another stunt here; can you see the flames dancing in my eyes? I need some technique I can use to impress the Mare without enraging the Dottore. Find me something sophisticated on fire and smoke \[10+], or some other way to appease the Red Flower...'
+<br>**Start Description:** 'Since our last realization, I've been walking more in the Wood. Well, stumbling, really. On my last venture I found myself suckling at the tea party of a Name of the Mare-in-the-Tree; a woman who came to visit me shortly before my little pyrotechnics display at the Cucurbit Gaol. She goaded me on to another stunt here; can you see the flames dancing in my eyes? I need some technique I can use to impress the Mare without enraging the Dottore. Find me something sophisticated on fire and smoke \[10+], or some other way to appease the Red Flower...'
 ### Assisting Lacombe
 `talk.faculty.success4.lacombe.pyroglyphics`
 <br>**Requirements:** lacombe, ability, research 3, r.pyroglyphics, soph: 10

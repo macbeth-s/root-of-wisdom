@@ -146,23 +146,23 @@ A nun, an Edge-long, an incessant locker of doors.
 
 ### Earning Sister Oxiacantha's Respect  
 `talk.faculty.success6.oxiacantha.tresp`  
-**Requirements:** oxiacantha, ability, research5, numen.tresp  
+**Requirements:** oxiacantha, ability, research5, [[numen.tresp|Numen: A Trespass Forgiven]]
 <br>**Start Description:** 'So many scars mar the Haustorium's foundation, but it is true that Menard's folly lies at the root of much of the Growth's power. I sought to seal the threat through force. I now see that forgiveness may be the only way to close that door for good.'  
 <br>**Research Aspect Description:** '\[I assisted Oxiacantha in fulfilling her work: closing the passage to Nowhere in the Frustum.\]'  
 <br>**Effect:** [[remedy.oxiacantha|Oxiacantha's Remedy]], [[abjuration.vehementi|Abjuration de vehementi]]
 <br>**Mutation Effect:** Oxiacantha -> +1 grateful
 
 ### Earning Sister Oxiacantha's Respect  
-`talk.faculty.success6.oxiacantha.damn`  
-**Requirements:** oxiacantha, ability, research5, numen.damn  
+`talk.faculty.success6.oxiacantha.besti`  
+**Requirements:** oxiacantha, ability, research5, [[numen.besti|Numen: Damnatio ad Bestias]]
 <br>**Start Description:** 'Does Robigo bleed? I imagine he does. Does she feel pain? I imagine so, as well... Bengui left these secrets. She knew how fang could pierce that corpoluent protector, and turn her on her heels to run. Cry havoc!'  
 <br>**Research AspectDescription:** '\[I assisted Oxiacantha in fulfilling her work: summoning a beast to chase Robigo away.\]'  
 <br>**Effect:** [[remedy.oxiacantha|Oxiacantha's Remedy]], [[ward.whistle|Ward-Whistle]]
 <br>**Mutation Effect:** Oxiacantha -> +1 grateful
 
 ### Earning Sister Oxiacantha's Respect  
-`talk.faculty.success6.oxiacantha.crown`  
-**Requirements:** oxiacantha, ability, research5, numen.crown  
+`talk.faculty.success6.oxiacantha.coil`  
+**Requirements:** oxiacantha, ability, research5, [[numen.coil|Numen: A Crown of Coils]]
 <br>**Start Description:** 'Ha! Have you seen that throne? Robigo sees himself atop it... the benevolent patron of a bounteous world. He would loathe to see another take their seat. Let us host a coronation, and defy the Growth's wish for dominion once and for all. Their kingdom will crumble before our 'Queen in Ribbons.''  
 <br>**Research Aspect Description:** '\[I assisted Oxiacantha in fulfilling her work: a coronation for a worm-regent who would devour the Growth.\]'  
 <br>**Effect:** [[remedy.oxiacantha|Oxiacantha's Remedy]], [[crown.ribbons|The Ribboned Crown]]
