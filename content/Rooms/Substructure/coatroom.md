@@ -12,6 +12,7 @@ Opening it will Expose:
 - [[transcendentretreat|Transcendent Retreat]]  
 ## Contents  
 - [[painting.wood|'Green as Remembered Rain']]
+- [[library.bed.guest.sisa|Guest Bed: Sisa]]
 - [[cup.mate|Mate]] (Gourd)  
 - [[bottle.pisco|Pisco Alado]] (Bottle)  
 - [Moth-Orchid-Scented Candle](https://uadaf.theevilroot.xyz/rowenarium/element/candle.mothorchid) (x2)

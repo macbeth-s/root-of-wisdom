@@ -17,6 +17,7 @@ Opening it will Expose:
 ## Contents  
 - [[library.bench.excavator.consider|Excavator's Bench]]
 - [[stool.excavation|Valenzuela's Stool]]
+- [[library.bed.guest.excavation|Guest Bed: Excavation]]
 - [Hurricane Lamp](https://uadaf.theevilroot.xyz/rowenarium/element/lamp.hurricane)
 - [[bone.chalk|Bone-Chalk]]
 - [[painting.starfall|'A Descent']]

@@ -14,6 +14,7 @@ Opening it will Expose:
 - [[echidnarium|Echidnarium]]  
 ## Contents  
 - [[library.desk.bengui.consider|Desk: Bengui]]
+- [[library.bed.guest.bengui|Guest Bed: Bengui]]
 - [[bust.nacera|'Nacèra Bengui']]
 - [Houndsgall](https://uadaf.theevilroot.xyz/rowenarium/element/houndsgall)
 - [Cranial Tchotchke](https://uadaf.theevilroot.xyz/rowenarium/element/skull)

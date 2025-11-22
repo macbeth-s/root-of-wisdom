@@ -10,7 +10,7 @@ Location: [[crawlspace|Crawlspace]]
 ## Slots
 ### Occupant
 **Essential**: [Occupant](https://uadaf.theevilroot.xyz/rowenarium/element/campable)
-**Required**: Nectar, Interest: Nectar
+**Required**: Moth, Interest: Moth
 Forbidden: Fatigued, Malady, Protector
 # My Bed:
 Dry enough and dark enough that someone's bedroll has not decayed at all. One can curl up and sleep in safety and silence, if they're not claustrophobic. \[Add a Fatigued Soul card to nap, a Maladied soul card to cure it, or (once night has fallen) a Memory to dream on it.]
