@@ -12,7 +12,7 @@ Location: [[coatroom|Vigilkeeper's Coatroom]]
 **Essential**: [Occupant](https://uadaf.theevilroot.xyz/rowenarium/element/campable)
 **Required**: Nectar, Interest: Nectar
 Forbidden: Fatigued, Malady, Protector
-# My Bed:
+# My Bed: Sisa
 Alejo Sisa carved warding sigils into the headboard to ensure his siestas remained undisturbed by the forces drawn to the Colegio. \[Add a Fatigued Soul card to nap, a Maladied soul card to cure it, or (once night has fallen) a Memory to dream on it.]
 ## Slots
 ### Soul

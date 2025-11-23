@@ -12,5 +12,6 @@ These esteemed colleagues provided significant feedback, encouragement, and idea
 - Limabot, A Seer
 - Alunsina
 - Burke828
+- Sybil Fasamixolesi (waltzingOphidian)
 ## Visitors & Assistants
 Many other members of the Weather Factory subreddit and Discord server assisted in the process of writing. Their names and contributions are too many to count, but their impact on the project is indelible in many ways both small and large.

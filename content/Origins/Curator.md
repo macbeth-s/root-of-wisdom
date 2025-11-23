@@ -7,7 +7,7 @@ Cataloguing the journal grants an extra **Wist**.
 ## Tidy Book
 `journal.curator.unc`
 <br>Crisp white pages, a scrupulously fine print. Whoever wrote all this down understands symmetry.
-`catalogue.journal.curator`
+<br>`catalogue.journal.curator`
 <br>My journal - I'm sure of it. The sickness strangled my thoughts, but each page I turn is familiar. I begin to recall now why I came here... and the legacy I wish to leave. \[More about your origin, and your aspirations, in your journal. You can now also access the Tree of Wisdoms from the top of the screen.]
 ## Well-Kept Journal
 `journal.curator`
