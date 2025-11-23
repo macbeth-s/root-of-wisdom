@@ -1,0 +1,1 @@
+A simple text game to "play through" the opening scene of *ROOT OF WISDOM* can be played [here.](https://macbeth-s.itch.io/root-of-wisdom-opening-scene)

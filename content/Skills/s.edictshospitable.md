@@ -7,8 +7,6 @@ The precepts of habitation and digestion practiced by the phantasmal assembly of
 - #Skill
 - Grail 2
 - Heart 1
-- [Effective Against Curses]
-(https://uadaf.theevilroot.xyz/rowenarium/element/effective.contamination.curse)
 - w.bosk
 - w.ithastry
 ## Commit to Bosk

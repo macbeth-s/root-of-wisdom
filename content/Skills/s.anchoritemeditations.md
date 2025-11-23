@@ -7,6 +7,8 @@ The secretive friars of the Company Anchorite believed those who saw only walls 
 - #Skill
 - Moon 2
 - Knock 1
+-  [Effective Against Curses]
+(https://uadaf.theevilroot.xyz/rowenarium/element/effective.contamination.curse)
 - w.nyctodromy
 - w.horomachistry
 ## Commit to Nyctodromy
