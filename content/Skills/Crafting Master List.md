@@ -1,0 +1,1 @@
+A spreadsheet of all skills, crafting requirements, and many unique crafting recipes can be accessed [here.](https://docs.google.com/spreadsheets/d/1NDAwaJNyCjgYg1vN1QflDldOzlnmGnNsS9nuzvLqsHU/edit?usp=sharing)

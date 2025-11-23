@@ -1,5 +1,5 @@
 ## Elements of the Soul
-**Fet,** **Chor,* or **Shapt** and **Ereb**. <br>
+**Fet, Chor,** or **Shapt** and **Ereb**. <br>
 Cataloguing the journal grants an extra **Ereb**.
 ## Memories: the Mycologist
 `memories.mycologist`

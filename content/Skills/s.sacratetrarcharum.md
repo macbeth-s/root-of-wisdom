@@ -7,6 +7,8 @@ The secret rites of the Know who came to power in the Realm of Four Parts, perfo
 - #Skill
 - Lantern 2
 - Rose 1
+- [Effective Against Curses]
+(https://uadaf.theevilroot.xyz/rowenarium/element/effective.contamination.curse)
 - w.horomachistry
 - w.preservation
 ## Commit to Horomachistry

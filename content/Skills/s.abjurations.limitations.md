@@ -7,6 +7,7 @@
 - #Skill
 - Knock 2
 - Winter 1
+- [Effective Against Infestations](https://uadaf.theevilroot.xyz/rowenarium/element/effective.contamination.infestation)
 - w.hushery
 - w.ithastry
 ## Commit to Hushery

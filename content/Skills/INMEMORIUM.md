@@ -1,7 +1,7 @@
 ---
 {}
 ---
-*DEP to the following skills from BOOK of HOURS which got the chop for ROOT OF WISDOM:*
+*DEP to the following skills from BOOK of HOURS which got the chop to make room for the new skills introduced in ROOT OF WISDOM:*
 - *Sickle & Eclipse*
 - *Sharps*
 - *Bells & Brazieries*
