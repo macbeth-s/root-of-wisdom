@@ -19,5 +19,5 @@ Cataloguing the journal grants an extra **Phost**.
 - #Readable 
 - #Thing
 ### Mastery
-- Lesson: [[s.abjurations.limitations|Abjurations & Limitations]] x3
-- [Lesson: Edicts Liminal](https://uadaf.theevilroot.xyz/rowenarium/element/x.edictsliminal) x1
+- Lesson: [[s.anchoritemeditations|Anchorite Meditations]] x3
+- [Lesson: Edicts Inviolable](https://uadaf.theevilroot.xyz/rowenarium/element/x.edictsinviolable) x1

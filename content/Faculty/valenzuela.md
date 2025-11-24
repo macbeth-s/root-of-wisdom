@@ -4,6 +4,14 @@ tags:
 ---
 # Socorro Valenzuela
 An archaeologist from far away. She has more in common with the fossils she excavates than her colleagues here.
+## Aspects
+- [[faculty|Faculty]]
+- Interest: Scale 7
+- Interest: R0se 7
+- Interest: Edge 7
+- Understands Cracktrack
+- Understands Quechua
+- Understands Sanskrit
 ## Talk
 ### An Unimpressed Academic?
 `talk.faculty.valenzuela.sceptical.intro`
@@ -19,11 +27,11 @@ An archaeologist from far away. She has more in common with the fossils she exca
 ### A Conversation with Valenzuela
 `talk.faculty.intro.valenzuela`
 <br>**Requirements:** valenzuela, sceptical -1
-<br>**Start Description:** valenzuela wheezes. 'There's much to learn here.' [The faculty can tutor you in a language and comment on Incidents, or you can assist them with their ongoing research by offering a soul-element.]
+<br>**Start Description:** 'There's much to learn here.' \[The faculty can tutor you in a language and comment on Incidents, or you can assist them with their ongoing research by offering a soul-element.]
 ### Assisting Valenzuela
 `talk.faculty.assist.valenzuela`
 <br>**Requirements:** valenzuela, ability
-<br>**Start Description:** 'In every stone, a story. When you take the longest view, nothing is ever stagnant. I'm seeking answers to the oldest questions among these rocks.' [The faculty's needs can be exacting, but academic work is slow. If you can't find exactly what you need, they'll ignore you until you have something to offer.]
+<br>**Start Description:** 'In every stone, a story. When you take the longest view, nothing is ever stagnant. I'm seeking answers to the oldest questions among these rocks.' \[The faculty's needs can be exacting, but academic work is slow. If you can't find exactly what you need, they'll ignore you until you have something to offer.]
 
 ### Assisting Valenzuela
 `talk.faculty.failure1.valenzuela`

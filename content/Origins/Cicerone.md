@@ -20,4 +20,4 @@ Cataloguing the journal grants an extra **Fet**.
 - #Thing
 ### Mastery
 - [Lesson: Path & Pilgrim](https://uadaf.theevilroot.xyz/rowenarium/element/x.orchids.narcotics) x3
-- [Lesson: Sky Stories](https://uadaf.theevilroot.xyz/rowenarium/element/x.skystories) x1
+- Lesson: [[s.transcendence.ascendance|Transcendence & Ascendance]] x1

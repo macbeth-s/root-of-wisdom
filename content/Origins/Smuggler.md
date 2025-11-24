@@ -20,4 +20,4 @@ Cataloguing the journal grants an extra **Mettle**.
 - #Thing
 ### Mastery
 - Lesson: [[s.fangs.fossils|Fangs & Fossils]] x3
-- [Lesson: Stitching & Binding](https://uadaf.theevilroot.xyz/rowenarium/element/x.stitching.binding) x1
+- [Lesson: Edicts Liminal](https://uadaf.theevilroot.xyz/rowenarium/element/x.edictsliminal) x1

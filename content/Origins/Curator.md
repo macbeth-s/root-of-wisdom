@@ -20,4 +20,4 @@ Cataloguing the journal grants an extra **Wist**.
 - #Thing
 ### Mastery
 - [Lesson: Sights & Sensations](https://uadaf.theevilroot.xyz/rowenarium/element/x.sights.sensations) x3
-- Lesson: [[s.sacratetrarcharum|Sacra Tetrarcharum]] x1
+- Lesson: [[s.desiccation.elimination|Desiccation & Elimination]] x1

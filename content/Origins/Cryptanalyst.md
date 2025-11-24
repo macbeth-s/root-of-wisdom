@@ -20,4 +20,4 @@ Cataloguing the journal grants an extra **Chor**.
 - #Thing
 ### Mastery
 - Lesson: [[s.meontologicalglimpses|Meontological Glimpses]] x3
-- [Lesson: Preliminal Meter](https://uadaf.theevilroot.xyz/rowenarium/element/x.preliminalmeter) x1
+- [Lesson: Sky Stories](https://uadaf.theevilroot.xyz/rowenarium/element/x.skystories) x1

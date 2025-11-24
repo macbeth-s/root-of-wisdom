@@ -20,4 +20,4 @@ Cataloguing the journal grants an extra **Ereb**.
 - #Thing
 ### Mastery
 - [Lesson: Orchids & Narcotics](https://uadaf.theevilroot.xyz/rowenarium/element/x.orchids.narcotics) x3
-- Lesson: [[s.transcendence.ascendance|Transcendence & Ascendance]] x1
+- Lesson: [[s.fermentation.sustentation|Fermentation & Sustentation]] x1

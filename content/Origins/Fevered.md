@@ -20,4 +20,4 @@ Cataloguing the journal grants an extra **Health**.
 - #Thing
 ### Mastery
 - [Lesson: Surgeries & Exsanguinationsl](https://uadaf.theevilroot.xyz/rowenarium/element/x.surgeries.exsanguinations) x3
-- [Lesson: Transformations & Liberations](https://uadaf.theevilroot.xyz/rowenarium/element/x.transformations.liberations) x1
+- [Lesson: Resurgences & Emergences](https://uadaf.theevilroot.xyz/rowenarium/element/x.resurgences.emergences) x1

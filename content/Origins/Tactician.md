@@ -20,4 +20,4 @@ Cataloguing the journal grants an extra **Phost**.
 - #Thing
 ### Mastery
 - [Lesson: Edicts Martial](https://uadaf.theevilroot.xyz/rowenarium/element/x.edictsmartial) x3
-- [Lesson: Sand Stories](https://uadaf.theevilroot.xyz/rowenarium/element/x.sandstories) x1
+- [Lesson: Ragged Crossroads](https://uadaf.theevilroot.xyz/rowenarium/element/x.raggedcrossroads) x1
