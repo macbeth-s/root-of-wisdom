@@ -15,5 +15,5 @@ Since the days of scale and stone, monsters have been made of many materials. Be
 ### Instrument
 **Required**: Ability, Omen, Device, Remains, Fabric<br>**Forbidden:** Fatigued
 ### Spark
-**Required**: Memory, Liquid, Pigment, Spore<br>**Forbidden:** Fatigued
+**Required**: Memory, Liquid, Pigment, Spore, Material<br>**Forbidden:** Fatigued
 

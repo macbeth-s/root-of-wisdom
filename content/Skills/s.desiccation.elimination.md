@@ -13,7 +13,7 @@
 ## Commit to Hushery
 ### In the Pale
 The students of silence say that Eternity is buried in snow. When everything is one, it will come, so let the stillness without within. Nothing lasts forever.<br>
-**Effect:** Trist
+**Effect:** Wist
 ## Commit to Illumination
 ### In the Glare
 The students of light say that Eternity is bleached in sunlight. When everything is one, it will come, so let the brightness within without. Everything always is.<br>

@@ -14,6 +14,7 @@ Opening it will Expose:
 - [[wormtunnels|Worm Tunnels]] 
 ## Contents  
 - [[painting.julian|'Julian Coseley']]  
+- [[t.serpentheadslab|Serpenthead Slab]]
 - [[a.frostedenclosure|Frosted Enclosure]]  
 - [[mirror.petrified|Petrified Mirror]]  
 - [Desiccated Witchworms](https://uadaf.theevilroot.xyz/rowenarium/element/witchworms.desiccated)  

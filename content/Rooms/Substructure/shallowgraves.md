@@ -13,6 +13,7 @@ Emptied graves ache to be filled. Old bones or fresh libations can abate their c
 ## Contents  
 - [[world.graves|Shallow Graves]]
 - [[a.elixirzeboim|Elixir Zeboim]]
+- [[a.elreypascualito|'El Rey Pascualito']]
 - [Urn of Ashes](https://uadaf.theevilroot.xyz/rowenarium/element/urn.ashes)
 - [[grave.unmarked|Unmarked Gravestone]]
 - [[grave.moldy|Moldy Gravestone]] 

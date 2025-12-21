@@ -1,5 +1,5 @@
 # The Husk Shucked at Night
-An anthropological survey of the White Husk Fraternity, an esoteric society based in the American Southwest, notable for being exclusively composed of those suffering from asaprosis.
+An anthropological survey of the White Husk Fraternity, an esoteric society based in the American Southwest, notable for being exclusively composed of those suffering from asaprosis, a gradual saponification of the skin into a pale, thinning layer of adipocere.
 ## I'm Reading...
 The Fraternity seek to commune with inhuman spirits, assuming their identities, or being possessed by them entirely, a practice crucial for fostering amicable relationships between ‘those above and those below’.
 ## I've Read...

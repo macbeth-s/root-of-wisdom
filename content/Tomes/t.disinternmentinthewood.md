@@ -2,7 +2,7 @@
 {}
 ---
 # Disinternment in the Wood
-Berenechea Bee-Eater's widely derided attempt at a text on Nyctodromy. "He's no Illopoly," Thirza Blake was said to have remarked as she departed the Haustorium.
+Berenechea Bee-Eater's widely derided attempt at a text on Nyctodromy. "He's no Illopoly," one reviewer wrote.
 ## I'm Reading...
 King Dapple-wing flies overhead, rustling the hairs of my head and urging me onward. But I scrounge instead in the roots, for those Moth-long who have been singed from the light, for those delectable morsels of Burgeoning Risen in whom I take my greatest delight.'
 ## I've Read...

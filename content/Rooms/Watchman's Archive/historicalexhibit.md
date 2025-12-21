@@ -19,6 +19,8 @@ Opening it will Expose:
 - [[a.crystallinecranium|Crystalline Cranium]]
 - [[a.huacoretratoenvenenado|Huaco Retrato Envenenado]]
 - [[a.tohohemsona|'Toho-Hemsona']]
+- [[a.thesplitmask|'The Split Mask']]
+- [[a.beetlewingrhyton|Beetlewing Rhyton]]
 - [[statue.liberator|'The Liberator Ascendant']]
 - [[beatrizs.chajcha|Beatriz's Chajcha]]
 - [[tumbaga.plate|Tumbaga Plate]]

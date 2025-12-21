@@ -8,7 +8,7 @@ For three hundred years, a grand succession of esteemed Know have attempted to r
 ## Proof of Knowledge (Locked)  
 These protections are fastidiously maintained by the faculty member who resides here. Undoing them is a futile task, but if I demonstrate sufficient skill, perhaps I will be invited in.  
 **Essential:** Skill  
-**Required:** 7 Scale, 7 Rose, 7 Winter  
+**Required:** 7 Scale, 7 Rose, 7 Edge  
   
 Opening it will Expose:  
 - [[menagerie|Menagerie]] 

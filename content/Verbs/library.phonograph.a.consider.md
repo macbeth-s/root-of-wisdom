@@ -6,11 +6,11 @@ tags:
 Listen and let the seeds of inspiration take root.<br>Location: [[sittingroom|Sitting-Room]]
 ## Slots
 ### Soul
-**Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Heart, Forge, Sky, Grail
+**Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Heart, Forge, Sky, Lantern
 ### Skill
-**Essential**: Skill<br>**Required**: Heart, Forge, Sky, Grail
+**Essential**: Skill<br>**Required**: Heart, Forge, Sky, Lantern
 ### Memory
-**Essential**: Memory<br>**Required**: Heart, Forge, Sky, Grail
+**Essential**: Memory<br>**Required**: Heart, Forge, Sky, Lantern
 ### Record
 **Required**: Phonograph Record<br>**Forbidden:** Fatigued
 ### +
