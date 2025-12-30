@@ -12,4 +12,4 @@ For centuries, the Kingdom persisted, until the Fourfold Realm arose. The Highmo
 - #Codex
 - #Readable
 - #Thing
-- 
+- [[wing.archive|Watchman's Archive]]
