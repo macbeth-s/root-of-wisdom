@@ -8,7 +8,7 @@ Despite the order's intense secrecy, extensive documentation from the Inquisitio
 ## Pentimento (Locked)  
 An unintended trace is lodged in the world's skin. The wound will rot and let Nowhere-energies (or worse) leak through, so I must seal it with the strongest colors of the Hours.  
 **Essential:** Pigment  
-**Required:** 4 Lantern, 4 Moon, 4 Scale, 4 Winter  
+**Required:** 4 Lantern, 4 Moon, 4 Scale
   
 Opening it will Expose:  
 - [[throneroom|Throne Room]]

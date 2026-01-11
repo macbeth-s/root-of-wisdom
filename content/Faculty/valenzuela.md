@@ -131,7 +131,7 @@ An archaeologist from far away. She has more in common with the fossils she exca
 <br>**Requirements:** valenzuela, ability, research 5, [[numen.spine|Numen: The Spine's Awakening]]
 <br>**Start Description:** 'In the era before scars, these mountains were seamless and their rulers were the dragons. There are fossils here in the Andes which never tasted Hour-flesh. Perhaps we ought make a reminder to the worms of what they once were. Let me teach you how to bring back a dragon; not any bone will do. You must find some flesh that still moves.'
 <br>**Research Aspect Description:** \[I assisted Valenzuela in fulfilling her work: bringing forth a mighty demonstration of the fossils beneath the mountains.]
-<br>**Effect:** [[remedy.valenzuela|Valenzuela's Remedy]], -1 valenzuela, [[x.awaken.relic|Lesson: Awaken a Relic]
+<br>**Effect:** [[remedy.valenzuela|Valenzuela's Remedy]], -1 valenzuela, [[x.awaken.relic|Lesson: Awaken a Relic]]
 <br>**Mutation Effect:** valenzuela -> +1 grateful
 ### Earning valenzuela's Respect
 `talk.faculty.success6.valenzuela.stone`
