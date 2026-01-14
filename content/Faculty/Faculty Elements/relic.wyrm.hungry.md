@@ -12,7 +12,5 @@ Satisfy this creature's appetite. \[Food will make a hungry beast, or a wild one
 - Sky 2
 - Scale 4
 - Edge 4
-- #EvolveviaHushery 
-- #EvolveviaPreservation 
 - #Beast 
 - #Comfort 

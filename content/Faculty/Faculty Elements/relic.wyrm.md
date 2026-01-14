@@ -10,8 +10,8 @@ Once, under a much lower sun, these were the humble nest-guards and trench-digge
 - Sky 2
 - Scale 4
 - Edge 4
-- #EvolveviaSkolekosophy 
-- #EvolveviaBosk 
+- #EvolveviaHushery
+- #EvolveviaPreservation
 - #Beast 
 - #Comfort 
 - #Cooperative 
