@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## History's Striving will Conclude
 <br>The riddles I received came from someone who is not. When the Scion descends upon the world, my Interlocutor will be revealed, and I will find my answers in their revelation.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## A Golden Resolution

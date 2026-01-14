@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## History's Striving will Conclude
 <br>When the stories of the Sun call forth Eternity, the path to its golden Glory will be enshrined in the heart of the Haustorium, where perfection finds its beginning and its end.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## A Glorious Shrine

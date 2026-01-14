@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## The Histories Will Unravel
 <br>This ailment cannot be destroyed, but it may be starved. When the Histories which feed it are undone by the abominations of relict-kind, it will find its end, and I shall suffer no more.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Painless

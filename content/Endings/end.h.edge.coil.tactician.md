@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## Safety through Strength
 <br>The direction of Death is down, and Nowhere lies Deathmost. Its rulers were assured their final victory for so long, but when History’s un-survivors act against them, I can learn how even Death is conquered.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## The First Wars

@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## Safety in the Shadows
 <br>This History is the culmination of labors, the fruit of my sacrifice. The Bounds shall snare Nowhere in their ways, and pull them behind the Mansus where their shadows lie long.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Beneath the Wheel

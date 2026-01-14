@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## The Law will be Transgressed
 <br>For so long, the Mansus has been barred from those who do not Know. But with the turning of this Key, the opening of the Door, its ways will be revealed for all to walk.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## The Trails of Knowledge

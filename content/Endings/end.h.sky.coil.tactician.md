@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## History's Striving will Subside
 <br>‘Power is Knowledge.’ Every war is a battle of truths. When these truths are tested by the first children of History, I will learn from them to be a herald of victory, the final arbiter of truth.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Conquering Truth

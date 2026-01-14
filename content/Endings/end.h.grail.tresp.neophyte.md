@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## The Law will be Defied
 <br>The forbidden things which creep into the world cannot be touched outside the Law. So a ceaseless Hour will commit a forgiven crime to become a monstrous guardian, protecting us from the monsters beyond.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## His Crimson Vigil

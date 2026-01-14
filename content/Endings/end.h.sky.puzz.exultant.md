@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## History's Striving will Subside
 <br>Before the gods-from-steel can be built, we must find for them a firm foundation. When the Histories are cast into the fires of the Glory, their enduring cornerstone will be found in the ashes.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Smoke to Light, Silver to Gold

@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## The Law will be Preserved
 <br>The riddles I received came from someone who is not. When the Scion emerges from humanity, I will find my Interlocutor at their birth. So long as I bring my questions, I will have my answers.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Riddles of Flesh

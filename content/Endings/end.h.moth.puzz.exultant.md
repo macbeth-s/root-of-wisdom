@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## Safety in the Light
 <br>The fuel for new Hours need not come from above. When the Hours of Nowhere are consumed by Glory, the gods-from-steel shall take their place.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Eyes of Gold

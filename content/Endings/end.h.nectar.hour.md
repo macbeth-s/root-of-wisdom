@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## A New History will be Rooted
 <br>This History is the culmination of my labors, the fruit of my sacrifice. The world before the world from which Stone came will be the fertile ground for a new History.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## The Next Wreath

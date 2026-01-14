@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## Safety in the Light
 <br>What I have longs for freedom in Light, but the sight of the Hours will destroy it. But in the Cuckoo’s Egg, it can dwell in light concealed in shadow, to hatch into its destined form… and to elevate my destiny beside it.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Born in Light

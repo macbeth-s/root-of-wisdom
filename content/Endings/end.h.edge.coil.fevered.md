@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## Safety through Strength
 <br>What ails me did not begin in the world, but in Nowhere. When the oldest soldiers rise against it, they will subjugate its invaders, even those within me.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## The First Cures

@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## The Law will be Transgressed
 <br>It is said the truth lives in light and lies die in darkness. But what happens when the shadow of death stretches all the way to Glory? In this History, I will learn the answer, and find what I most desire.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Kingdom of Colors

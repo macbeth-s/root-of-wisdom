@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## The Law will be Remade
 <br>What I brought will be killed should the Hours know of it. But when one can return to life from death, what reason is there to fear it? It will go free in the Wake and the Mansus, and I will be at its side, a hunter at home.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Flight of Freedom

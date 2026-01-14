@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## The Law will be Remade
 <br>This History is the culmination of my labors, the fruit of my sacrifice. The Law has wronged so many, so the fangs and talons of its victims shall carve out due recompense from their tormentors.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Our Time

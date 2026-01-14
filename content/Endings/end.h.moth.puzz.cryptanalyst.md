@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## Safety in the Light
 <br>My Interlocutor whispered riddles of light and darkness, absence and substance. When Nowhere enters the Glory, I will have my answer; and I will receive one in return.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Moonlit Whispers

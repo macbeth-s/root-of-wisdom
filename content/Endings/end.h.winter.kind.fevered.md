@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## The Histories Will Unravel
 <br>This disease will someday consume my entire being, so I shall consign myself early to Nowhere to find my peaceful and painless sleep.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## A Slumber Silver

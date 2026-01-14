@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## A New History will be Rooted
 <br>Perhaps my disease has no cure, but in this mortal History, I can find a fulfilling end and warm welcome into a new Threshold, assured my life shall persist beyond me.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## The Recourse of Life

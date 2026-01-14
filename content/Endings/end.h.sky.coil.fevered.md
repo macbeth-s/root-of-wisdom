@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## History's Striving will Subside
 <br>‘To every serpent, its cure.’ My affliction reached me from the rot of another History. If all but one are purged, I will find my cure… or receive a painless rest.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Night Waves

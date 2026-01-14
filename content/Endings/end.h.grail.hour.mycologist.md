@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## The Law will be Defied
 <br>To become an alukite is to die in the eyes of the Law. But if its bearers were to become as such, they might live yet again - and become the living exceptions I seek.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Return in Resplendence

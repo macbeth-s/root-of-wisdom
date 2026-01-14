@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## The Law will be Preserved
 <br>Every battle trains us for the next, so our weapons must protect the foundation of our world. The many roads to victory will be guarded, and I will discern the greatest amongst them.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## War's Culmination

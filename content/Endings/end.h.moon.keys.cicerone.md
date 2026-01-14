@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## Safety in the Shadows
 <br>Every mountain in our world is but a reflection of the Mansus. So when the House of the Moon, the Mansus-shadow, opens in its entirety, we will come to know its ways.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## The Journey of Night

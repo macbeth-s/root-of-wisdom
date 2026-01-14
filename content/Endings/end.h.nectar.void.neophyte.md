@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## A New History will be Rooted
 <br>With the monstrous gods below and the callous gods above, we must search in the Bounds between. There, the new Threshold will arise, where we mortals can find a true sanctuary.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## The Recourse of Thorns

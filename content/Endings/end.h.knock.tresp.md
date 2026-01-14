@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## The Law will be Transgressed
 <br>This History is the culmination of my labors, the fruit of my sacrifice. The Doors will not stop humanity’s passage into the Mansus, and our encroachment into its highest chambers will be exonerated.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## The First and the Last

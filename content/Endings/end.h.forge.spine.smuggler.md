@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## The Law will be Remade
 <br>If my companion has no place in the Law, then I must carve out a place for them. When its fossilized foundation stirs once more, I will find my chance to secure their seat of honor… and my own.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## A Reclaimed Foundation

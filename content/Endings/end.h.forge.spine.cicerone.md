@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## The Law will be Remade
 <br>The first mountain was not raised in the Wake. When the bones of the World-Spine stir, its shape will be exposed - the truths in its reflections made plain for all to see.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## An Open Foundation

@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## There will be Seven Histories
 <br>The Lost Histories are buried in darkness and silence, but when we tell their stories once more, they will arise from the depths of the Haustorium. The truths they revive will be the legacy I seek to leave.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Stories Unending

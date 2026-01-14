@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## Nowhere will be Somewhere
 <br>How can Stone come to live? The gods-who-were-stone are gone or taciturn, but when the gods-from-Nowhere find its home, I will have my answers. \[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Life's Answers

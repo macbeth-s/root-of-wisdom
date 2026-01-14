@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## The Law will be Preserved
 <br>The Hours' contentions over the Law leave wounds in their wake, through which Nowhere passes gleefully. Only in the Bounds can the Law remain unsundered. Let darkness mar the world no more.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Labyrinth of Limits

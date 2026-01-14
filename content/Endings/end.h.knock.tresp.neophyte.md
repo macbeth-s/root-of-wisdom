@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## The Law will be Transgressed
 <br>No one is safe from forbidden things outside the fortress of the Mansus. Humanity must pass its Doors to find true safety, for our only sanctuary free from the world’s dangers lies in Dream.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Sanctum of Dream

@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## The Histories Will Unravel
 <br>This History is the culmination of my labors, the fruit of my sacrifice. The world will forget the cruel knowledge of existence and fall to Nowhere, in the kindness of ignorance.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Softest Slumber

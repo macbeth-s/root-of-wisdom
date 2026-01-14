@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## There will be Seven Histories
 <br>My companion should be dead, lying with the gods-from-stone. When their remnants reawaken, so too will the Histories where my companion is alive and free, free to roam the world once more.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Vault of Bones

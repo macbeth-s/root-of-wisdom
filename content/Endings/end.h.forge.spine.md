@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## The Law will be Remade
 <br>This History is the culmination of labors, the fruit of my sacrifice. The bones will stir and fracture the Law, and from its remains will we make our own.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## A Broken Foundation

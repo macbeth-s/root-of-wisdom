@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## Safety in the Shadows
 <br>While Nowhere remains unbounded, its reach cannot be escaped. So I will confine it in the Bounds of the shadow of the Mansus. There, it may always follow us, but never again shall its touch torment us.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Darkness Withdraws

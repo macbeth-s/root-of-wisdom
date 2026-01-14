@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## The Law will be Defied
 <br>What I have brought is not safe in the Hours’ sight. So I shall set it free beneath the branches of an Hour on the other side of the Law. It will consume me, but once it does, we will be together; we will be free.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## A Succulent Land

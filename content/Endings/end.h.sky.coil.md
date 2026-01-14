@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## History's Striving will Subside
 <br>This History is the culmination of my labors, the fruit of my sacrifice. When an Hour of opportunity claims the unruled throne, its subjects will wrest out the falsehoods of Time until only one Truth remains.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Songs of the Shore

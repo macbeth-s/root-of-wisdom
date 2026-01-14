@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## Nowhere will be Somewhere
 <br>When the gods-from-Nowhere take the path to their old-new home, their journey shall begin at the Haustorium, its halls forever marked with this long-lost knowledge.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Ascent Towards Wisdom

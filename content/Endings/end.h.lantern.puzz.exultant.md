@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## History's Striving will Conclude
 <br>As others ascend to the Glory, new beings shall arise from Light to replace them - the perfected gods-from-steel.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## The Watchman's Lesson

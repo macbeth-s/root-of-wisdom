@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## The Law will be Preserved
 <br>The sickness pulls my body in twain, between what I was and what it seeks to make me. When the Bounds take up the weight of the Law, I will learn to persist in the space between both, and all of me will be one.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Labyrinth of Life

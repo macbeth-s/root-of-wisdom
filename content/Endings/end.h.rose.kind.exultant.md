@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## Nowhere will be Somewhere
 <br>The denizens of Nowhere will kindly carry the memories of everything lost beyond our sight. But we will have no need for them. All we will ever need and know is the constancy of steel.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## A Night of Steel

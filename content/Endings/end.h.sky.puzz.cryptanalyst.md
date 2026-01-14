@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## History's Striving will Subside
 <br>The riddles of my Interlocutor are a question with a thousand pasts. If the Glory scorches away the false and leaves the true, the shape of my question will appear - and in it, my final answer.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## A Wingless Flight

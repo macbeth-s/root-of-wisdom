@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## The Histories Will Unravel
 <br>The riddles I received came from someone who is not. It is impossible for them to be answered, but when the Scion arrives, my Interlocutor will teach me to find a world where those answers exist.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Light in Darkness

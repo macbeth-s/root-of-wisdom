@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## Nowhere will be Somewhere
 <br>This History is the culmination of labors, the fruit of my sacrifice. The bones will rise and stretch upward, and the denizens of Nowhere will climb them to Somewhere beyond.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## A Rising Road

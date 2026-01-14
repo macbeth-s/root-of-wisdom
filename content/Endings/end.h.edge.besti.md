@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## Safety through Strength
 <br>This History is the culmination of my labors, the fruit of my sacrifice. The monsters of our world will wield their fangs and talons against the monsters of Nowhere, destroying each of their intrusions.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Bed of Beasts

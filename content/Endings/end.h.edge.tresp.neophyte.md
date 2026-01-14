@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## Safety through Strength
 <br>The real Hours cannot cross the threshold to Nowhere, but its inhabitants can, safe in its refuge. An Hour of cunning will violate that boundary first to keep the enemies of existence from ever crossing it again.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## The Necessary Conquest

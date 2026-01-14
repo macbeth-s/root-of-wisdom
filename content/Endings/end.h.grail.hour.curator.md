@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## The Law will be Defied
 <br>The Haustorium will be graced with the newly-found forms of newly-changed Hours, unifying the sacred and the profane in beauteous knowledge.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## The Fruits of Knowledge

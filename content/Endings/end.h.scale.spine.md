@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## There will be Seven Histories
 <br>This History is the culmination of labors, the fruit of my sacrifice. The bones will wake and leave their tombs to let the roots of uprooted Histories find new soil.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Bed of Bones

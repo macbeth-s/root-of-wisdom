@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## History's Striving will Conclude
 <br>I am not the first to whom my Interlocutor spoke, but I may be the first to understand. In this History, guided by lost light, I will answer their desperate message.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## The Watchman's Mercy

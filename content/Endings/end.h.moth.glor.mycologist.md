@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## Safety in the Light
 <br>In the Glory, we may find our truth and our end. When Nowhere is touched by its Light, it will move beyond life and death, and we will know how to follow. \[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## Persistance

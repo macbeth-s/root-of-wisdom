@@ -1,3 +1,6 @@
+---
+tags: Ending
+---
 ## Nowhere will be Somewhere
 <br>This History is the culmination of my labors, the fruit of my sacrifice. The world will forget Nowhere, or Nowhere forget the world; and so Nowhere will move on to a world beyond us.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
 ## A Night of Peace
