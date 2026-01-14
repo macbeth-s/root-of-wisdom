@@ -9,4 +9,4 @@ Valenzuela says that flesh never forgets the shape of its ancestors. \[Consider 
 **Requirements:** x.awaken.relic, s.resurgences.emergences or [[s.fangs.fossils]] or s.coil.chasm or s.insects.nectars <br>
 **Start Description:** <br>
 **Description:** <br>
-**Effect:** -1 x.awaken.relic, add [technique.awaken.relic] to the skill
+**Effect:** -1 x.awaken.relic, add [[technique.awaken.relic|Technique: Awaken a Relic]] to the skill
