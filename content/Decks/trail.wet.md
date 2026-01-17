@@ -13,6 +13,7 @@ Unexpected gifts from the mountains and their many paths.
 | [[dog.wild\|Wild Chiribaya Dog]]                                              | 1        |
 | [[cherimoya\|Cherimoya]]                                                      | 3        |
 | [Animal Bones](https://uadaf.theevilroot.xyz/rowenarium/element/animal.bones) | 2        |
-| [Earth-Sign](https://uadaf.theevilroot.xyz/rowenarium/element/earthsign)      | 2        |
+| [Earth-Sign](https://uadaf.theevilroot.xyz/rowenarium/element/earthsign)      | 1        |
+| [[slab.limestone\|Limestone Slab]]                                            | 2        |
 
 

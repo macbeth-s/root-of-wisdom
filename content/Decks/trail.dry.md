@@ -14,4 +14,5 @@ Unexpected gifts from the mountains and their many paths.
 | [Abandoned Luggage](https://uadaf.theevilroot.xyz/rowenarium/element/abandoned.luggage) | 1        |
 | [Forsaken Packages](https://uadaf.theevilroot.xyz/rowenarium/element/packages.forsaken) | 1        |
 | [[llama.wild\|Wild Llama]]                                                              | 1        |
+| [[slab.limestone\|Limestone Slab]]                                                      | 2        |
 

@@ -2,7 +2,7 @@
 tags: NobleRetreat
 ---
 # Curicuillorian Room
-Leonor Curicuilor's entourage of soldiers, servants, and savants were among the mightiest Adepts of the Fourfold Realm. Among their ranks were Nyctodromists, Ithasts, Moth-Long, Heart-long, and Grail-long, but mightiest of all was Leonor herself, whose commerce with the Twins and knowledge of the Arts Unregarded shaped the Haustorium irrevocably, despite the fact that she operated from here a mere twenty years before falling to her death. 
+Leonor Curicuilor's entourage of soldiers, servants, and savants were among the mightiest Adepts of the Fourfold Realm. Among their ranks were Nyctodromists, Ithasts, Moth-Adepts, Heart-Adepts, and Grail-Adepts, but mightiest of all was Leonor herself, whose commerce with the Twins and knowledge of the Arts Unregarded shaped the Haustorium irrevocably, despite the fact that she operated from here a mere twenty years before falling to her death. 
 ## Moonlit Hair (Locked)
 Pearlescent strands grow across the floor, curl up the walls, consume the ceiling. Cutting them away won't be enough, not without the right incantations.
 **Essential:** Assistance
