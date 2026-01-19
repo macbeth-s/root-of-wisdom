@@ -1,3 +1,7 @@
+---
+tags:
+  - aspect
+---
 # Technique: Awaken a Relic
 Valenzuela says that flesh never forgets the shape of its ancestors. \[Use this skill in a workstation with a living relic and Serpent-Milk to transform the relic into something it once was.]
 ## Recipes

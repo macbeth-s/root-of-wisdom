@@ -9,5 +9,6 @@ When this hatched, Dahlmann muttered that it was called a <i>Kallikantzaros</i>.
 - Moth 3
 - #Comfort
 - #Beast
+- #Cooperative
 ## Talk
 TBD
