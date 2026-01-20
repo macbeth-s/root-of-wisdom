@@ -7,6 +7,6 @@ Valenzuela says that flesh never forgets the shape of its ancestors. \[Consider 
 ## Recipes
 ### Sharpen my Knowledge
 **Requirements:** x.awaken.relic, s.resurgences.emergences or [[s.fangs.fossils]] or s.coil.chasm or s.insects.nectars <br>
-**Start Description:** Valenzuela has taught me to <br>
-**Description:** <br>
+**Start Description:** Valenzuela has taught me to cultivate flesh towards its older nature.<br>
+**Description:** With proper nourishment, something old can be older still. \[Your skill has a new aspect.]<br>
 **Effect:** -1 x.awaken.relic, add [[technique.awaken.relic|Technique: Awaken a Relic]] to the skill

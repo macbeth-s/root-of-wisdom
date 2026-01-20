@@ -10,3 +10,4 @@ tags:
 <p style="text-align: center;">– Cesar Vallejo, 1892 - 1938, from '<i>Sabiduría</i>'. <br>
 
 <p style="text-align: center;"><i>[You have completed a hidden ending. You may never understand, but the Librarian does.]</i></p>
+**Tarot:** Ace of Swords
