@@ -1,0 +1,9 @@
+## The Dottore's Address
+25 Piazza Metabo, Velletri, Lazio... \[If you are stupid–or maybe just very dedicated to your work–you may invite Dottore Robigo to the Haustorium outside of his normal visits during Camai Quilla. He will answer only to the most obsequious of letters written in certain <i>encaustum terminale.</i>]
+## Recipes
+### Invite Robigo, Reminiscent
+`write.summon.robigo.reminiscent` <br>**Requirements:** [[wc|Writing-Case]], [[nillycant|Nillycant]], 20 Winter, blank <br>**Start Description:** I have summoned the mightiest powers of winter so that I might discuss the memories of a Name of the Crowned Growth. <br>**Description:** I still have time to think about if this is wise before I post it. <br>**Effect:** -1 nillycant, Request the Dottore's Presence
+### Invite Robigo, Munificent
+`write.summon.robigo.munificent` <br>**Requirements:** [[wc|Writing-Case]], [[orpiment.exultant|Orpiment Exultant]], 20 Heart, blank <br>**Start Description:** Enticed by the beating of my eager flesh, I may be ingratiated enough with the Protector for her to bring me gifts.<br>**Description:** I still have time to think about if this is wise before I post it. <br>**Effect:** -1 orpiment.exultant, Request the Dottore's Presence
+### Invite Robigo, Symbiotic
+`write.summon.robigo.symbiotic` <br>**Requirements:** [[wc|Writing-Case]], [[marakat|Marakat]], 20 Grail, blank <br>**Start Description:** The Grail's enticements can lure the Dottore into doing me a kindness. <br>**Description:** I still have time to think about if this is wise before I post it. <br>**Effect:** -1 marakat, Request the Dottore's Presence
