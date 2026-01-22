@@ -8,3 +8,4 @@ This is your last best chance to squash it.<br>**Effect:** [Memory: Touch](https
 - #Egg
 - #Sustenance 
 - #Thing
+Hatch into [[piranha.hungry|Hungry Piranha]]

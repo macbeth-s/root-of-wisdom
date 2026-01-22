@@ -13,4 +13,4 @@ Fet is the dream-self, tied by the silver cord to one’s wist, which holds the 
 - #Codex
 - #Readable
 - #Thing
-- Watchman's Archive
+- [[wing.archive|Watchman's Archive]]

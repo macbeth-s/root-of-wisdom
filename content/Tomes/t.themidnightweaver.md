@@ -13,4 +13,4 @@ The Bird-Eaters debate what sacrifice may truly open the Wrong Door. They surmis
 - #Codex
 - #Readable
 - #Thing
-- Frustum
+- [[wing.frustum|Frustum]]

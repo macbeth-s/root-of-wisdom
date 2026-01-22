@@ -13,4 +13,4 @@ Successive rectors have modified it over the years. Initial changes emphasize th
 - #Codex
 - #Readable
 - #Thing
-- Colegio de Santa Potenciana
+- [[wing.colegio|Colegio de Santa Potenciana]]

@@ -9,8 +9,8 @@ The utmost nature of Iotic Essence can come forth when sustained with sufficient
 ## Aspects
 - Mystery: Heart 14
 - [Written in Sabazine](https://uadaf.theevilroot.xyz/rowenarium/element/w.sabazine)
-- Subject: Fermentation & Sustentation
+- Subject: [[s.fermentation.sustentation|Fermentation & Sustentation]]
 - #Codex
 - #Readable
 - #Thing
-- Unmade Cathedral
+- [[wing.cathedral|Unmade Cathedral]]

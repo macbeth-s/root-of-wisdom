@@ -13,4 +13,4 @@ The Witch rules the Gull-Isles for a century as the Righteous Province, but in t
 - #Codex
 - #Readable
 - #Thing
-- Noble Retreat
+- [[wing.retreat|Noble Retreat]]

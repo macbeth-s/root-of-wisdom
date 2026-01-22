@@ -1,7 +1,18 @@
 ---
 tags: Ending
 ---
+
+**Requirements:**
+- Journal
+- Ability
+- History: Moon
+- [[numen.stone|Numen: The Traveling Stones]]
+- [[world.tree.paper|Paper Tree]]
+
 ## Safety in the Shadows
-<br>So many have passed through the Haustorium, and left only their stories behind. When their shadows cross these ancient walls again, those stories will live once more.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
-## Wisdom from Folly
-<br>The Haustorium has devoured many souls, but their stories remain - living by the Vagabond’s words, as with the Egg’s. Whether lost to Nowhere or in the Wood or across the Wake, these silent ones will return as gentler shadows to offer the lessons only learnt in death. No matter the darkness of the past, therein lies kindled wisdom for the future. \[You have shaped the Histories; set a stone in their foundation; reached a destination; finished the game. The roots of the world run ever deeper. Please accept our congratulations.] <br>**Tarot:** Justice
+So many have passed through the Haustorium, and left only their stories behind. When their shadows cross these ancient walls again, those stories will live once more.
+
+# Wisdom from Folly
+The Haustorium has devoured many souls, but their stories remain - living by the Vagabond’s words, as with the Egg’s. Whether lost to Nowhere or in the Wood or across the Wake, these silent ones will return as gentler shadows to offer the lessons only learnt in death. No matter the darkness of the past, therein lies kindled wisdom for the future. \[You have shaped the Histories; set a stone in their foundation; reached a destination; finished the game. The roots of the world run ever deeper. Please accept our congratulations.]
+
+**Tarot:** Justice

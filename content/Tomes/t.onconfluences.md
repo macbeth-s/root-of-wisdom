@@ -13,4 +13,4 @@ Before the Seven-Coiled was slain, peoples rose and fell according to its design
 - #Codex
 - #Readable
 - #Thing
-- Substructure
+- [[wing.substructure|Substructure]]

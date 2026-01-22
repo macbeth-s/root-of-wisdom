@@ -9,8 +9,8 @@ Lopez focuses on one particular phrase: ‘the Egg is a Stone, the Sun is a Jewe
 ## Aspects
 - Mystery: Lantern 12
 - [Written in ](https://uadaf.theevilroot.xyz/rowenarium/element/w.)
-- Subject: Sacra Tetrarcharum
+- Subject: [[s.sacratetrarcharum|Sacra Tetrarcharum]]
 - #Codex
 - #Readable
 - #Thing
-- Colegio de Santa Potenciana
+- [[wing.colegio|Colegio de Santa Potenciana]]

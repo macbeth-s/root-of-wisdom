@@ -13,4 +13,4 @@ Cipagauta witnesses the Tarantellists beat their instruments to conjure an echo 
 - #Codex
 - #Readable
 - #Thing
-- L'ostello del Dottore
+- [[wing.ostello|L'Ostello del Dottore]]

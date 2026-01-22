@@ -8,9 +8,8 @@ Prophesying the arrival of invaders from the East, Tumé reveals the existence o
 **Mastery:** [Lesson: Fangs & Fossils](https://uadaf.theevilroot.xyz/rowenarium/element/x.fangs.fossils) x1
 ## Aspects
 - Mystery: Scale 4
-- [Written in ](https://uadaf.theevilroot.xyz/rowenarium/element/w.)
-- Subject: Fangs & Fossils
+- Subject: [[s.fangs.fossils|Fangs & Fossils]]
 - #Codex
 - #Readable
 - #Thing
-- Colegio de Santa Potenciana
+- [[wing.colegio|Colegio de Santa Potenciana]]

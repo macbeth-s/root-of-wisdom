@@ -5,7 +5,7 @@ As a servant of the Sight-Thief, Olleta is charged with walking the ways others 
 ## I've Read...
 ‘Mortals were not permitted in the House before gods arose from flesh. But though the Law of the Hours is unyielding, it is not absolute. For every proper Way into Dream allows an improper Way as well: in the deepest waters, in the tangled roots, in the highest mountains, in the bowing skies…’
 **Effect:** [Memory: Gossip](https://uadaf.theevilroot.xyz/rowenarium/element/mem.gossip) <br> 
-**Mastery:** [Lesson: Sacra Tetrarcharum](https://uadaf.theevilroot.xyz/rowenarium/element/x.sacratetrarcharum) x2
+**Mastery:** Lesson: [[s.sacratetrarcharum|Sacra Tetrarcharum]] x2
 ## Aspects
 - Mystery: Rose 10
 - [Written in Sabazine](https://uadaf.theevilroot.xyz/rowenarium/element/w.sabazine)
@@ -13,4 +13,4 @@ As a servant of the Sight-Thief, Olleta is charged with walking the ways others 
 - #Codex
 - #Readable
 - #Thing
-- L'ostello del Dottore
+- [[wing.ostello|L'Ostello del Dottore]]

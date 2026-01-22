@@ -13,4 +13,4 @@ Beatriz Huaylas contends that the existence of Edge predates the ascension of th
 - #Codex
 - #Readable
 - #Thing
-- Unmade Cathedral
+- [[wing.cathedral|Unmade Cathedral]]

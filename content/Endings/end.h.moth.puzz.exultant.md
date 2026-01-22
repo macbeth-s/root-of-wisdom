@@ -1,7 +1,18 @@
 ---
 tags: Ending
 ---
+
+**Requirements:**
+- Journal
+- Ability
+- History: Moth
+- [[numen.puzz|Numen: Penultimate Puzzle]]
+- [[world.tree.paper|Paper Tree]]
+
 ## Safety in the Light
-<br>The fuel for new Hours need not come from above. When the Hours of Nowhere are consumed by Glory, the gods-from-steel shall take their place.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
-## Eyes of Gold
-<br>‘What is not seen?’ Darkness may voyage across the world’s skin, but if we carve our eyes gold, we need not know that darkness. Beneath the earth, the requisite tools are forged. As the gods-from-Nowhere go above, the gods-from-steel ascend from below. My eyes are open to the touch of their static hands. They will blind me, but who needs sight when we can walk by the relentless radiance of their fires? \[You have shaped the Histories; set a stone in their foundation; reached a destination; finished the game. The roots of the world run ever deeper. Please accept our congratulations.] <br>**Tarot:** High Priestess
+The fuel for new Hours need not come from above. When the Hours of Nowhere are consumed by Glory, the gods-from-steel shall take their place.
+
+# Eyes of Gold
+‘What is not seen?’ Darkness may voyage across the world’s skin, but if we carve our eyes gold, we need not know that darkness. Beneath the earth, the requisite tools are forged. As the gods-from-Nowhere go above, the gods-from-steel ascend from below. My eyes are open to the touch of their static hands. They will blind me, but who needs sight when we can walk by the relentless radiance of their fires?
+
+**Tarot:** High Priestess

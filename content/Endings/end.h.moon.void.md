@@ -1,7 +1,18 @@
 ---
 tags: Ending
 ---
+
+**Requirements:**
+- Journal
+- Ability
+- History: Moon
+- [[numen.void|Numen: The Void Between]]
+- [[world.tree.paper|Paper Tree]]
+
 ## Safety in the Shadows
-<br>This History is the culmination of labors, the fruit of my sacrifice. The Bounds shall snare Nowhere in their ways, and pull them behind the Mansus where their shadows lie long.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
-## Beneath the Wheel
-<br>The labyrinths of the Bounds stand always stand between, and even Nowhere takes care to traverse them. In the space between moonset and dawn, where the Bounds meet the House of the Moon, they will ensnare Nowhere in their corridors, to walk forever beneath the turning Wheel. \[You have shaped the Histories; set a stone in their foundation; reached a destination; finished the game. The roots of the world run ever deeper. Please accept our congratulations.] <br>**Tarot:** Justice
+This History is the culmination of labors, the fruit of my sacrifice. The Bounds shall snare Nowhere in their ways, and pull them behind the Mansus where their shadows lie long.
+
+# Beneath the Wheel
+The labyrinths of the Bounds stand always stand between, and even Nowhere takes care to traverse them. In the space between moonset and dawn, where the Bounds meet the House of the Moon, they will ensnare Nowhere in their corridors, to walk forever beneath the turning Wheel. \[You have shaped the Histories; set a stone in their foundation; reached a destination; finished the game. The roots of the world run ever deeper. Please accept our congratulations.]
+
+**Tarot:** Justice

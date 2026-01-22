@@ -13,4 +13,4 @@ Dolores del Oeste, a Curicuillorian interpreter and scribe, writes about the enm
 - #Codex
 - #Readable
 - #Thing
-- Noble Retreat
+- [[wing.retreat|Noble Retreat]]

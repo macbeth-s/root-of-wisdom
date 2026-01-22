@@ -13,4 +13,4 @@ When a woman in their care died in childbirth, the Cuetlaxtlapatl ferried her bo
 - #Codex
 - #Readable
 - #Thing
-- Noble Retreat
+- [[wing.retreat|Noble Retreat]]

@@ -9,8 +9,8 @@ Lucero makes careful mention of the Hour she calls the Moonroot - known elsewher
 ## Aspects
 - Mystery: Grail 16
 - [Written in Quechua](https://uadaf.theevilroot.xyz/rowenarium/element/w.quechua)
-- Subject: Fermentation & Sustentation
+- Subject: [[s.fermentation.sustentation|Fermentation & Sustentation]]
 - #Codex
 - #Readable
 - #Thing
-- Noble Retreat
+- [[wing.retreat|Noble Retreat]]

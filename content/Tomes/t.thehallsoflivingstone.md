@@ -9,8 +9,8 @@ The Bounds tend to lie at the edges of the world, not necessarily remote, but ra
 ## Aspects
 - Mystery: Knock 14
 - [Written in Hyksos](https://uadaf.theevilroot.xyz/rowenarium/element/w.hyksos)
-- Subject: Abjurations & Limitations
+- Subject: [[s.abjurations.limitations|Abjurations & Limitations]]
 - #Codex
 - #Readable
 - #Thing
-- Colegio de Santa Potenciana
+- [[wing.colegio|Colegio de Santa Potenciana]]

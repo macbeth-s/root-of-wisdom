@@ -13,4 +13,4 @@ Vara relates traditions from the Fourfold Realm of the Highmost Prince donning c
 - #Codex
 - #Readable
 - #Thing
-- Frustum
+- [[wing.frustum|Frustum]]

@@ -13,4 +13,4 @@ The author prizes the Flowermaker-long as the most succulent of immortals, whose
 - #Codex
 - #Readable
 - #Thing
-- Substructure
+- [[wing.substructure|Substructure]]

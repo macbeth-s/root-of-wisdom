@@ -13,4 +13,4 @@ A tome of dream-lore sourced from the Upper Princes of the Second Dynasty, who f
 - #Codex
 - #Readable
 - #Thing
-- Noble Retreat
+- [[wing.retreat|Noble Retreat]]

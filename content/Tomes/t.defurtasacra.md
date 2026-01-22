@@ -13,4 +13,4 @@ Gabriela Ber’s historical survey of various ‘holy thefts’ - that is, the a
 - #Codex
 - #Readable
 - #Thing
-- Frustum
+- [[wing.frustum|Frustum]]

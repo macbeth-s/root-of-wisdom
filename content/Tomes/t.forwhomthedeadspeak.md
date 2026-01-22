@@ -13,4 +13,4 @@ Quaresma distinguishes between the ‘rapacious cannibalism’ of the Grail and 
 - #Codex
 - #Readable
 - #Thing
-- Frustum
+- [[wing.frustum|Frustum]]

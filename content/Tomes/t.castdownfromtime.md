@@ -13,4 +13,4 @@ Three Hours were banished by their peers, with memories of them and even the rea
 - #Codex
 - #Readable
 - #Thing
-- Unmade Cathedral
+- [[wing.cathedral|Unmade Cathedral]]

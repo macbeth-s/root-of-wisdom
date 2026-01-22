@@ -13,4 +13,4 @@ Trinidad touches on Moth-long who ascend via the Old Form, taking on attributes 
 - #Codex
 - #Readable
 - #Thing
-- L'ostello del Dottore
+- [[wing.ostello|L'Ostello del Dottore]]

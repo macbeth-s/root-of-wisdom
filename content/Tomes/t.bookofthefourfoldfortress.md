@@ -9,8 +9,8 @@ A tome of dream-lore sourced from each of the Highmost Princes who ruled the Fou
 ## Aspects
 - Mystery: Knock 
 - [Written in Killasimi](https://uadaf.theevilroot.xyz/rowenarium/element/w.killasimi)
-- Subject: Abjurations & Limitations
+- Subject: [[s.abjurations.limitations|Abjurations & Limitations]]
 - #Codex
 - #Readable
 - #Thing
-- Noble Retreat
+- [[wing.retreat|Noble Retreat]]

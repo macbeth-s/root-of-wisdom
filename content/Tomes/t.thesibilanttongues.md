@@ -13,4 +13,4 @@ Shohei discusses those languages which are spirits, delivered from or created in
 - #Codex
 - #Readable
 - #Thing
-- Skolex Menagerie
+- [[wing.menagerie|Skolex Menagerie]]

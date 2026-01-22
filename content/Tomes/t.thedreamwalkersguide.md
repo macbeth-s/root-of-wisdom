@@ -8,8 +8,8 @@ A primer on the place behind the world on which the world itself depends, record
 **Mastery:** [Lesson: Transcendence & Ascendance](https://uadaf.theevilroot.xyz/rowenarium/element/x.transcendence.ascendance) x2
 ## Aspects
 - Mystery: Lantern 12
-- Subject: Transcendence & Ascendance
+- Subject: [[s.transcendence.ascendance|Transcendence & Ascendance]]
 - #Codex
 - #Readable
 - #Thing
-- Substructure
+- [[wing.substructure|Substructure]]

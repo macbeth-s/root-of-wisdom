@@ -13,4 +13,4 @@ Shuña does not know why the Company Anchorite would seek Janus, nor is she cert
 - #Codex
 - #Readable
 - #Thing
-- Noble Retreat
+- [[wing.retreat|Noble Retreat]]

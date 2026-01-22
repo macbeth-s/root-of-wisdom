@@ -13,4 +13,4 @@ The Valiant enters the Wood seeking the assistance of untoward powers. The fire 
 - #Codex
 - #Readable
 - #Thing
-- Unmade Cathedral
+- [[wing.cathedral|Unmade Cathedral]]

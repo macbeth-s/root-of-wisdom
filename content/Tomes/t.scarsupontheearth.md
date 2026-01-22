@@ -8,9 +8,8 @@ Pavel Shulga, soldier of fortune and military scholar, discourses on the means b
 **Mastery:** [Lesson: Disciplines of the Scar](https://uadaf.theevilroot.xyz/rowenarium/element/x.disciplinesofthescar) x2
 ## Aspects
 - Mystery: Lantern 8
-- [Written in ](https://uadaf.theevilroot.xyz/rowenarium/element/w.)
 - Subject: Disciplines of the Scar
 - #Codex
 - #Readable
 - #Thing
-- Unmade Cathedral
+- [[wing.cathedral|Unmade Cathedral]]

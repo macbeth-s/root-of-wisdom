@@ -8,9 +8,8 @@ Tuponotanga bound the intrusion in ‘a spire-spine’ to prevent more drastic i
 **Mastery:** [Lesson: Path & Pilgrim](https://uadaf.theevilroot.xyz/rowenarium/element/x.path.pilgrim) x2
 ## Aspects
 - Mystery: Scale 10
-- [Written in ](https://uadaf.theevilroot.xyz/rowenarium/element/w.)
 - Subject: Path & Pilgrim
 - #Codex
 - #Readable
 - #Thing
-- L'ostello del Dottore
+- [[wing.ostello|L'Ostello del Dottore]]

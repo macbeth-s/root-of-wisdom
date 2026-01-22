@@ -9,8 +9,8 @@ Arrettrez claims the Rising Spider to be a beneficiary or even a collaborator of
 ## Aspects
 - Mystery: Moon 16
 - [Written in Phrygian](https://uadaf.theevilroot.xyz/rowenarium/element/w.phrygian)
-- Subject: Meontological Glimpses
+- Subject: [[s.meontologicalglimpses|Meontological Glimpses]]
 - #Codex
 - #Readable
 - #Thing
-- Colegio de Santa Potenciana
+- [[wing.colegio|Colegio de Santa Potenciana]]

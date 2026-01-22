@@ -41,7 +41,7 @@ Once a well-respected curator of a much better-respected library. Now a blind ma
 <br>**Requirements:** Talk, dahlmann, ability, [secret.threshold](https://uadaf.theevilroot.xyz/rowenarium/element/secret.threshold)
 <br>**Start Description:** Knowledge is stored here unwisely, but it is certainly more accessible than where I studied before. The Labyrinth of Lions was always circumspitious in matters of Knock. How ironic the enlightenment I sought was found in a dark place such as this.'
 <br>**Research Aspect Description:** \[I provided Dahlmann the means to find 'a certain Door' and learnt of his previous position at the Labyrinth of Lions.]
-<br>**Effect:** permission.dahlmann
+<br>**Effect:** [[permission.dahlmann|Dahlmann's Permission]]
 <br> **Mutation Effect:** dahlmann -> +1 research1
 
 ### Assisting Dahlmann
@@ -49,7 +49,7 @@ Once a well-respected curator of a much better-respected library. Now a blind ma
 <br>**Requirements:** Talk, dahlmann, ability, [[sclerotia.divina]]
 <br>**Start Description:** Knowledge is stored here unwisely, but it is certainly more accessible than where I studied before. The Labyrinth of Lions was always circumspitious with using those tools of learning closer to Nowhere. How ironic the enlightenment I sought was found in a dark place such as this.'
 <br>**Research Aspect Description:** \[I provided Dahlmann the means to find 'a certain Door' and learnt of his previous position at the Labyrinth of Lions.]
-<br>**Effect:** permission.dahlmann
+<br>**Effect:** [[permission.dahlmann|Dahlmann's Permission]]
 <br> **Mutation Effect:** dahlmann -> +1 research1
 
 ### Assisting Dahlmann
@@ -139,7 +139,7 @@ Once a well-respected curator of a much better-respected library. Now a blind ma
 ### Assisting Dahlmann
 `talk.faculty.success5.dahlmann.gossamerglimpse`
 <br>**Requirements:** Talk, dahlmann, ability, research4, [[glimpse.gossamer|Gossamer Glimpse]]
-<br>**Start Description:** Before we spoke of our dreams, we painted them, and only in darkness do images endure. The Unwise Mortal knew this. I believe the Watchman does as well. Why else would he cultviate the Tree? Let me share something with you, Librarian. Many histories are painted along the corridors of the Labyrinth of Lions. The most exalted are kept in light, but the most precious are reserved for the dark. Some of them were taken from the skin of the Seven-Coiled when she was opened to the brighter sun. Now imagine what secrets may live in a darkness so close to the Glory. Imagine what we will come to see.'
+<br>**Start Description:** 'Before we spoke of our dreams, we painted them, and only in darkness do images endure. The Unwise Mortal knew this. I believe the Watchman does as well. Why else would he cultviate the Tree? Let me share something with you, Librarian. Many histories are painted along the corridors of the Labyrinth of Lions. The most exalted are kept in light, but the most precious are reserved for the dark. Some of them were taken from the skin of the Seven-Coiled when she was opened to the brighter sun. Now imagine what secrets may live in a darkness so close to the Glory. Imagine what we will come to see.'
 <br>**Research Aspect Description:** \[Dahlmann made use of my answer of sights to unlock a secret door - perhaps made by the Unwise Mortal - and anticipated what secret sights could lie behind it in darkness.]
 <br>**Effect:** x.sights.sensations (x2)
 <br> **Mutation Effect:** dahlmann -> +1 research5
@@ -152,23 +152,23 @@ Once a well-respected curator of a much better-respected library. Now a blind ma
 ### Earning Dahlmann's Respect
 `talk.faculty.success6.dahlmann.void`
 <br>**Requirements:** Talk, dahlmann, ability, research5, [[numen.void|Numen: The Void Between]]
-<br>**Start Description:** Wilwardo's work speaks, even after he has given up his voice. Perhaps this place lying in the Bounds is why the words of his work resonate so deeply, even with secrets of so long ago. I found my sight, and the labyrinths of time are clearer than ever, as are the seasons who walk them. Not all of them will come here, but one is more acquainted with this place than others. If you wish to speak with her, use this. I have my own conversations to attend to.'
+<br>**Start Description:** 'Wilwardo's work speaks, even after he has given up his voice. Perhaps this place lying in the Bounds is why his work resonates so deeply, even with secrets of so long ago. The Mortal's sight has passed into my hollows, and the labyrinths of time are clearer than ever, as are the forgotten seasons who walk them. Not all of them will come here, but one is more acquainted with this place than others. If you wish to speak with her, use this - unwise knowledge from another time. And have this, a trick Cipagauta and I used to keep in touch across continents. Sleep deep, Librarian. Sleep deep.'
 <br>**Description:** \[I assisted Dahlmann in fulfilling his work: acquiring the 'secret sight' of the Unwise Mortal, making the labyrinths of time ever clearer to him.]
-<br>**Effect:** [[remedy.dahlmann|Dahlmann's Remedy]], [[x.summon.camai.quilla|Lesson: Camai Quilla's Plenty]]
+<br>**Effect:** [[remedy.dahlmann|Dahlmann's Remedy]], [[x.summon.camai.quilla|Lesson: Camai Quilla's Plenty]], [[callingcard.dream|Calling Card of Dream]]
 <br> **Mutation Effect:** dahlmann -> +1 grateful
 
 ### Earning Dahlmann's Respect
 `talk.faculty.success6.dahlmann.keys`
 <br>**Requirements:** Talk, dahlmann, ability, research5, [[numen.keys|Numen: Key of Keys]]
-<br>**Start Description:** Ironic for the Mutality's work to coax something out rather than force themselves in. But perversions of intent are rather the point of this place, no? I found my sight, and the labyrinths of dream are clearer than ever. The oldest of these passages have revealed themeslves to me, and it is only right I help reveal them to you as well. Hang this over the dreaming circle, and you'll learn how to do more than see dreams, but to hear them. I have my own voices to listen to.'
-<br>**Description:** \[I assisted Dahlmann in fulfilling his work: acquiring the 'secret sight' of the Unwise Mortal, making the labyrinths of dream ever clearer to him.]
-<br>**Effect:** [[remedy.dahlmann|Dahlmann's Remedy]], [[black.hamsa|Black Hamsa]]
+<br>**Start Description:** 'Ironic for the Mutality's work to coax something out rather than force themselves in. But perversions of intent are rather the point of this place, no? The Mortal's sight has unlocked me, and the labyrinths of dream are clearer than ever. The oldest of these passages has revealed itself, and it is only right I help reveal them to you. Hang this over the dreaming circle - something of those who first dreamed - and you'll learn how to travel dreams not just by sight, but by sound. I have my own voices to listen to, new places to watch. And have this, a trick Cipagauta and I used to keep in touch across continents. Sleep deep, Librarian. Sleep deep.'
+<br>**Description:** \[I assisted Dahlmann in fulfilling his work: acquiring the lost sight of the Unwise Mortal, making the labyrinths of dream ever clearer to him.]
+<br>**Effect:** [[remedy.dahlmann|Dahlmann's Remedy]], [[black.hamsa|Black Hamsa]], [[callingcard.dream|Calling Card of Dream]]
 <br> **Mutation Effect:** dahlmann -> +1 grateful
 
 ### Earning Dahlmann's Respect
 `talk.faculty.success6.dahlmann.stone`
 <br>**Requirements:** Talk, dahlmann, ability, research5, [[numen.stone|Numen: The Traveling Stones]]
-<br>**Start Description:** The Egg and the Sun and the Vagabond all have their stories, and the Horned-Axe has always been there to listen. Every mouth is a threshold after all. I found my sight, and the labyrinths of history are clearer than ever. Whatever is to come of them, the Horned will always stand between, to watch and wait and distinguish each from the next. Hang this at her shrine, and you'll learn a little of the same. I have my own histories to navigate through.'
-<br>**Description:** \[I assisted Dahlmann in fulfilling his work: acquiring the 'secret sight' of the Unwise Mortal, making the labyrinths of history ever clearer to him.] 
-<br>**Effect:** [[remedy.dahlmann|Dahlmann's Remedy]], [[dual.skandola|Dual Skandola]]
+<br>**Start Description:** 'Stories were the first divisions of dreams, to which the Axe has always attended. Every mouth is a threshold, after all, and the Mortal's sight has spoken back. Now the labyrinths of history are clearer than ever. The Horned knows how to distinguish them from Time, to carve out Truth from Mystery. Hang this at her shrine - a memento of her old self the Mortal recounted - and you'll learn a little of the same. I have my own histories to navigate through. And have this, a trick Cipagauta and I used to keep in touch across continents. Sleep deep, Librarian. Sleep deep.'
+<br>**Description:** \[I assisted Dahlmann in fulfilling his work: acquiring the lost sight of the Unwise Mortal, making the labyrinths of history ever clearer to him.] 
+<br>**Effect:** [[remedy.dahlmann|Dahlmann's Remedy]], [[dual.skandola|Dual Skandola]], [[callingcard.dream|Calling Card of Dream]]
 <br> **Mutation Effect:** dahlmann -> +1 grateful

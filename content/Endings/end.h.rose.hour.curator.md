@@ -1,7 +1,18 @@
 ---
 tags: Ending
 ---
+
+**Requirements:**
+- Journal
+- Ability
+- History: Rose
+- [[numen.hour|Numen: Before All Hours]]
+- [[world.tree.paper|Paper Tree]]
+
 ## Nowhere will be Somewhere
-<br>When the gods-from-Nowhere take the path to their old-new home, their journey shall begin at the Haustorium, its halls forever marked with this long-lost knowledge.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
-## Ascent Towards Wisdom
-<br>Nowhere fills the Haustorium with its presence. But this bane is a blessing when Nowhere departs for that old home of Stone. In its withdrawal, echoes wash back like the tide - graves of the anteprimordial, beautiful sights of pre-stone. Climb the world’s spine towards the stars. Here is wisdom worth seeking. \[You have shaped the Histories; set a stone in their foundation; reached a destination; finished the game. The roots of the world run ever deeper. Please accept our congratulations.] <br>**Tarot:** Bateleur
+When the gods-from-Nowhere take the path to their old-new home, their journey shall begin at the Haustorium, its halls forever marked with this long-lost knowledge.
+
+# Ascent Towards Wisdom
+Nowhere fills the Haustorium with its presence. But this bane is a blessing when Nowhere departs for that old home of Stone. In its withdrawal, echoes wash back like the tide - graves of the anteprimordial, beautiful sights of pre-stone. Climb the world’s spine towards the stars. Here is wisdom worth seeking. \[You have shaped the Histories; set a stone in their foundation; reached a destination; finished the game. The roots of the world run ever deeper. Please accept our congratulations.]
+
+**Tarot:** Bateleur

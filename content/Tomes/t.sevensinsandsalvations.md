@@ -13,4 +13,4 @@ Amadea outlines the <i>stigmata ecstases</i>, wounds may open under the auspices
 - #Codex
 - #Readable
 - #Thing
-- Colegio de Santa Potenciana
+- [[wing.colegio|Colegio de Santa Potenciana]]

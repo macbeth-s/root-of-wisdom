@@ -13,4 +13,4 @@ The book likens the Walls of the Mansus to glass which softens light, and exalts
 - #Codex
 - #Readable
 - #Thing
-- Skolex Menagerie
+- [[wing.menagerie|Skolex Menagerie]]

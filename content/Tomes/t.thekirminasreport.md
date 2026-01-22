@@ -5,7 +5,7 @@ An internal report from the Lithuanian iteration of the Duties, the Skyrius Tera
 ## I've Read...
 ‘Worms are inimical to everything but other Worms, even the gods-from-Nowhere, in whose domain they reside. Every Hour seems inclined to work against them, as makers of the Histories the Worms seek to undo, and the gods-from-Nowhere may be best positioned to extirpate them. The Rising Spider, the Hour of dominion, prophecy, and restraint, is especially disdainful of Worms. Entreating its manifestations to assist in the suppression of Worms may be an effective, if unwise, course of action.’
 **Effect:** [Memory: Hindsight](https://uadaf.theevilroot.xyz/rowenarium/element/mem.hindsight) <br> 
-**Mastery:** [Lesson: Meontological Glimpses](https://uadaf.theevilroot.xyz/rowenarium/element/x.meontologicalglimpses) x1
+**Mastery:** Lesson: [[s.meontologicalglimpses|Meontological Glimpses]] x1
 ## Aspects
 - Mystery: Winter 4
 - [Written in ](https://uadaf.theevilroot.xyz/rowenarium/element/w.)
@@ -13,4 +13,4 @@ An internal report from the Lithuanian iteration of the Duties, the Skyrius Tera
 - #Codex
 - #Readable
 - #Thing
-- Skolex Menagerie
+- [[wing.menagerie|Skolex Menagerie]]

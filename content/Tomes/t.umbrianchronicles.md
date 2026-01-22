@@ -13,4 +13,4 @@ LaCroce financed the draining of Lake Fucino, ostensibly for the health of the s
 - #Codex
 - #Readable
 - #Thing
-- Frustum
+- [[wing.frustum|Frustum]]

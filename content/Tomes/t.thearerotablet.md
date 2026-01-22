@@ -13,4 +13,4 @@ Any secrets won from the Roost are not recorded here, but their various natures 
 - #Tablet
 - #Readable
 - #Thing
-- L'ostello del Dottore
+- [[wing.ostello|L'Ostello del Dottore]]

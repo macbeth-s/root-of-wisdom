@@ -8,9 +8,8 @@ The Contentum are praised for raising knowledge from Death, ensuring its persist
 **Mastery:** [Lesson: Edicts Hospitable](https://uadaf.theevilroot.xyz/rowenarium/element/x.edictshospitable) x3
 ## Aspects
 - Mystery: Grail 18
-- [Written in ](https://uadaf.theevilroot.xyz/rowenarium/element/w.)
-- Subject: Edicts Hospitable
+- Subject: [[s.edictshospitable|Edicts Hospitable]]
 - #Codex
 - #Readable
 - #Thing
-- Substructure
+- [[wing.substructure|Substructure]]

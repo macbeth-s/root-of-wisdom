@@ -13,4 +13,4 @@ On the Upper and Lower Dynasties of the Fourfold Realm, of the great rivalry whi
 - #Codex
 - #Readable
 - #Thing
-- Noble Retreat
+- [[wing.retreat|Noble Retreat]]

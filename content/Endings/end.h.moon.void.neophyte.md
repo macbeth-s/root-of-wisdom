@@ -1,7 +1,18 @@
 ---
 tags: Ending
 ---
+
+**Requirements:**
+- Journal
+- Ability
+- History: Moon
+- [[numen.void|Numen: The Void Between]]
+- [[world.tree.paper|Paper Tree]]
+
 ## Safety in the Shadows
-<br>While Nowhere remains unbounded, its reach cannot be escaped. So I will confine it in the Bounds of the shadow of the Mansus. There, it may always follow us, but never again shall its touch torment us.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
-## Darkness Withdraws
-<br>The House of the Moon comes after the world, and the House of the Sun before - and what of the Bounds between? All labyrinths connect somewhere, and in their most stranded reaches, Nowhere will walk them without beginning nor end. The world still turns, as does the Wheel; the shadows of night persist; but in the labyrinths of black glass, darkness consumes us no more. \[You have shaped the Histories; set a stone in their foundation; reached a destination; finished the game. The roots of the world run ever deeper. Please accept our congratulations.] <br>**Tarot:** Justice
+While Nowhere remains unbounded, its reach cannot be escaped. So I will confine it in the Bounds of the shadow of the Mansus. There, it may always follow us, but never again shall its touch torment us.
+
+# Darkness Withdraws
+The House of the Moon comes after the world, and the House of the Sun before - and what of the Bounds between? All labyrinths connect somewhere, and in their most stranded reaches, Nowhere will walk them without beginning nor end. The world still turns, as does the Wheel; the shadows of night persist; but in the labyrinths of black glass, darkness consumes us no more. \[You have shaped the Histories; set a stone in their foundation; reached a destination; finished the game. The roots of the world run ever deeper. Please accept our congratulations.]
+
+**Tarot:** Justice

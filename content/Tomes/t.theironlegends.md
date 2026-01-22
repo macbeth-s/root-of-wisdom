@@ -13,4 +13,4 @@ The dragonslayers crusaded against ‘the serpents of stone’ in the Old World,
 - #Codex
 - #Readable
 - #Thing
-- Skolex Menagerie
+- [[wing.menagerie|Skolex Menagerie]]

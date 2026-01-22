@@ -1,7 +1,18 @@
 ---
 tags: Ending
 ---
+
+**Requirements:**
+- Journal
+- Ability
+- History: Knock
+- [[numen.glor|Numen: Glorious Shadows]]
+- [[world.tree.paper|Paper Tree]]
+
 ## The Law will be Transgressed
-<br>It is said the truth lives in light and lies die in darkness. But what happens when the shadow of death stretches all the way to Glory? In this History, I will learn the answer, and find what I most desire.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
-## Kingdom of Colors
-<br>The colors of Nowhere fester in the shadows of Hours who walk close to Light, and in the sanctified core of the Glory, these shades run all the deeper. From the black Wood, past the Stag Door, all the way to the Tricuspid Gate, this kingdom of colors blooms in every inch of light-limmed darkness. Look into the night; gaze upon their every work. \[You have shaped the Histories; set a stone in their foundation; reached a destination; finished the game. The roots of the world run ever deeper. Please accept our congratulations.] <br>**Tarot:** Hierophant
+It is said the truth lives in light and lies die in darkness. But what happens when the shadow of death stretches all the way to Glory? In this History, I will learn the answer, and find what I most desire.
+
+# Kingdom of Colors
+The colors of Nowhere fester in the shadows of Hours who walk close to Light, and in the sanctified core of the Glory, these shades run all the deeper. From the black Wood, past the Stag Door, all the way to the Tricuspid Gate, this kingdom of colors blooms in every inch of light-limmed darkness. Look into the night; gaze upon their every work. \[You have shaped the Histories; set a stone in their foundation; reached a destination; finished the game. The roots of the world run ever deeper. Please accept our congratulations.]
+
+**Tarot:** Hierophant

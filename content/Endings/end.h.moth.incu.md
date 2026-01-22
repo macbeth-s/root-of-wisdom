@@ -1,7 +1,18 @@
 ---
 tags: Ending
 ---
+
+**Requirements:**
+- Journal
+- Ability
+- History: Moth
+- [[numen.incu|Numen: Incubation]]
+- [[world.tree.paper|Paper Tree]]
+
 ## Safety in the Light
-<br>This History is the culmination of my labors, the fruit of my sacrifice. The Cuckoo’s Egg will bear the Glory into Nowhere, and the darkness beneath dreams will be no more.\[You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain rooted here in the Haustorium.]
-## The Mercy of Light
-<br>Light reveals all it falls across, and only darkness does it destroy. As once the Watchman descended from the Glory, the Cuckoo’s Egg now descends into Nowhere. Dark its shell without, but Light resides within. When the Egg finally hatches, dawn will come to Nowhere; and the night will be no more. \[You have shaped the Histories; set a stone in their foundation; reached a destination; finished the game. The roots of the world run ever deeper. Please accept our congratulations.] <br>**Tarot:** High Priestess
+This History is the culmination of my labors, the fruit of my sacrifice. The Cuckoo’s Egg will bear the Glory into Nowhere, and the darkness beneath dreams will be no more.
+
+# The Mercy of Light
+Light reveals all it falls across, and only darkness does it destroy. As once the Watchman descended from the Glory, the Cuckoo’s Egg now descends into Nowhere. Dark its shell without, but Light resides within. When the Egg finally hatches, dawn will come to Nowhere; and the night will be no more. [You have shaped the Histories; set a stone in their foundation; reached a destination; finished the game. The roots of the world run ever deeper. Please accept our congratulations.]
+
+**Tarot:** High Priestess
