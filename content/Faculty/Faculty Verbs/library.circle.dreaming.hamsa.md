@@ -4,9 +4,7 @@ tags:
   - EvolveviaNyctodromy
 ---
 # Dreaming-Circle
-With proper ritual, one might dream higher. With proper substances, one might dream highest of all. With proper senses, one might dream older. With proper guidance, one might dream of the oldest of all. \[The Dreaming Circle now admits Sky intentions. It also provides Sky aspect.]<br>Location: [[transcendentretreat|Transcendent Retreat]]
-## Aspects
-- Sky 2
+With proper ritual, one might dream higher. With proper substances, one might dream highest of all. With proper senses, one might dream older. With proper guidance, one might dream of the oldest of all. \[The Dreaming Circle now admits Sky intentions. The Path slot now also admits Codex, Scroll, and Phonograph Record Aspects.]<br>Location: [[transcendentretreat|Transcendent Retreat]]
 ## Slots
 ### Soul
 **Essential**: [Ability](https://uadaf.theevilroot.xyz/rowenarium/element/ability)<br>**Required**: Moth, Moon, Rose, Knock, Sky
@@ -17,5 +15,5 @@ With proper ritual, one might dream higher. With proper substances, one might dr
 ### Pilgrim
 **Required**: Ability, Light, Fungus, Spore<br>**Forbidden:** Fatigued
 ### Path
-**Required**: Memory, Light, Mark, Omen<br>**Forbidden:** Fatigued
+**Required**: Memory, Light, Mark, Omen, Codex, Scroll, Phonograph Record<br>**Forbidden:** Fatigued
 

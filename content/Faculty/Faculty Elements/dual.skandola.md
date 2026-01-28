@@ -1,5 +1,8 @@
 # Dual Skandola
 An iron seal attatched to a long chain, inscrubed with various animals: a lion, a scorpion, a wasp, and a serpent decorate one side; the other contains a dove, a turtle, a spider, and an eagle. \[Dahlmann asked you to hang this at the Ingress Shrine.]
+## Aspects
+- #Tool 
+- #Mark
 ## Recipes
 ### Hang the Skandola	
 `upgrade.shrine.ingress.dual.skanolda`

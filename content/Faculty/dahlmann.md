@@ -89,58 +89,58 @@ Once a well-respected curator of a much better-respected library. Now a blind ma
 ### Assisting Dahlmann
 `talk.faculty.success3.dahlmann.chasqui.clarion`
 <br>**Requirements:** Talk, dahlmann, ability, research2, [[chasqui.clarion|Chasqui Clarion]]
-<br>**Start Description:** The gods-who-were-stone navigated the Mansus with echoes. Of course the Unwise Mortal did the same. Many thanks for the assistance. Navigating the world is hard when blind, but navigating dreams is much easier. The Watchman learnt that when opened the Door in his own Eye, as did the victims of the Sight-Thief, and most probably the Pilgrims who follow them. I will not be one of them. My interest ends at the line of mortality, blurry as it appears.'
-<br>**Research Aspect Description:** \[I assisted Dahlmann with recording one of the ways the Unwise Mortal took into the Mansus. In return, he confided in me his disinterest in joining the Vagabond in her Pilgrimage to the Glory.]
+<br>**Start Description:** 'The gods-who-were-stone navigated the Mansus with echoes. Of course the Unwise Mortal did the same. Many thanks for the assistance. Navigating the world is harder when blind, but navigating the darkness becomes easier. It is why I departed from the Labyrinth, to join one of the Lower Limbs of the Watchman's Tree. As for why I ended up here... the Monastery was dark, but not tall; the Grove was tall, but its roots were shallow; but at the Haustorium, haze and height and history are abundant, or so Cipagauta's correspondence implied. Much more for me to navigate here than anywhere else.'
+<br>**Research Aspect Description:** \[I assisted Dahlmann with recording one of the ways the Unwise Mortal took into the Mansus. In return, he confided in me his reasons for seeking the Haustorium, having learned of its qualities from correspondence with Cipagauta.]
 <br>**Effect:** x.skystories
 <br> **Mutation Effect:** dahlmann -> +1 research3
 
 ### Assisting Dahlmann
 `talk.faculty.success3.dahlmann.fuel.velletri`
 <br>**Requirements:** Talk, dahlmann, ability, research2, [[fuel.velletri|Olio Velletri]]
-<br>**Start Description:** Let it never be said that the Dottore is no one of learning. Igniting an old flame with a new fuel... an oddity very much in his purview, Many thanks for the assistance. Navigating the world is hard when blind, but navigating dreams is much easier. The Watchman learnt that when opened the Door in his own Eye, as did the victims of the Sight-Thief, and most probably the Pilgrims who follow them. I will not be one of them. My interest ends at the line of mortality, blurry as it appears.'
-<br>**Research Aspect Description:** \[I assisted Dahlmann with recording one of the ways the Unwise Mortal took into the Mansus. In return, he confided in me his disinterest in joining the Vagabond in her Pilgrimage to the Glory.]
+<br>**Start Description:** 'Let it never be said that the Dottore is no one of learning. Igniting an old flame with a new fuel... an oddity very much in his purview, Many thanks for the assistance. Navigating the world is harder when blind, but navigating the darkness becomes easier. It is why I departed from the Labyrinth, to join one of the Lower Limbs of the Watchman's Tree. As for why I ended up here... the Monastery was dark, but not tall; the Grove was tall, but its roots were shallow; but at the Haustorium, haze and height and history are abundant, or so Cipagauta's correspondence implied. Much more for me to navigate here than anywhere else.'
+<br>**Research Aspect Description:** \[I assisted Dahlmann with recording one of the ways the Unwise Mortal took into the Mansus. In return, he confided in me his reasons for seeking the Haustorium, having learned of its qualities from correspondence with Cipagauta.]
 <br>**Effect:** x.skystories
 <br> **Mutation Effect:** dahlmann -> +1 research3
 
 ### Assisting Dahlmann
 `talk.faculty.failure4.dahlmann`
 <br>**Requirements:** Talk, dahlmann, ability, research3
-<br>**Start Description:** I have found the Unwise Mortal's way, sketched it best I can, but the other end of this passage eludes me still. It should lead to one of the chambers of the upper Mansus, directionally, though directions bend many ways in Dream. Orientation is difficult to keep, though not impossible. Bring me the Obliviates' atlas, or Vögel's work with fulgents, and I can keep myself righted during my survey. Otherwise, the greater methods of the Company Anchorite will suffice [+10].
+<br>**Start Description:** I have found the Unwise Mortal's way, sketched it best I can, but the other end of this passage eludes me still. It should lead to one of the chambers of the upper Mansus, directionally, though directions bend many ways in Dream. Orientation is difficult to keep, though not impossible. Bring me the Obliviates' atlas, or Vögel's work with fulgents, and I can keep myself righted during my survey. Otherwise, the greater methods of the Company Anchorite will suffice \[+10].
 
 ### Assisting Dahlmann
 `talk.faculty.success4.dahlmann.r.anchoritemeditations`
 <br>**Requirements:** Talk, dahlmann, ability, research3, [[s.anchoritemeditations|r.anchoritemeditations]], soph:10
-<br>**Start Description:** I chose to use this wing for this reason. The Company is gone, but their knowledge remains, and these remnants which can uphold me as bones do. What do I hope to find at the other end, you ask? A new sight, as with the Sight-Thief's artificial eye. As she holds it in her hand, as the Watchman holds his lantern, the world reveals itself in new ways, old as the paths are. However this new sight comes to me, I will hold it close... and share what I do see with you, as thanks.'
-<br>**Research Aspect Description:** \[After providing Dahlmann a way to keep himself oriented while traversing the way of the Unwise Mortal, he spoke of his desire to gain 'a new sight' from his studies, as the Sight-Thief has with her artificial eye.]
+<br>**Start Description:** 'I chose to use this wing for this reason. The Company is gone, but their knowledge remains, and these remnants which can uphold me as bones do. What do I hope to find at the other end, you ask? The sight the Unwise Mortal lost at the end of his journey, when he opened his own eye - when the Hour-to-be called Watchman came forth. I will hold it close, look through his eyes as the Sight-Thief does her eye of glass... and share what I find with you, as thanks.'
+<br>**Research Aspect Description:** \[After providing Dahlmann a way to keep himself oriented while traversing the way of the Unwise Mortal, he spoke of his desire to recover the sight the Unwise Mortal gave up at his journey's end, hoping to glimpse new knowledge through the Mortal's eyes.]
 <br>**Effect:** x.sandstories (x2)
 <br> **Mutation Effect:** dahlmann -> +1 research4
 
 ### Assisting Dahlmann
 `talk.faculty.success4.dahlmann.t.theuppermostsecrets`
 <br>**Requirements:** Talk, dahlmann, ability, research3, [[t.theuppermostsecrets|The Uppermost Secrets]]
-<br>**Start Description:** The fulgents know of a lesser crossroads beneath the Concursum, one more stable than other ways of the House. It will serve as my north in dream. What do I hope to find at the other end, you ask? A new sight, as with the Sight-Thief's artificial eye. As she holds it in her hand, as the Watchman holds his lantern, the world reveals itself in new ways, old as the paths are. However this new sight comes to me, I will hold it close... and share what I do see with you, as thanks.'
-<br>**Research Aspect Description:** \[After providing Dahlmann a way to keep himself oriented while traversing the way of the Unwise Mortal, he spoke of his desire to gain 'a new sight' from his studies, as the Sight-Thief has with her artificial eye.]
+<br>**Start Description:** 'The fulgents know of a lesser crossroads beneath the Concursum, one more stable than other ways of the House. It will serve as my north in dream. What do I hope to find at the other end, you ask? The sight the Unwise Mortal lost at the end of his journey, when he opened his own eye - when the Hour-to-be called Watchman came forth. I will hold it close, look through his eyes as the Sight-Thief does her eye of glass... and share what I find with you, as thanks.'
+<br>**Research Aspect Description:** \[After providing Dahlmann a way to keep himself oriented while traversing the way of the Unwise Mortal, he spoke of his desire to recover the sight the Unwise Mortal gave up at his journey's end, hoping to glimpse new knowledge through the Mortal's eyes.]
 <br>**Effect:** x.sandstories (x2)
 <br> **Mutation Effect:** dahlmann -> +1 research4
 
 ### Assisting Dahlmann
 `talk.faculty.success4.dahlmann.a.atlasofdreams`
 <br>**Requirements:** Talk, dahlmann, ability, research3, [[t.atlasofdreams|Atlas of Dreams]]
-<br>**Start Description:** Translating the metaphorical into the practical is difficult, but dreams allow more flexibility. This will suffice to guide me through this bygone way. What do I hope to find at the other end, you ask? A new sight, as with the Sight-Thief's artificial eye. As she holds it in her hand, as the Watchman holds his lantern, the world reveals itself in new ways, old as the paths are. However this new sight comes to me, I will hold it close... and share what I do see with you, as thanks.'
-<br>**Research Aspect Description:** \[After providing Dahlmann a way to keep himself oriented while traversing the way of the Unwise Mortal, he spoke of his desire to gain 'a new sight' from his studies, as the Sight-Thief has with her artificial eye.]
+<br>**Start Description:** 'Translating the metaphorical into the practical is difficult, but dreams allow more flexibility. This will suffice to guide me through this bygone way. What do I hope to find at the other end, you ask? The sight the Unwise Mortal lost at the end of his journey, when he opened his own eye - when the Hour-to-be called Watchman came forth. I will hold it close, look through his eyes as the Sight-Thief does her eye of glass... and share what I find with you, as thanks.'
+<br>**Research Aspect Description:** \[After providing Dahlmann a way to keep himself oriented while traversing the way of the Unwise Mortal, he spoke of his desire to recover the sight the Unwise Mortal gave up at his journey's end, hoping to glimpse new knowledge through the Mortal's eyes.]
 <br>**Effect:** x.sandstories (x2)
 <br> **Mutation Effect:** dahlmann -> +1 research4
 
 ### Assisting Dahlmann
 `talk.faculty.failure5.dahlmann`
 <br>**Requirements:** Talk, dahlmann, ability, research4
-<br>**Start Description:** I emerged at a threshold near the Glory; but not the Tricuspid Gate, nor even the Peacock Door. One of the House's secret doors - perhaps shaped by the Unwise Mortal himself. It is locked by a riddle; not spoken, but observed. I have sketched it best I could for you, yet this riddle requires an answer of rare sights. With your vision, I'm certain you can find this answer more easily than I.'
+<br>**Start Description:** 'I emerged at a threshold near the Glory; but not the Tricuspid Gate, nor even the Peacock Door. One of the House's secret doors - perhaps the one the Unwise Mortal passed into the shadow of the Egg. It is locked by a riddle; not spoken, but observed. I have sketched it best I could for you, yet this riddle requires an answer of rare sights. With your vision, I'm certain you can find this answer more easily than I.'
 
 ### Assisting Dahlmann
 `talk.faculty.success5.dahlmann.gossamerglimpse`
 <br>**Requirements:** Talk, dahlmann, ability, research4, [[glimpse.gossamer|Gossamer Glimpse]]
 <br>**Start Description:** 'Before we spoke of our dreams, we painted them, and only in darkness do images endure. The Unwise Mortal knew this. I believe the Watchman does as well. Why else would he cultviate the Tree? Let me share something with you, Librarian. Many histories are painted along the corridors of the Labyrinth of Lions. The most exalted are kept in light, but the most precious are reserved for the dark. Some of them were taken from the skin of the Seven-Coiled when she was opened to the brighter sun. Now imagine what secrets may live in a darkness so close to the Glory. Imagine what we will come to see.'
-<br>**Research Aspect Description:** \[Dahlmann made use of my answer of sights to unlock a secret door - perhaps made by the Unwise Mortal - and anticipated what secret sights could lie behind it in darkness.]
+<br>**Research Aspect Description:** \[Dahlmann made use of my answer of sights to unlock a secret door, and anticipated what old knowledge may yet lie behind, preserved it in darkness.]
 <br>**Effect:** x.sights.sensations (x2)
 <br> **Mutation Effect:** dahlmann -> +1 research5
 
