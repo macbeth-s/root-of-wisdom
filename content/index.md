@@ -17,4 +17,4 @@ We are always open to feedback on this project. Join the *Cultist Simulator* Dis
 
 _This site, and all content for_ ROOT OF WISDOM, _is an independent, not-for-profit and unofficial fanwork based on_ BOOK OF HOURS _and is not affiliated with Weather Factory Ltd, Secret Histories or any related official content. It is published under Weather Factory’s [Sixth History Community Licence](https://weatherfactory.biz/sixth-history-community-licence/)._
 
-![[sixth-history-logo-text-black-768x545.png]]
+![[sixth-history-logo-text-black-768x545.png|300]]
