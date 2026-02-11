@@ -15,3 +15,5 @@ These esteemed colleagues provided significant feedback, encouragement, and idea
 - Sybil Fasamixolesi (waltzingOphidian)
 ## Visitors & Assistants
 Many other members of the Weather Factory subreddit and Discord server assisted in the process of writing. Their names and contributions are too many to count, but their impact on the project is indelible in many ways both small and large.
+## Art
+Title page art by [Ottus]([https://ottusart.carrd.co/](https://ottusart.carrd.co/ "https://ottusart.carrd.co/"))
