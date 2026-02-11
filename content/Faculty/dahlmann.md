@@ -124,8 +124,8 @@ Once a well-respected curator of a much better-respected library. Now a blind ma
 <br> **Mutation Effect:** dahlmann -> +1 research4
 
 ### Assisting Dahlmann
-`talk.faculty.success4.dahlmann.a.atlasofdreams`
-<br>**Requirements:** Talk, dahlmann, ability, research3, [[a.atlasofdreams]]
+`talk.faculty.success4.dahlmann.t.atlasofdreams`
+<br>**Requirements:** Talk, dahlmann, ability, research3, [[t.atlasofdreams]]
 <br>**Start Description:** Translating the metaphorical into the practical is difficult, but dreams allow more flexibility. This will suffice to guide me through this bygone way. What do I hope to find at the other end, you ask? The sight the Unwise Mortal lost, when he opened his own eye - when the Hour-to-be called Watchman  first came forth.  It can teach how I too may send an Other forth from me, to travel afar while I remain here at the Dottore's insistance. As the Sight-Thief's glass eye still sees what has long passed, I wish for this Other to see more than I ever can.'
 <br>**Description:** \[After providing Dahlmann a way to traverse the way of the Unwise Mortal, he spoke of his desire to gain the sight the Mortal sacrificed to bring forth the Watchman, hoping to learn how to send his 'Other' to travel the world while he remains at the Haustorium.]
 <br>**Effect:** x.sandstories (x2)
