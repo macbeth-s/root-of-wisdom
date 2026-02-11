@@ -3,7 +3,7 @@ tags:
 aliases: 
 ---
 # Ararokái Huguy Ojaba Hikuai
-An amate screenfold manuscript, the words colored similarly to the five <i>encaustum terminale</i>. It has survived the touch of rot, cold, and heat and resisted attempts to tear, dissolve, or bury it. [This book houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]
+An amate screenfold manuscript, the words colored similarly to the five <i>encaustum terminale</i>. It has survived the touch of rot, cold, and heat and resisted attempts to tear, dissolve, or bury it. \[This book houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]
 <br>
 Initial Location: #Hidden
 #### Reveal a Treasure of the Haustorium
