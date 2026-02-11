@@ -13,7 +13,8 @@ Welcome to the Haustorium, a library of the Watchman's Tree hidden away in the F
 
 Give exploration a try, beginning with the [[apachita|Apachita]] that guides the Know to the Haustorium, or [see which librarian you are.](https://macbeth-s.itch.io/root-of-wisdom-opening-scene)<br>
 
-We are always open to feedback on this project. Join the *Cultist Simulator* Discord Server to engage in the conversation, or submit feedback through [this form.](https://forms.gle/GFEZG82CpaXsXLfC9) <br>
+We are always open to feedback on this project. Join the *Cultist Simulator* Discord Server to engage in the conversation. <br>
+![[RootofWisdomMain.png|800]]
 
 _This site, and all content for_ ROOT OF WISDOM, _is an independent, not-for-profit and unofficial fanwork based on_ BOOK OF HOURS _and is not affiliated with Weather Factory Ltd, Secret Histories or any related official content. It is published under Weather Factory’s [Sixth History Community Licence](https://weatherfactory.biz/sixth-history-community-licence/)._
 
