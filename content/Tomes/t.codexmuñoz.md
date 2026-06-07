@@ -17,3 +17,10 @@ The author fears the absence of the Owl Warriors, insistent that their role must
 - #Readable
 - #Thing
 - [[wing.cathedral|Unmade Cathedral]]
+## Recipes
+#### 'This codex -'
+`talk.visitor.intercept.emilia.codexmuñoz`
+**Requirements:** [[emilia|Ms Emilia Muñoz]], t.codexmuñoz<br>
+**Start Description:** 'I delivered this here to fulfill my father's will: to pass on his collection... and to meet the Dottore. I don't have much left of my father. Nothing safe. But this looks safe enough. Let me buy it back from you. Will a gold spintria do?' \[Emilia will take the book and depart, forgetting about any current Incident.]<br>
+**Description:** 'Give my regards to my un-godfather. For bringing you here to let me take this back. Stay alive, Librarian.'<br>
+**Effects:** [spintria.gold](https://uadaf.theevilroot.xyz/rowenarium/element/spintria.gold), -1 t.codexmuñoz<br>

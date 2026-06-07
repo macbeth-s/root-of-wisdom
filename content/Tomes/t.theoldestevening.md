@@ -13,3 +13,10 @@ Dr Yukie Chiri examines dreams experienced in the Amazonia wilderness by residen
 - #Readable
 - #Thing
 - [[wing.substructure|Substructure]]
+## Recipes
+#### 'I suppose this belongs -'
+`talk.visitor.intercept.yukie.theoldestevening`
+**Requirements:** [[yukie|Dr Yukie Chiri]], t.theoldestevening<br>
+**Start Description:** 'The Carapace Cross are one of those forbidden topics, no? I received a stern reprimand over this when it was pulled from circulation. But I suppose the Dottore pulled a few strings to receive it. He wouldn't mind me looking through it, would he?' \[Yukie will examine the book and return it to you. She won't leave until her other business is concluded.]<br>
+**Description:** 'The Cross have always fascinated me. The Hours forced them out of the world, and even so, they found ways to endure, in flesh and spirit alike. I'm of the belief that no culture can truly die, merely that it changes shape, and none would know hybridity better than the Cross.'<br>
+**Effects:** [x.pentiments.precursors](https://uadaf.theevilroot.xyz/rowenarium/element/x.pentiments.precursors)<br>

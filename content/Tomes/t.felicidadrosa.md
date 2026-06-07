@@ -16,3 +16,10 @@ Esquivel never revealed who he performed this with, but faint woody creaks and g
 - #Readable
 - #Thing
 - [[wing.substructure|Substructure]]
+## Recipes
+#### 'Quite the novelty -'
+`talk.visitor.intercept.enrique.felicidadrosa`
+**Requirements:** [[enrique|Lic. Enrique Esquivel]], t.felicidadrosa<br>
+**Start Description:** 'The Duties tried destroying all recordings back then. It only makes sense for one to survive here. I still have the music, but I haven't been able to find a suitable partner to perform it with. Would you mind if I bought this from you? For a silver spintria, and a little secret of the song?' \[Enrique will take the record and depart, forgetting about any current Incident.]<br>
+**Description:** 'I composed one half of the piece, but the other I transcribed from a tune I heard in the Temple of the Wheel. At least, I think I heard it there. And that place has always been special to the Dead. Only right for one of them to play it. Thanks for the opportunity to reminisce, Librarian!'<br>
+**Effects:** [spintria.silver](https://uadaf.theevilroot.xyz/rowenarium/element/spintria.silver), Lesson: [[s.sylvanstories|Sylvan Stories]], -1 t.felicidadrosa<br>

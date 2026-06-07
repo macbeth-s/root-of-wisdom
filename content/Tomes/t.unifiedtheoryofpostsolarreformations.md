@@ -16,3 +16,10 @@ Among the defeated princes of the Fourfold Realm, the Sun's division was no grea
 - #Readable
 - #Thing
 - [[wing.archive|Watchman's Archive]]
+## Recipes
+#### 'Did you find it enlightening?'
+`talk.visitor.intercept.delilah.unifiedtheoryofpostsolarreformations`
+**Requirements:** [[delilah|Dr Delilah Molotla]], t.unifiedtheoryofpostsolarreformations<br>
+**Start Description:** 'I'm always tempted to write a new edition with all I've learned, to bring it to perfection. But I understand the price often paid by those who pursue perfection. Let me take a look, and I can discuss a few ideas.' \[Delilah will examine the book and return it to you. She won't leave until her other business is concluded.]<br>
+**Description:** 'Is it strange that the Church abjured the faiths of the Fourfold and the Triple Alliance? Each held the Sun as the highmost, the unconquered, the sovereign, and strove to embody his qualities. But the latter acknowledged older powers, older Suns. The Invictines tried destroying all traces of the ages before to preserve their doctrine, to ensure the Sun's immutability. Then the Intercalate sundered all their efforts.'<br>
+**Effects:** [x.auroralcontemplations](https://uadaf.theevilroot.xyz/rowenarium/element/x.auroralcontemplations), [bittersweet.certainty](https://uadaf.theevilroot.xyz/rowenarium/element/bittersweet.certainty)<br>

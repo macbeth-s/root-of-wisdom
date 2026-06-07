@@ -16,3 +16,10 @@ Obliquely described is the Vitulation, a ceremonial feast by which a Grail-long 
 - #Readable
 - #Thing
 - [[wing.retreat|Noble Retreat]]
+## Recipes
+#### 'This old thing -'
+`talk.visitor.intercept.yuan.recipesfromthegroveofimmortality`
+**Requirements:** [[yuan|Prof. Ji Yuan]], t.recipesfromthegroveofimmortality<br>
+**Start Description:** 'Well, not old exactly, but not *old*. Honestly, the memories of my time there are rather hazy. Would you mind if I read through, make sure nothing important is missing up here?' \[Yuan will examine the book and return it to you. They won't leave until their other business is concluded.]<br>
+**Description:** 'The songs which filled the air. Not only those of the Singlefoots, but sung by the Green Sages too. Beautiful, tempting melodies - so tempting I used a little hushery to block them from my mind. They aren't strong anymore, but they still have a little delight. Let me hum a little of what I recall...'<br>
+**Effects:** [x.applebrighteuphonies](https://uadaf.theevilroot.xyz/rowenarium/element/x.applebrighteuphonies), [music.beguiling](https://uadaf.theevilroot.xyz/rowenarium/element/music.beguiling)<br>

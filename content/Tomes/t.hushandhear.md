@@ -16,3 +16,10 @@ The Giribrago, the Snow, and the Blackbone appeared after the Seven-Coils, the F
 - #Readable
 - #Thing
 - [[wing.frustum|Frustum]]
+## Recipes
+#### 'Dangerous, that one -'
+`talk.visitor.intercept.libreng.hushandhear`
+**Requirements:** [[libreng|Libreng Ibon]], t.hushandhear<br>
+**Start Description:** 'The three cast down, yet rarely spoken of. For good reason, mostly, but some things demand to be written of. If you let me skim it, I could explain the more circumspect passages.' \[Libreng will examine the book and return it to you. He won't leave until his other business is concluded.]<br>
+**Description:** 'The gravedigger of La Espinada, she relayed an obscure tradition to me, of this site serving as a catacomb long before the first humans reached its summit. And you know as well as I how the Dead nurture those who grow above them. Remember that, when you stand beneath the tree, more than your voice will be heard.'<br>
+**Effects:** Lesson: [[s.meontologicalglimpses|Meontological Glimpses]], [wormwood.dream](https://uadaf.theevilroot.xyz/rowenarium/element/wormwood.dream)<br>

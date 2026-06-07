@@ -16,3 +16,10 @@ Westergren’s daughter, Galmier’s lover, the mortals whose names will be lost
 - #Readable
 - #Thing
 - [[wing.archive|Watchman's Archive]]
+## Recipes
+#### 'Interesting -'
+`talk.visitor.intercept.libreng.theotherimmortality`
+**Requirements:** [[libreng|Libreng Ibon]], t.theotherimmortality<br>
+**Start Description:** 'I wouldn't expect something so sentimental here... but the Haustorium has always favored speaking of the Dead. If you could, may I take a moment to reminisce?' \[Libreng will examine the book and return it to you. He won't leave until his other business is concluded.]<br>
+**Description:** 'Yes, there are mortals I remember as well. Many of them. And not even a century into immortality have these memories started to fade. Even so, I clutch them tight, even as they fade in eternity's light. Sometimes I wonder whether I was taken beneath the wrong Hour's wing... ah, forgive my rambling. Let me make it up to you with a lesson.'<br>
+**Effects:** [x.inks.power](https://uadaf.theevilroot.xyz/rowenarium/element/x.inks.power)<br>

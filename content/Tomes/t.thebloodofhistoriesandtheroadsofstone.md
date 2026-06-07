@@ -16,3 +16,10 @@ As with lives and days, roads are only complete when they end. So History is a r
 - #Readable
 - #Thing
 - [[wing.frustum|Frustum]]
+## Recipes
+#### 'A rather unwise work of mine -'
+`talk.visitor.intercept.libreng.thebloodofhistoriesandtheroadsofstone`
+**Requirements:** [[libreng|Libreng Ibon]], t.thebloodofhistoriesandtheroadsofstone<br>
+**Start Description:** 'The Great Inks are not to be spoken of lightly, and here I write so blithely of their origins. Could I see it? Not for revisions, simply to remind myself.' \[Libreng will examine the book and return it to you. He won't leave until his other business is concluded.]<br>
+**Description:** 'Five fallen gods-from-stone, five major Histories. It almost seems logical, until one wonders why the Sun's death seemed to cause no History at all. Perhaps he stood too close to Eternity for one to survive. Yet we find his blood upon the Histories. This is a matter for me to ask and for you to ponder.'<br>
+**Effects:** [x.inks.containment](https://uadaf.theevilroot.xyz/rowenarium/element/x.inks.containment), [occult.scrap](https://uadaf.theevilroot.xyz/rowenarium/element/occult.scrap)<br>

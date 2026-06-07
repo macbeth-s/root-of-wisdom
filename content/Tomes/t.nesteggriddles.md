@@ -16,3 +16,10 @@ The eggs were laid before the nest was built, and so the roots of the Watchman's
 - #Readable
 - #Thing
 - [[wing.frustum|Frustum]]
+## Recipes
+#### 'Very cryptic, I know -'
+`talk.visitor.intercept.libreng.nesteggriddles`
+**Requirements:** [[libreng|Libreng Ibon]], t.nesteggriddles<br>
+**Start Description:** 'But that's the manner when it comes to speaking of that particular Law. Even so, I am concerned of anyone here digging further. Could I propose a book exchange? This volume for two more I was bringing to Crossrow? They should fit in the Dottore's Ostello and be far less dangerous.' \[Libreng will take 'Riddles' and give you two books for the L'Ostello collection. He won't leave until his other business is concluded.]<br>
+**Description:** 'Come up to Crossrow, and we'll have a more thorough discussion on this. But for now, have these.'<br>
+**Effects:** -1 t.nesteggriddles, 2 Books from Deck<br>

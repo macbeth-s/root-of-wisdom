@@ -16,3 +16,10 @@ A blooming flower longs to bear the fruit by which it spreads seeds, but the bea
 - #Readable
 - #Thing
 - [[wing.ostello|L'ostello del Dottore]]
+## Recipes
+#### 'Has it helped?'
+`talk.visitor.intercept.libreng.eternitytheuprooting`
+**Requirements:** [[libreng|Libreng Ibon]], t.eternitytheuprooting<br>
+**Start Description:** 'It always begins in the roots, and nowhere else do History's roots run so deeply. Would you let me look over this history of mine?' \[Libreng will examine the book and return it to you. He won't leave until his other business is concluded.]<br>
+**Description:** 'I do not believe that Eternity and History are as truly opposed as they appear, nor that they should be pitted against each other. After all, in the absence of opposites, there is only stagnation. And I cannot believe anyone, not even the gods-from-Nowhere, would ever tolerate a stagnant world.'<br>
+**Effects:** [x.inks.revelation](https://uadaf.theevilroot.xyz/rowenarium/element/x.inks.revelation), [curious.hunch](https://uadaf.theevilroot.xyz/rowenarium/element/curious.hunch)<br>

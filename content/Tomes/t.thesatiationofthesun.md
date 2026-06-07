@@ -17,3 +17,9 @@ The final section addresses the Church of the Unconquered Sun, which Molotla arg
 - #Readable
 - #Thing
 - [[wing.archive|Watchman's Archive]]
+## Recipes
+#### 'A forceful read -' 
+`talk.visitor.intercept.delilah.thesatiationofthesun` **Requirements:** [[delilah|Dr Delilah Molotla]], t.thesatiationsofthesun<br> 
+**Start Description:** 'Yes, the foreword is crude, but anything with blood gets people heated. I'm no exception. Would you mind if I looked at it?' \[Delilah will examine the book and return it to you. She won't leave until her other business is concluded.]<br>
+**Description:** 'Blood is always significant to the Sun, no matter the age, but always in different ways. I doubt the Splendorous One demanded it as zealously as his worshippers do, but I think he valued the propagation of blood - or rather, his own bloodline. Not with the Forge, of course, but many noble families claim to be descended from the Sun, and all of them can't be liars.'<br>
+**Effects:** [x.surgeries.exsanguinations](https://uadaf.theevilroot.xyz/rowenarium/element/x.surgeries.exsanguinations), [[enthusiastic.sacrifice|Enthusiastic Sacrifice]]<br>

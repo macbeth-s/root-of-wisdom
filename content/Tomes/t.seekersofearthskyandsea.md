@@ -13,3 +13,10 @@ Tuponotanga bound the intrusion in ‘a spire-spine’ to prevent more drastic i
 - #Readable
 - #Thing
 - [[wing.ostello|L'Ostello del Dottore]]
+## Recipes
+#### 'Harrowing, that -'
+`talk.visitor.intercept.tuponotanga.seekersofearthskyandsea`
+**Requirements:** [[tuponotanga|Capt Tuponotanga]], t.seekersofearthskyandsea<br>
+**Start Description:** 'Natural that it would end up here. The Haustorium has always been special to the Wayfinders. Would you let me read it? I remember writing of Mount Pelée, and of its instigators...' \[Tuponotanga will examine the book and return it to you. He won't leave until his other business is concluded.]<br>
+**Description:** 'Where the Wound mars the world's skin, other seas, below the world and beyond the wave, tend to leak into our own... though I must confess, I would rather face Nowhere's emissaries than those of the amber city. The Hours beneath us can be predictable. Renegades beyond us are not.'<br>
+**Effects:** [x.seastories](https://uadaf.theevilroot.xyz/rowenarium/element/x.seastories)<br>
